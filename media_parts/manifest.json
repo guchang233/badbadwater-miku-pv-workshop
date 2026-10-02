@@ -1,0 +1,168 @@
+[
+  {
+    "target": "deliverables/videos/我的悲伤是水做的_MIKU_高清修正版.mp4",
+    "bytes": 14386390,
+    "sha256": "3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b",
+    "parts": [
+      {
+        "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0000.part",
+        "bytes": 8388608,
+        "sha256": "afd945a3d455c7c54b7bb19ea3ec58e3242ec27b88320f20952882dc1fa70ac3"
+      },
+      {
+        "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0001.part",
+        "bytes": 5997782,
+        "sha256": "b7e99f700eea59605008c19f609cd03b7bb42e82f21e865713404e4a925ed97c"
+      }
+    ]
+  },
+  {
+    "target": "deliverables/videos/我的悲伤是水做的_高清原版与修正版对照.mp4",
+    "bytes": 9855280,
+    "sha256": "0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc",
+    "parts": [
+      {
+        "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0000.part",
+        "bytes": 8388608,
+        "sha256": "3586ba40e65229c561e6bdbf93be50d70363f29f9770386d85682b8661a19838"
+      },
+      {
+        "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0001.part",
+        "bytes": 1466672,
+        "sha256": "f88a81776e0d22f1fdd9e6e4f56fa078dd52f15514cbab5bf1951a28817743ea"
+      }
+    ]
+  },
+  {
+    "target": "project/output_hd/我的悲伤是水做的_MIKU_高清重制.mp4",
+    "bytes": 14296856,
+    "sha256": "d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111",
+    "parts": [
+      {
+        "path": "media_parts/d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111/0000.part",
+        "bytes": 8388608,
+        "sha256": "0f4534474fa22af67afadea952e043cab290a0a7f94532e33856123c1a141d99"
+      },
+      {
+        "path": "media_parts/d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111/0001.part",
+        "bytes": 5908248,
+        "sha256": "95d5b5f7fa986c0ceb8b621095b0f16fda1ba479ebf3f35af436ce1b0db53a5c"
+      }
+    ]
+  },
+  {
+    "target": "project/output_repair/我的悲伤是水做的_MIKU_高清修正版.mp4",
+    "bytes": 14386390,
+    "sha256": "3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b",
+    "parts": [
+      {
+        "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0000.part",
+        "bytes": 8388608,
+        "sha256": "afd945a3d455c7c54b7bb19ea3ec58e3242ec27b88320f20952882dc1fa70ac3"
+      },
+      {
+        "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0001.part",
+        "bytes": 5997782,
+        "sha256": "b7e99f700eea59605008c19f609cd03b7bb42e82f21e865713404e4a925ed97c"
+      }
+    ]
+  },
+  {
+    "target": "project/output_repair/我的悲伤是水做的_高清原版与修正版对照.mp4",
+    "bytes": 9855280,
+    "sha256": "0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc",
+    "parts": [
+      {
+        "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0000.part",
+        "bytes": 8388608,
+        "sha256": "3586ba40e65229c561e6bdbf93be50d70363f29f9770386d85682b8661a19838"
+      },
+      {
+        "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0001.part",
+        "bytes": 1466672,
+        "sha256": "f88a81776e0d22f1fdd9e6e4f56fa078dd52f15514cbab5bf1951a28817743ea"
+      }
+    ]
+  },
+  {
+    "target": "project/upload/175348148-1-208.mp4",
+    "bytes": 8917466,
+    "sha256": "10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119",
+    "parts": [
+      {
+        "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0000.part",
+        "bytes": 8388608,
+        "sha256": "fbd1aeeef068ebc0b484249d5c644be946b1314762b2d575c27141799215816d"
+      },
+      {
+        "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0001.part",
+        "bytes": 528858,
+        "sha256": "b15281b3fdc000aeda780d6baa8689c19b930f8c2dec79f87801bb78d7271729"
+      }
+    ]
+  },
+  {
+    "target": "sources/175348148-1-208.mp4",
+    "bytes": 8917466,
+    "sha256": "10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119",
+    "parts": [
+      {
+        "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0000.part",
+        "bytes": 8388608,
+        "sha256": "fbd1aeeef068ebc0b484249d5c644be946b1314762b2d575c27141799215816d"
+      },
+      {
+        "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0001.part",
+        "bytes": 528858,
+        "sha256": "b15281b3fdc000aeda780d6baa8689c19b930f8c2dec79f87801bb78d7271729"
+      }
+    ]
+  },
+  {
+    "target": "sources/【伴奏】03.我的悲伤是水做的+mmo.wav",
+    "bytes": 65722218,
+    "sha256": "4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b",
+    "parts": [
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0000.part",
+        "bytes": 8388608,
+        "sha256": "4e5ad403cb26fb7bd44039eaf47e576c7d918b9f3c3486e1a72ba902b692a099"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0001.part",
+        "bytes": 8388608,
+        "sha256": "fdb03fdf7950daabec4ad47aecb3f1fbe8daeee8450988d582977f2a6585bda2"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0002.part",
+        "bytes": 8388608,
+        "sha256": "30f6620e7d4a97d86227e4eec00d899b4e6002a6d843795621312bde6708c257"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0003.part",
+        "bytes": 8388608,
+        "sha256": "1ff0d439cbb147709d6cbe07fe1ce366172f1fd5ce7ac312899b20cd23e827e6"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0004.part",
+        "bytes": 8388608,
+        "sha256": "58e0e01d673f0638f819d99400fb67234f9ace09bab8ab1c9438c55097982e95"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0005.part",
+        "bytes": 8388608,
+        "sha256": "cbdc17e0509403578416e7718bb613c8f59405278d00d30d4e404b8357bc5a6f"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0006.part",
+        "bytes": 8388608,
+        "sha256": "90db9db58d98ce97be4258ffd4af65709016045f94d8f025de6156559469fe41"
+      },
+      {
+        "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0007.part",
+        "bytes": 7001962,
+        "sha256": "0b7bd54cb5663b8da07822adfaca3a9c52170e8b0472dbb4395a57245abc7e3b"
+      }
+    ]
+  }
+]

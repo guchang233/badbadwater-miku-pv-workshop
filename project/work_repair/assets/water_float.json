@@ -1,0 +1,20 @@
+{
+  "name": "water_float",
+  "prompt": "Use case: precise-object-edit. Asset type: corrected full-canvas hand-drawn PV cel. Image 1 is the EDIT TARGET, existing Hatsune Miku floating scene. Image 2 is original HD source, authoritative exact head/body/neck pose and which parts are exposed above water. Correct ONLY the head, face and nearby hair of Image 1. The face and entire crown/bangs are ABOVE WATER, visibly opaque WHITE SKIN and fully flat muted TURQUOISE HAIR with navy pencil linework; no grey water veil or transparent holes on the face or bangs. TWO long teal twin tails fan leftward and rest ON the surface, with only the lower loose ends slightly water tinted. Face points to upper-right, same weary expression and precise original head tilt. Match source white exposed head/neck treatment while preserving Miku identity and navy/pink bands. Keep everything else exactly fixed: full 16:9 framing, character location/scale, torso, arms, hands, legs, clothing, shorts, water background, pier, text and logo. No new objects, no altered gesture, no body shift, no added waves over the head, no white-haired fringe left, no textures or glossy rendering. One complete film cel.",
+  "refs": [
+    "work_hd/assets/water_float.png",
+    "work_hd/refs/frame_01630.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-8e815edf-9f1b-4bf5-b564-e99f30616282.png",
+  "status": "accepted",
+  "review": "Compared with authoritative HD source and final composited still; boundaries reviewed separately.",
+  "job_id": null,
+  "job_id_note": "The built-in image generation tool did not expose a separate job identifier.",
+  "adopted_file": "work_repair/assets/water_float.png",
+  "adopted_exposures": [
+    {
+      "start": 1574,
+      "end": 1710
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+交接准备验证环境（不是强制锁定）：
+Python 3.12.14
+numpy 2.3.5
+scipy 1.17.0
+Pillow 12.3.0
+
+本机需要ffmpeg、ffprobe，并且ffmpeg有libx264和drawtext。
+Python依赖在requirements.txt中，不包含生图API依赖；现有素材可直接本地合成。

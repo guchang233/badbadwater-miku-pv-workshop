@@ -1,0 +1,22 @@
+{
+  "scope": "All recovered work before the Huagu duo project; Huagu project excluded.",
+  "source_handoff_archive_sha256": "37716daab76d4edc6caa89e71a9a9ee4c6e574b21076f76fa22fd73af6d177e4",
+  "project_unpacked": true,
+  "artwork_and_compositing_logic_changed": false,
+  "font_paths_patched": [
+    "project/work_hd/build_comparison.py",
+    "project/work_repair/build_comparison.py"
+  ],
+  "nested_project_archive_omitted": "Its complete contents are in project/; no second unpack step required.",
+  "directory_mapping": {
+    "00_docs": "docs/history",
+    "01_sources": "sources",
+    "02_videos": "deliverables/videos",
+    "03_refs": "references/feedback",
+    "04_project/*.zip": "project/ (expanded)",
+    "05_skills/provided_skill": "tools/pv-character-replacement",
+    "05_skills/resources": "resources",
+    "06_cover": "cover",
+    "07_historical_images": "assets/history"
+  }
+}

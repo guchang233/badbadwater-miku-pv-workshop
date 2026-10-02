@@ -1,0 +1,36 @@
+{
+  "name": "pier_back_b",
+  "prompt": "Use case: identity-preserve. Complete 16:9 hand-drawn PV cel, missing alternate rear-view pose. Image 1 is the authoritative HD EDIT TARGET: preserve EXACT current body/head position, slight head tilt toward screen LEFT, tiny ear visible on LEFT, hood fold shape, rear torso, sleeves, hands gripping rail, feet, scale/crop, background, birds and rail. Image 2 is the existing Miku rear-view ALTERNATE pose and is ONLY identity/style/hair-length continuity reference; do NOT copy its right-tilted head or hood folds. Replace original white-haired protagonist in Image 1 with Hatsune Miku. All head hair fully muted turquoise, two long filled turquoise twin tails high attached by small navy/pink bands, falling on the two sides of the rear white raincoat to around the rail/hip. Match Image 2 flat muted teal colour and sparse thin irregular navy pencil lines. Preserve Image 1 head tilt/ear LEFT, current hood and shoulder outlines and sleeve folds; this is a distinct cel, not a mirrored/copied pose. Both tails stay behind shoulders/sleeves/hands and in front of background, with the rail foreground where it crosses lower tails. Keep precise hand/rail contact and original body dimensions. No white-haired original silhouette, no missing fill, no texture, no extra objects, no new text, no recenter/zoom/crop. One full film cel registered to the source canvas.",
+  "refs": [
+    "work_repair/refs/source_02006.png",
+    "work_hd/assets/pier_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-289955f8-27bf-45cd-9896-5f5ac9f5f2cc.png",
+  "status": "accepted",
+  "review": "Compared with authoritative HD source and final composited still; boundaries reviewed separately.",
+  "adopted_exposures": [
+    {
+      "name": "pier_back_b",
+      "start": 2006,
+      "end": 2024
+    },
+    {
+      "name": "pier_back_b",
+      "start": 2039,
+      "end": 2057
+    },
+    {
+      "name": "pier_back_b",
+      "start": 2075,
+      "end": 2093
+    },
+    {
+      "name": "pier_back_b",
+      "start": 2108,
+      "end": 2177
+    }
+  ],
+  "job_id": null,
+  "job_id_note": "The built-in image generation tool did not expose a separate job identifier.",
+  "adopted_file": "work_repair/assets/pier_back_b.png"
+}

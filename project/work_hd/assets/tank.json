@@ -1,0 +1,26 @@
+{
+  "name": "tank",
+  "start": 2678,
+  "end": 2812,
+  "idx": 2740,
+  "roi": [
+    540,
+    0,
+    1440,
+    900
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The protagonist sits at a table in the central-right portion, wearing WHITE SHORT-SLEEVE T-SHIRT. Head tilted, screen-left hand cups cheek while other forearm rests across table. Preserve exact elbow, wrist, palm and fingers; expression tired with OPEN eyes and gaze toward the glass tank at right. Twin tails fall behind her shoulders. Preserve the original transparent rectangular tank, its border and every object inside; do not invent fish or alter glass edges.",
+  "refs": [
+    "work_hd/refs/frame_02740.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-47d72e95-375f-47bc-92f2-fe08556d135c.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 2678,
+      "end": 2812
+    }
+  ]
+}

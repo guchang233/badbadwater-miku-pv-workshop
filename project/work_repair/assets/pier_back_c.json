@@ -1,0 +1,26 @@
+{
+  "name": "pier_back_c",
+  "prompt": "Use case: identity-preserve. Complete hand-drawn PV cel, third rear-view pose in a 3-pose sequence. Image 1 is authoritative HD EDIT TARGET for this exact pose: torso leans screen LEFT, rear hood has a flatter horizontal upper collar and one curved fold, head has LEFT visible ear, left arm is angled differently. Preserve exact body/head location, tilt, hood folds, sleeve outlines, hands gripping rail, legs/boots, camera/framing, background and pigeons. Image 2 is existing Miku neighbouring rear cel, identity/style/hair-length reference ONLY. Do NOT copy its vertical torso or polygonal hood. Replace the original white-haired protagonist in Image 1 with Hatsune Miku: fully filled muted turquoise head hair and TWO long same-length turquoise twin tails, high attachments with navy/pink bands. Thin navy pencil linework and flat untextured raincoat white and turquoise. Tails fall behind sleeves and hands along both sides of the coat to around the rail/hips, consistent in length/volume with Image 2 but respond to the current body tilt. No original white-haired silhouette remains. Preserve all non-character elements, all exact supporting points, no recenter/crop, no invented face, no copied/mirrored pose, no added marks/text, no gloss or gradients. Return one full 16:9 cel registered to source.",
+  "refs": [
+    "work_repair/refs/source_02024.png",
+    "work_repair/assets/pier_back_b.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-dea593b1-b2cf-46e5-9d00-926c4e2136c8.png",
+  "status": "accepted",
+  "review": "Compared with authoritative HD source and final composited still; boundaries reviewed separately.",
+  "adopted_exposures": [
+    {
+      "name": "pier_back_c",
+      "start": 2024,
+      "end": 2039
+    },
+    {
+      "name": "pier_back_c",
+      "start": 2093,
+      "end": 2108
+    }
+  ],
+  "job_id": null,
+  "job_id_note": "The built-in image generation tool did not expose a separate job identifier.",
+  "adopted_file": "work_repair/assets/pier_back_c.png"
+}

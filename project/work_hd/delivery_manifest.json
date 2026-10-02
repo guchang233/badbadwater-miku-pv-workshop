@@ -1,0 +1,189 @@
+{
+  "source": "upload/175348148-1-208.mp4",
+  "selected_cels": 32,
+  "assets": [
+    "anchor_crouch",
+    "bed_sleep",
+    "bicycle",
+    "bike_crouch",
+    "bike_sit",
+    "bowl_head",
+    "bowl_hold",
+    "crouch_back",
+    "fishing",
+    "hood_ball",
+    "hood_side",
+    "hug_knees",
+    "hug_knees_closed",
+    "pier_back",
+    "pole_sit",
+    "pole_stand",
+    "ribbon",
+    "sofa_lie",
+    "sofa_sit",
+    "stand_back",
+    "stand_threequarter",
+    "table_awake",
+    "table_sleep",
+    "tank",
+    "trumpet_crouch",
+    "trumpet_sit",
+    "water_birds",
+    "water_float",
+    "water_portrait",
+    "wind_front",
+    "wind_profile",
+    "window_back"
+  ],
+  "all_cels_newly_generated_from_HD": true,
+  "generation_calls": 34,
+  "rendered_canvas": [
+    1920,
+    1080
+  ],
+  "generated_cel_dimensions": [
+    1672,
+    941
+  ],
+  "exposure": "source holds and authored dissolves",
+  "audio": "source original singer; no Miku vocal resynthesis",
+  "real_time_player_review": false,
+  "generated_cel_sizes_actual": {
+    "anchor_crouch": [
+      1672,
+      941
+    ],
+    "bed_sleep": [
+      1672,
+      941
+    ],
+    "bicycle": [
+      1672,
+      941
+    ],
+    "bike_crouch": [
+      1672,
+      941
+    ],
+    "bike_sit": [
+      1672,
+      941
+    ],
+    "bowl_head": [
+      1672,
+      941
+    ],
+    "bowl_hold": [
+      1672,
+      941
+    ],
+    "crouch_back": [
+      1672,
+      941
+    ],
+    "fishing": [
+      1672,
+      941
+    ],
+    "hood_ball": [
+      1672,
+      941
+    ],
+    "hood_side": [
+      1672,
+      941
+    ],
+    "hug_knees": [
+      1672,
+      941
+    ],
+    "hug_knees_closed": [
+      1672,
+      941
+    ],
+    "pier_back": [
+      1672,
+      941
+    ],
+    "pole_sit": [
+      1672,
+      941
+    ],
+    "pole_stand": [
+      1672,
+      941
+    ],
+    "ribbon": [
+      1672,
+      941
+    ],
+    "sofa_lie": [
+      1672,
+      941
+    ],
+    "sofa_sit": [
+      1672,
+      941
+    ],
+    "stand_back": [
+      1672,
+      941
+    ],
+    "stand_threequarter": [
+      1672,
+      941
+    ],
+    "table_awake": [
+      1672,
+      941
+    ],
+    "table_sleep": [
+      1672,
+      941
+    ],
+    "tank": [
+      1672,
+      941
+    ],
+    "trumpet_crouch": [
+      1672,
+      941
+    ],
+    "trumpet_sit": [
+      1672,
+      941
+    ],
+    "water_birds": [
+      1672,
+      941
+    ],
+    "water_float": [
+      1672,
+      941
+    ],
+    "water_portrait": [
+      1672,
+      941
+    ],
+    "wind_front": [
+      1672,
+      941
+    ],
+    "wind_profile": [
+      1672,
+      941
+    ],
+    "window_back": [
+      1672,
+      941
+    ]
+  },
+  "portrait_lyric_residual_fix": true,
+  "white_effect_isolated_from_source_hair": true,
+  "complete_decode": "passed",
+  "audio_bitstream_identical": true,
+  "encoded_review_samples": 83,
+  "reviewed_key_boundaries": true,
+  "validation_report": "validation.json",
+  "final_main_sha256": "d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111"
+}

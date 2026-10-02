@@ -1,0 +1,43 @@
+{
+  "frames": 5422,
+  "recomposited_frames": 1704,
+  "ranges": [
+    [
+      342,
+      762
+    ],
+    [
+      898,
+      1038
+    ],
+    [
+      1574,
+      1710
+    ],
+    [
+      1982,
+      2177
+    ],
+    [
+      2266,
+      2405
+    ],
+    [
+      2544,
+      2678
+    ],
+    [
+      4184,
+      4456
+    ],
+    [
+      5006,
+      5274
+    ]
+  ],
+  "baseline": "/workspace/scratch/739b86fca743/output_hd/我的悲伤是水做的_MIKU_高清重制.mp4",
+  "output": "/workspace/scratch/739b86fca743/output_repair/我的悲伤是水做的_MIKU_高清修正版.mp4",
+  "seconds": 286.44090723991394,
+  "audio": "original AAC stream copied",
+  "outside_ranges": "accepted baseline, then H.264 re-encoded"
+}

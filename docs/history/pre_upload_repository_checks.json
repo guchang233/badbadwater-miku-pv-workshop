@@ -1,0 +1,16 @@
+{
+  "file_snapshot_count": 401,
+  "project_ready_check": "passed",
+  "asset_and_python_checks": "passed",
+  "all_png_jpeg_load": "passed",
+  "git_ignore_check": "no packaged files excluded",
+  "git_lfs_attributes": "audio and video matched; source code unspecified",
+  "largest_file_bytes": 65722218,
+  "largest_file": "sources/【伴奏】03.我的悲伤是水做的+mmo.wav",
+  "nested_project_zip": "expanded; every original engineering member preserved except documented font-path adaptation",
+  "new_mv_assets_included": false,
+  "rendered_again_for_packaging": false,
+  "github_remote_bound": false,
+  "github_upload_performed": false,
+  "all_original_engineering_files_compared": "passed"
+}

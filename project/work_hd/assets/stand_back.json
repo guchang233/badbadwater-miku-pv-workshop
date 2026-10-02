@@ -1,0 +1,25 @@
+{
+  "name": "stand_back",
+  "idx": 151,
+  "start": 0,
+  "end": 240,
+  "roi": [
+    135,
+    0,
+    645,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production cel for a source-faithful hand-drawn PV character replacement. Edit this supplied HD original frame. Output exactly ONE full 1920x1080 16:9 film frame, same framing, no border. Replace ONLY the white-haired girl standing on the left with Hatsune Miku, preserving her original white hooded raincoat (hood down), navy leggings and white boots. She has muted turquoise hair, two long separated twin tails with small navy rectangular bands and pink insets, thin restrained navy pencil outlines, flat colors, no gradients or texture, same sparse source drawing style. Her full-body BACK view, hands clasped behind her back, head/body proportions, shoulder width, coat seams, height and boots MUST coincide with the original, including head top cropped slightly at top of frame. No face visible. Keep boots at the exact source floor contact near bottom. Twin tails grow from high sides of head and descend either side of back to mid calf, do not shorten the body to accommodate them. Keep background flat and preserve all lettering, Music / ChiiChii, lower right logo and ALL other image pixels. Do not center, enlarge or reposition subject. NO white-haired outline remaining. NO stage costume, gloss, extra people, objects or text. This is a precise redraw of the identity alone, not a new illustration.",
+  "refs": [
+    "work_hd/refs/frame_00151.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9ed0f4cf-9f88-4ca5-84f4-049068e325d1.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 0,
+      "end": 240
+    }
+  ]
+}

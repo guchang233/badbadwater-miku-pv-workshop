@@ -1,0 +1,26 @@
+{
+  "name": "hug_knees_closed",
+  "start": 3557,
+  "end": 3634,
+  "idx": 3570,
+  "roi": [
+    495,
+    300,
+    1350,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. ONE full 16:9 film cel. Reference 1 is the HD source CLOSED EYES curled-up raincoat pose, authoritative for head tilt, hands, arms hugging knees, exact original proportions and framing. Reference 2 is new Miku OPEN EYES cel from this same shot, authoritative for turquoise twin-tail shape, face dimensions, bands, clothing/style and all continued contours. Produce the same Miku cel but eyes fully CLOSED like original, with original subtle head/eyebrow/mouth change. Retain existing hair arrangement, connected twin tails and exact body pose, no recenter, no face enlargement, no different hair length. Keep original white raincoat, navy leggings and same source drawing simplicity, thin hand-drawn navy contours, flat subdued colors. Preserve source text, logo and background. No new features or props.",
+  "refs": [
+    "work_hd/refs/frame_03570.png",
+    "work_hd/assets/hug_knees.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9a835fed-cc01-42e6-a855-0d006027d160.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 3557,
+      "end": 3634
+    }
+  ]
+}

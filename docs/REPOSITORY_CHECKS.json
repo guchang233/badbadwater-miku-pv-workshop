@@ -1,0 +1,12 @@
+{
+  "scope": "GitHub upload layout",
+  "original_full_media_reconstructed_and_sha256_checked": true,
+  "split_targets": 8,
+  "unique_parts": 16,
+  "source_baseline_34_adopted_cels_ready": true,
+  "python_syntax_and_snapshot_checks": "passed",
+  "media_transport": "ordinary Git with checked-in original-byte chunks, auto-restored offline",
+  "huagu_project_assets_included": false,
+  "artwork_and_compositing_logic_changed": false,
+  "previous_full_zip_checks": "history/pre_upload_repository_checks.json"
+}

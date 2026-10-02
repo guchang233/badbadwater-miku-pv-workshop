@@ -1,0 +1,1229 @@
+{
+  "project": "我的悲伤是水做的 · MIKU",
+  "created_date": "2026-10-01",
+  "preserved_file_count": 119,
+  "prepared_project_excluded_from_archive": true,
+  "project_restore": "python prepare_local.py",
+  "files": [
+    {
+      "path": "00_docs/package_checks.json",
+      "size_bytes": 802,
+      "sha256": "0905b355ac5c779d828e1101e6ce62cc6682e48301207d842a8742c172569c0e",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/source_records.json",
+      "size_bytes": 116056,
+      "sha256": "dfc398bceb5103934a811cece9e4f6cb3e0cb2789efc98584900abd297bd1f72",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/对话记录_可恢复原文.md",
+      "size_bytes": 4827,
+      "sha256": "02a6ea812c6f6edb2603d6f05aa5da66f9123e33b92d59b564540659fa9bec1c",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/早期会话摘要.md",
+      "size_bytes": 1795,
+      "sha256": "293aa11c4b87f9644b136bb245471608970be3fd623c5706e374668a05008ab6",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/本地续做交接.md",
+      "size_bytes": 5704,
+      "sha256": "5a941055c816714180c590e0b0022c3caef20821a8c67204bdce53cd9b90b57d",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/本地运行环境_测试版本.txt",
+      "size_bytes": 276,
+      "sha256": "63726dc780978f0b28fbab2fbed7fa500286db1870b6179fa42bc66b939b005d",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "00_docs/给本地Agent的提示.md",
+      "size_bytes": 1709,
+      "sha256": "78be9ec8b1ce159fc3ac8d4298384dd59b292d38b0dca79d353aa6ec4f58174c",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "01_sources/175348148-1-208.mp4",
+      "size_bytes": 8917466,
+      "sha256": "10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119",
+      "source": {
+        "library_file_id": "libfile_c02344b2e5448191b581ea1d9156c49a",
+        "file_id": "file_0000000027e48230b8ad54880083711c",
+        "version": 0,
+        "original_filename": "175348148-1-208.mp4"
+      }
+    },
+    {
+      "path": "01_sources/【MV】20200410-【洛天依原创】我的悲伤是水做的.mp4",
+      "size_bytes": 3511674,
+      "sha256": "39e8a29b64915fa919e124faaf132760e434fe2833ff94c47d845b57c501f9bd",
+      "source": {
+        "library_file_id": "libfile_9fc2e11657008191946e5b8f67b88b9a",
+        "file_id": "file_00000000631c8230adef30bae49a8ce8",
+        "version": 0,
+        "original_filename": "【MV】20200410-【洛天依原创】我的悲伤是水做的.mp4"
+      }
+    },
+    {
+      "path": "01_sources/【伴奏】03.我的悲伤是水做的+mmo.wav",
+      "size_bytes": 65722218,
+      "sha256": "4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b",
+      "source": {
+        "library_file_id": "libfile_8376e2d434388191ba17fc725361cc7c",
+        "file_id": "file_00000000b4fc81f792c5544a155d6c34",
+        "version": 0,
+        "original_filename": "【伴奏】03.我的悲伤是水做的+mmo.wav"
+      }
+    },
+    {
+      "path": "02_videos/我的悲伤是水做的_MIKU_高清修正版.mp4",
+      "size_bytes": 14386390,
+      "sha256": "3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b",
+      "source": {
+        "library_file_id": "libfile_6df287ac89ec819196017689edcfed29",
+        "file_id": "file_00000000e75882309fa910bb5a88d50f",
+        "version": 1,
+        "original_filename": "我的悲伤是水做的_MIKU_高清修正版.mp4"
+      }
+    },
+    {
+      "path": "02_videos/我的悲伤是水做的_九处修复前后对照.mp4",
+      "size_bytes": 4248512,
+      "sha256": "1fef8fdb0004deb196e793f565d78914b0db8fdc1f1ba9c158f67f4e991c986a",
+      "source": {
+        "library_file_id": "libfile_379f78995c7c8191bf4dbfe8b904834a",
+        "file_id": "file_0000000034a48230b2425a9fdaacc657",
+        "version": 0,
+        "original_filename": "我的悲伤是水做的_九处修复前后对照.mp4"
+      }
+    },
+    {
+      "path": "02_videos/我的悲伤是水做的_高清原版与修正版对照.mp4",
+      "size_bytes": 9855280,
+      "sha256": "0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc",
+      "source": {
+        "library_file_id": "libfile_13ee7206869081918dae0da6716eab2b",
+        "file_id": "file_000000008db882309cf2e89bc8e4f788",
+        "version": 1,
+        "original_filename": "我的悲伤是水做的_高清原版与修正版对照.mp4"
+      }
+    },
+    {
+      "path": "02_videos/我的悲伤是水做的_高清转场对照短片.mp4",
+      "size_bytes": 1032105,
+      "sha256": "a9ba498c79eccf427b443f5841244a6b6e347c744e13e7e3908845cb72da2c72",
+      "source": {
+        "library_file_id": "libfile_c826e4114f708191b6be2dcc942f30c8",
+        "file_id": "file_00000000a8a881fd843f94880d37cad8",
+        "version": 0,
+        "original_filename": "我的悲伤是水做的_高清转场对照短片.mp4"
+      }
+    },
+    {
+      "path": "03_refs/image(1).png",
+      "size_bytes": 93783,
+      "sha256": "dbd8306ca12654c5ac38e17bdef129279f2f346396a4515e3facc8f3e380ac48",
+      "source": {
+        "library_file_id": "libfile_a3ffe999cd708191a2ef9a51eafd3573",
+        "file_id": "file_000000009f44823084e499f6f2e34c35",
+        "version": 0,
+        "original_filename": "image(1).png"
+      }
+    },
+    {
+      "path": "03_refs/image(2).png",
+      "size_bytes": 114324,
+      "sha256": "721f878cc74af543e1ca470492bdbde95c231c30c36f242d8a857b3a77e85da4",
+      "source": {
+        "library_file_id": "libfile_1e51be01401c8191afcd358fa67e09ea",
+        "file_id": "file_000000009b588230bd838e9d821230b1",
+        "version": 0,
+        "original_filename": "image(2).png"
+      }
+    },
+    {
+      "path": "03_refs/image(3).png",
+      "size_bytes": 134731,
+      "sha256": "41d947520c5efe69af95f2363fea58404e455560bd7746a4a72919c1fe3368ca",
+      "source": {
+        "library_file_id": "libfile_3bff24fbbef481919ba561ecec41dcd9",
+        "file_id": "file_00000000973c8230a36c651ccfe92f22",
+        "version": 0,
+        "original_filename": "image(3).png"
+      }
+    },
+    {
+      "path": "03_refs/image(4).png",
+      "size_bytes": 139799,
+      "sha256": "53300e07ec15a8667dd8e716d09225539551087f3363c94e6c718f4edec5e26f",
+      "source": {
+        "library_file_id": "libfile_c4938808d86c8191b15fc87b43918b67",
+        "file_id": "file_0000000088e481fbb7c0ff16ee01bef5",
+        "version": 0,
+        "original_filename": "image(4).png"
+      }
+    },
+    {
+      "path": "03_refs/image(5).png",
+      "size_bytes": 86034,
+      "sha256": "2c7fc7fb172b6d69cc8cfe8ec4c11e9afe46487edcf9d5ddd27086ce6957e470",
+      "source": {
+        "library_file_id": "libfile_023e7e82429c8191aed313117dd5b771",
+        "file_id": "file_0000000032988230a6a3a2d558ee36c2",
+        "version": 0,
+        "original_filename": "image(5).png"
+      }
+    },
+    {
+      "path": "03_refs/image(6).png",
+      "size_bytes": 144034,
+      "sha256": "215c36e239b089c7675b3d0ace1e0f843dc051e0ccefebef4ab5f7047de489ba",
+      "source": {
+        "library_file_id": "libfile_e9d68e913fe08191ab4be7e7406b17a1",
+        "file_id": "file_000000007e448230b7593926ecc08418",
+        "version": 0,
+        "original_filename": "image(6).png"
+      }
+    },
+    {
+      "path": "03_refs/image(7).png",
+      "size_bytes": 149820,
+      "sha256": "c1c8b80c19e6010fef7be820ce28ba7b1479263852954b30c7a5d68194284da9",
+      "source": {
+        "library_file_id": "libfile_106b14a9ed60819189c3af78eece09b8",
+        "file_id": "file_00000000c48082309708939c90bdcfed",
+        "version": 0,
+        "original_filename": "image(7).png"
+      }
+    },
+    {
+      "path": "03_refs/image.png",
+      "size_bytes": 75331,
+      "sha256": "1e270d701c8b88bf6bd6d21755152c5056bf8cd336e28b2aab3a2ab9f5c69f45",
+      "source": {
+        "library_file_id": "libfile_3e9a35b23e8c8191a86732361750bb56",
+        "file_id": "file_0000000005348230a277ff4283294910",
+        "version": 0,
+        "original_filename": "image.png"
+      }
+    },
+    {
+      "path": "04_project/我的悲伤是水做的_MIKU_高清修复工程.zip",
+      "size_bytes": 120491001,
+      "sha256": "3ff1f4ce74d7c4efb67b357e39e4d4abd46be9a0c3d7254e2104a3e97eb0d916",
+      "source": {
+        "library_file_id": "libfile_b06fa89a36c48191a4f0d26ff6aeb7e8",
+        "file_id": "file_00000000d4888230a9a18d89f703ea82",
+        "version": 2,
+        "original_filename": "我的悲伤是水做的_MIKU_高清修复工程.zip"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/.gitignore",
+      "size_bytes": 192,
+      "sha256": "77cf1c8c422958ac4a297eba906e5d4af394c958b5bec0c753d35f17f121fe7e",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/README.md",
+      "size_bytes": 4524,
+      "sha256": "ef91d84963dfb885214fc407fece7c130cf742c2a6d8f8b61b610ec73a1b837d",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/requirements.txt",
+      "size_bytes": 52,
+      "sha256": "0a38196a22e56e9eeddc8781619d4faf2eeb54c5986061e276b4b1e67081d3ad",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/SKILL.md",
+      "size_bytes": 9744,
+      "sha256": "e12d7f0d9629505bd851d65f8dd6fd26da67edf4458e310be5a5b9e2b9b44fcd",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/agents/openai.yaml",
+      "size_bytes": 370,
+      "sha256": "b1cc41abf3e8c1112652fe68e4250c394b49c9eb92d3d44578ebc243d38ab0bd",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/analysis-and-timing.md",
+      "size_bytes": 5030,
+      "sha256": "887740662c44644036bc4942b7d620d972617085ebae3e538f87b49c2d542010",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/layers-and-continuity.md",
+      "size_bytes": 4783,
+      "sha256": "a033b75861a8f5e3bef7224fbbe5d9a6cee035197b4d3bdbda74dc6b13af19b3",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/postproduction-and-lyric-timing.md",
+      "size_bytes": 7735,
+      "sha256": "cad178e2afb896a52b7181015e6547b47a9a3f2cc62500b889ed01f29c03b93d",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/prompt-patterns.md",
+      "size_bytes": 7064,
+      "sha256": "3164136b9332cba6c544a71dd2bbe4a9556b532042612843f85baee155530082",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/proportions-and-placement.md",
+      "size_bytes": 5119,
+      "sha256": "78b7c00d6ab926844a30b78ee404756857050910be557cbf22ffd1a18d90220a",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/references/review-and-delivery.md",
+      "size_bytes": 8833,
+      "sha256": "e4e515974caf06fcbc6243a0c9a9a25896184c9bd753642e408bafd2b16d4274",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/skills/pv-character-replacement/scripts/pv_tools.py",
+      "size_bytes": 24624,
+      "sha256": "809daadbfb2d5b5fa47dff814213d7eb91dc86c6fe07a2365c8515f365e1bfd7",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/provided_skill/pv-character-replacement-skill-main/tests/test_pv_tools.py",
+      "size_bytes": 11602,
+      "sha256": "bb312029b4f2b68c769c9654a4bc9ad50c7a439767bd1960b40bc536fc379fa3",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/pv-character-replacement-skill-main.zip",
+      "size_bytes": 44797,
+      "sha256": "39395a5c8af60d8fd29b5e9759053613c10acc93079c64b352d2f346d75a02ee",
+      "source": {
+        "library_file_id": "libfile_cd223f1c32788191964d09ae6a3bc86d",
+        "file_id": "file_0000000023a88230805a1d50480c1356",
+        "version": 0,
+        "original_filename": "pv-character-replacement-skill-main.zip"
+      }
+    },
+    {
+      "path": "05_skills/resources/DejaVuSans.ttf",
+      "size_bytes": 759720,
+      "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/resources/DejaVuSans_LICENSE.txt",
+      "size_bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "05_skills/resources/imagegen_SKILL_used.md",
+      "size_bytes": 19201,
+      "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "06_cover/154cdcce-0801-4a0d-8260-2906ce45bad3.png",
+      "size_bytes": 1495834,
+      "sha256": "e5981bbb8e61b4e12a3b71db80d175c5ced2be0f1ec5abdcafe1a76c449efba6",
+      "source": {
+        "library_file_id": "libfile_197f07dbd5108191adfce1b91b81e747",
+        "file_id": "file_00000000994c82309e25e3ef84ba7ced",
+        "version": 0,
+        "original_filename": "154cdcce-0801-4a0d-8260-2906ce45bad3.png"
+      }
+    },
+    {
+      "path": "06_cover/封面生成提示词.txt",
+      "size_bytes": 2432,
+      "sha256": "89744d63e76d1a1c74f4a6052b59703c8c59ec6526a8d05ac5c05c441b00a510",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "06_cover/我的悲伤是水做的_MIKU_封面.png",
+      "size_bytes": 1965593,
+      "sha256": "71288761e0acf418a6e84815415e77c3b0fb0830b22b9439e71af4f54add3374",
+      "source": {
+        "kind": "built-in imagegen original output",
+        "original_filename": "exec-6c0b8ad0-150c-4a7e-9a20-cb1b5946f2f4.png"
+      }
+    },
+    {
+      "path": "07_historical_images/低头的雨衣初音.png",
+      "size_bytes": 1294232,
+      "sha256": "4d712569ae2e1221f92b7b1b87ee7894477c50456b6a37c3916f69fefaeb7d9e",
+      "source": {
+        "library_file_id": "libfile_9d7ee434754081919510726bfb4f7298",
+        "file_id": "file_00000000c6e08230a43af74df3237ccc",
+        "version": 0,
+        "original_filename": "低头的雨衣初音.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来倦眼伏案与五杯.png",
+      "size_bytes": 1091163,
+      "sha256": "a1f137d4ae80eb16fd1de413d2f4c0e0b7fd9674804d29ee11568e8206cbb9e3",
+      "source": {
+        "library_file_id": "libfile_35cfb146de248191b50bf5e87a424b29",
+        "file_id": "file_00000000f39c82308c2e25e228942d38",
+        "version": 0,
+        "original_filename": "初音未来倦眼伏案与五杯.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来凝望玻璃缸.png",
+      "size_bytes": 1352661,
+      "sha256": "97a0d94f1cf272d3baac0df34c8157e1ccfba5ca6c18a941fb2974602b550828",
+      "source": {
+        "library_file_id": "libfile_1f28654c0c648191bec13d8ce3e26e87",
+        "file_id": "file_00000000b9a8823087facbf86ddaab3d",
+        "version": 0,
+        "original_filename": "初音未来凝望玻璃缸.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来凝视玻璃缸.png",
+      "size_bytes": 1428986,
+      "sha256": "ba79e40c8819caa4ea7a32a795c20f4e7ba9b9a749c8d026fb6f8cb40c4a6766",
+      "source": {
+        "library_file_id": "libfile_e0f8714d5b988191acbafcc9adcf46c7",
+        "file_id": "file_00000000e690823084eee1fc88b4d54d",
+        "version": 0,
+        "original_filename": "初音未来凝视玻璃缸.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来怀抱白色圆球.png",
+      "size_bytes": 1178888,
+      "sha256": "ef9807a71e962c6ad23861d86bd0ace01fe606b02c28685bc2b1b125520e4758",
+      "source": {
+        "library_file_id": "libfile_08e235a7495c819187551d922869bcc1",
+        "file_id": "file_000000003a9881f794bf1727b824d615",
+        "version": 0,
+        "original_filename": "初音未来怀抱白色圆球.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来捧鱼缸.png",
+      "size_bytes": 1187823,
+      "sha256": "928b4fd7f4dbbe88485f48aa75bac54b925606a0ac9793d889f7947c871ac192",
+      "source": {
+        "library_file_id": "libfile_6e5e5f3c622c819193d316f80f82125e",
+        "file_id": "file_000000007f4c8230a1bb859e3ab04744",
+        "version": 0,
+        "original_filename": "初音未来捧鱼缸.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来闭眼抱膝.png",
+      "size_bytes": 1324625,
+      "sha256": "b468fab21a284e4b5fbddf07e2457d2a3f4ef2923fdee326f4fac8584d43c98b",
+      "source": {
+        "library_file_id": "libfile_27555f855d948191be08c5ed428141c5",
+        "file_id": "file_000000009ff08230b9462ae7645af9d4",
+        "version": 0,
+        "original_filename": "初音未来闭眼抱膝.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来雨中伏案沉睡.png",
+      "size_bytes": 1105125,
+      "sha256": "82561981d311a1441e0a59991ec10e75e46c0a823b0e0d2d2fb12bdfba912d27",
+      "source": {
+        "library_file_id": "libfile_979c797d884481919f62dc01fb1766cd",
+        "file_id": "file_00000000b97c82308feddcbfb64523da",
+        "version": 0,
+        "original_filename": "初音未来雨中伏案沉睡.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来雨中骑行.png",
+      "size_bytes": 1259753,
+      "sha256": "bed466d936c9ef2ef5b1f3088076da65935a15b75d60b883293010cc506fb97d",
+      "source": {
+        "library_file_id": "libfile_476b55d13f308191ba0a93073e74f6e2",
+        "file_id": "file_00000000a7b48230814c685cd1d56297",
+        "version": 0,
+        "original_filename": "初音未来雨中骑行.png"
+      }
+    },
+    {
+      "path": "07_historical_images/初音未来静坐码头垂钓.png",
+      "size_bytes": 1144559,
+      "sha256": "17e216dd9b6a346af04085503bc335b531348ea2f53c78163a54ab37335651f1",
+      "source": {
+        "library_file_id": "libfile_841a7a168d1c8191b7ce242769f356ab",
+        "file_id": "file_00000000e6688230abf3cf3f3449754b",
+        "version": 0,
+        "original_filename": "初音未来静坐码头垂钓.png"
+      }
+    },
+    {
+      "path": "07_historical_images/堤边的初音未来.png",
+      "size_bytes": 1146683,
+      "sha256": "7e822a8caf0598aca693e45c72c18ff5f954f466607d5a6afba8b1caa100b805",
+      "source": {
+        "library_file_id": "libfile_9a88d80e35e88191bef63f30680cf5e8",
+        "file_id": "file_000000009b188230a278496de1e86609",
+        "version": 0,
+        "original_filename": "堤边的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/左侧回眸的初音未来.png",
+      "size_bytes": 1107542,
+      "sha256": "864e1dd97ec26dd58002aab5d698aff4e288efc0b3cb00a56f513ca7495d54d9",
+      "source": {
+        "library_file_id": "libfile_002029cc7d0c8191bd83e0624bd8f411",
+        "file_id": "file_00000000d53081fdb44f011ac5b1d06b",
+        "version": 0,
+        "original_filename": "左侧回眸的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/抱膝的初音未来.png",
+      "size_bytes": 1113278,
+      "sha256": "83f2e135145cf25ef2d274e18c36a957a7d10c2d17c757141fe68b2535afbb3d",
+      "source": {
+        "library_file_id": "libfile_f8a882a049148191a12aec6ca6cab3b6",
+        "file_id": "file_000000007d5481fdb334608ca73629da",
+        "version": 0,
+        "original_filename": "抱膝的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/抱鱼缸的雨衣初音.png",
+      "size_bytes": 1218942,
+      "sha256": "f3ed6f614a7bb706a2ceb401aeab67e48944f1063b8da907cdef0a8d42c7ae05",
+      "source": {
+        "library_file_id": "libfile_fba1ac405c3c81918f778bef05904702",
+        "file_id": "file_000000003adc81fd87d97072c43866f7",
+        "version": 0,
+        "original_filename": "抱鱼缸的雨衣初音.png"
+      }
+    },
+    {
+      "path": "07_historical_images/无字初音未来动画定格.png",
+      "size_bytes": 1404865,
+      "sha256": "a304184dd669b3bd4ea22b9c8c4ccf6ba34ce0504f5af9e2228430cbb5bccebb",
+      "source": {
+        "library_file_id": "libfile_fa1f21195d30819187ff70f368565f70",
+        "file_id": "file_000000004ff881fdb92349489868a84e",
+        "version": 0,
+        "original_filename": "无字初音未来动画定格.png"
+      }
+    },
+    {
+      "path": "07_historical_images/无字初音未来赛璐璐画面.png",
+      "size_bytes": 1535342,
+      "sha256": "f9ae9c65d3fd24f8943758d10e43ffa22f8f367373a1134e83d429b60bc4c18a",
+      "source": {
+        "library_file_id": "libfile_ebabdaa052c08191a087de4f589e3243",
+        "file_id": "file_000000007c308230b7269bdb6af25441",
+        "version": 0,
+        "original_filename": "无字初音未来赛璐璐画面.png"
+      }
+    },
+    {
+      "path": "07_historical_images/无字版初音未来.png",
+      "size_bytes": 1396619,
+      "sha256": "7882702f98010f1a4c5e24a7bf107e69dc311f980fb10c9bdbade58e28448f10",
+      "source": {
+        "library_file_id": "libfile_d6d65bbd122c8191a33bef5e9c98a38a",
+        "file_id": "file_00000000566082309e2bb73f92d8fa6e",
+        "version": 0,
+        "original_filename": "无字版初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/桌边安睡的初音未来.png",
+      "size_bytes": 1086087,
+      "sha256": "72f30d84009d3a85db214e8f9046ba544ae53c848ab85a9708a62002b4c65146",
+      "source": {
+        "library_file_id": "libfile_055788606dac819188e53c49f076a576",
+        "file_id": "file_000000006d348230bfb62390d1df3d90",
+        "version": 0,
+        "original_filename": "桌边安睡的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/毯下安睡的初音未来.png",
+      "size_bytes": 1113846,
+      "sha256": "0b4c175a13729c72b9344a74f9162fb921a15001aa2ca8fb02065a3d1bd1f379",
+      "source": {
+        "library_file_id": "libfile_7403bbfd4bf48191a4b3bc11195c697c",
+        "file_id": "file_0000000089b482309735dbd1d79d6eca",
+        "version": 0,
+        "original_filename": "毯下安睡的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/毯下微露的初音未来.png",
+      "size_bytes": 1176352,
+      "sha256": "eaf9d0c5ac7a3d1e54a0caa75dd0f05ef1816f0fc82e4590c3d30abe00a0e71c",
+      "source": {
+        "library_file_id": "libfile_2ab1505e32fc8191b14ca9b8b9b3b5a0",
+        "file_id": "file_00000000795882309ebd661f5c7ee1d7",
+        "version": 0,
+        "original_filename": "毯下微露的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水上初音未来.png",
+      "size_bytes": 1112097,
+      "sha256": "200ff6b03bc65eab08d8daab347f2c1943e481237561cdbfee52f4e6cf164332",
+      "source": {
+        "library_file_id": "libfile_0dfe8113784481918ef0da6975bea328",
+        "file_id": "file_00000000693081fd917b1323f1603255",
+        "version": 0,
+        "original_filename": "水上初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水中初音未来与三只鸽子.png",
+      "size_bytes": 1271190,
+      "sha256": "faf7633d1ee0c318b09b0d55fdb8954696b08a52d3b46664a9c56e2ec80ec142",
+      "source": {
+        "library_file_id": "libfile_05fa5ebb5c20819187b5f91a63bf3596",
+        "file_id": "file_00000000bdd481fdb39c2b0d2be9141e",
+        "version": 0,
+        "original_filename": "水中初音未来与三只鸽子.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水中白雨衣与鸽群.png",
+      "size_bytes": 1421207,
+      "sha256": "bdac0d9c4766de1d2e951342c4b35b39253af168ea61a470f4805822165d7368",
+      "source": {
+        "library_file_id": "libfile_f69fa6e914088191aaed5827bb1c0195",
+        "file_id": "file_0000000045388230a8cab372243612d6",
+        "version": 0,
+        "original_filename": "水中白雨衣与鸽群.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水中雨衣初音与飞鸟.png",
+      "size_bytes": 1318497,
+      "sha256": "d491ef1a43c067866ae8e2af34e5f81a41d470986b11d3d2fd291e09f3f1f308",
+      "source": {
+        "library_file_id": "libfile_ba4294edce608191a6abfa8b53494c1d",
+        "file_id": "file_00000000121882309196773974dfaa98",
+        "version": 0,
+        "original_filename": "水中雨衣初音与飞鸟.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水面上的初音未来.png",
+      "size_bytes": 1416568,
+      "sha256": "e107feffd75cefe3a887f9903df638c8069245e44f936384c1253c973b6d1ba7",
+      "source": {
+        "library_file_id": "libfile_681c982174548191b311b90976b75f0e",
+        "file_id": "file_00000000a6ac81fdbdb67bbdd4ecf680",
+        "version": 0,
+        "original_filename": "水面上的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/水面漂浮的初音未来(1).png",
+      "size_bytes": 1333887,
+      "sha256": "cb72c89ffeeb592d23570482d1b80ed7d245da48a76879077c9ab13ccd2d3880",
+      "source": {
+        "library_file_id": "libfile_0f23d1155af08191975cd7c6018d8245",
+        "file_id": "file_000000005d008230ba1654b5b363546c",
+        "version": 0,
+        "original_filename": "水面漂浮的初音未来(1).png"
+      }
+    },
+    {
+      "path": "07_historical_images/水面漂浮的初音未来.png",
+      "size_bytes": 1114146,
+      "sha256": "0f82fd1af32ffd62aa758172f5638082611b17c0905129775e3d48a37b640d0c",
+      "source": {
+        "library_file_id": "libfile_e65934b12e3481918dcc8aa436e1da1a",
+        "file_id": "file_0000000085b08230bc06780ae2a3aa40",
+        "version": 0,
+        "original_filename": "水面漂浮的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/沙发上举鱼缸的初音.png",
+      "size_bytes": 1226376,
+      "sha256": "fa69455c66c9192c4a4ad3778bc16c55657dedeede5401248bde6abe7ce75d0a",
+      "source": {
+        "library_file_id": "libfile_f7c18a7442e88191bd7885f46431d594",
+        "file_id": "file_000000006780823094463462112c233f",
+        "version": 0,
+        "original_filename": "沙发上举鱼缸的初音.png"
+      }
+    },
+    {
+      "path": "07_historical_images/沙发上的初音与鱼缸.png",
+      "size_bytes": 1190075,
+      "sha256": "e8e9c92d734b369adbd5a019a687a6d227befa3f968a814479ccae31c2a8c972",
+      "source": {
+        "library_file_id": "libfile_a81d8a52d19881919b474aa41a3448f8",
+        "file_id": "file_00000000cfe48230a874098b37240c2a",
+        "version": 0,
+        "original_filename": "沙发上的初音与鱼缸.png"
+      }
+    },
+    {
+      "path": "07_historical_images/沙发边的初音未来(1).png",
+      "size_bytes": 1205995,
+      "sha256": "08735678b484c2ae8424cb065a27699503df30aff48af127076833eebf9350a3",
+      "source": {
+        "library_file_id": "libfile_216e0ab774c88191ac37ec1e0e44f144",
+        "file_id": "file_0000000088fc8230af5e497180293801",
+        "version": 0,
+        "original_filename": "沙发边的初音未来(1).png"
+      }
+    },
+    {
+      "path": "07_historical_images/沙发边的初音未来.png",
+      "size_bytes": 1203740,
+      "sha256": "0624fb0cd956ccf097aef53f5f8ba2020c5151268e454cabacbc7bfc0b4983fa",
+      "source": {
+        "library_file_id": "libfile_b00ce9e0b8088191819dd67213e25274",
+        "file_id": "file_00000000ee1481fd83691ac09c498c55",
+        "version": 0,
+        "original_filename": "沙发边的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/浅灰绿留白中的初音未来.png",
+      "size_bytes": 974761,
+      "sha256": "669a019e16fe49a0e5ee03b9173218cf9510ced91adfd7fbae5a0653777f9b67",
+      "source": {
+        "library_file_id": "libfile_4c73bfa547348191a4dc991415ae47af",
+        "file_id": "file_000000001c8081fda8be8d6bec7067be",
+        "version": 0,
+        "original_filename": "浅灰绿留白中的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/清洁版初音未来立绘.png",
+      "size_bytes": 1422259,
+      "sha256": "969753b1cf8171f8eda4843c7667e866633a1ca1ff64ea2dbd4b89a280a2e41d",
+      "source": {
+        "library_file_id": "libfile_68e6679bd7c081918ff0f76e5c63dbad",
+        "file_id": "file_00000000cca881f7b77497bfb5d87e41",
+        "version": 0,
+        "original_filename": "清洁版初音未来立绘.png"
+      }
+    },
+    {
+      "path": "07_historical_images/电线杆旁的初音未来.png",
+      "size_bytes": 1218589,
+      "sha256": "5b7c069d273fa0f627007feefb87469fb974a7dc8e35b18dd65978a869f9ab90",
+      "source": {
+        "library_file_id": "libfile_9eaadfed9848819185726dcd79dab400",
+        "file_id": "file_000000004a70823085be0f9cac0af3cd",
+        "version": 0,
+        "original_filename": "电线杆旁的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/白色雨衣中的初音未来.png",
+      "size_bytes": 1108116,
+      "sha256": "15aa1cbbad774b66e83a45b9bd814ad29f781850412eb9eff2302b3e179c0691",
+      "source": {
+        "library_file_id": "libfile_791e9e0f7e00819198837b0fe89de521",
+        "file_id": "file_00000000c0008230bbb45fb055e961ee",
+        "version": 0,
+        "original_filename": "白色雨衣中的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/白雨衣初音未来.png",
+      "size_bytes": 1271578,
+      "sha256": "88e8bbd7e7d5372ede4d775c80141452de22fd49cc40cb50d702b77b0ae5a4a8",
+      "source": {
+        "library_file_id": "libfile_8975e2c6c3f881919345e6fb43f75c9f",
+        "file_id": "file_000000006790823095f889df1e432770",
+        "version": 0,
+        "original_filename": "白雨衣初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/窗边的初音未来.png",
+      "size_bytes": 1170940,
+      "sha256": "9b7b3499b4e09f161f1e11fb286aabb1e1db6dbf56018b5f60327554c213d09f",
+      "source": {
+        "library_file_id": "libfile_a581f903f5f08191b89e150053a9c162",
+        "file_id": "file_000000009fd881fdb8bc23c1b7d578e3",
+        "version": 0,
+        "original_filename": "窗边的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/自行车旁的初音未来.png",
+      "size_bytes": 1242998,
+      "sha256": "ccc447f0665abf37c89b9bf4d0a5a2639287707f987e3e1a75e22bab000c4c86",
+      "source": {
+        "library_file_id": "libfile_c023947be83c8191922b680984b59060",
+        "file_id": "file_000000004ff481fdabeb9a5045ff1ec4",
+        "version": 0,
+        "original_filename": "自行车旁的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/蓝灰铅笔风的初音未来.png",
+      "size_bytes": 1965593,
+      "sha256": "71288761e0acf418a6e84815415e77c3b0fb0830b22b9439e71af4f54add3374",
+      "source": {
+        "library_file_id": "libfile_33a297a0887881919331645cd820210f",
+        "file_id": "file_00000000ed8881f79e27bd40e1336e58",
+        "version": 0,
+        "original_filename": "蓝灰铅笔风的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/蜷坐的初音未来与飞鸟.png",
+      "size_bytes": 1012221,
+      "sha256": "9136582736e92a8d6011eb4b4374377a7d8fe9b079d1d10c11e5fbbcc495e6cd",
+      "source": {
+        "library_file_id": "libfile_ba33a10251c0819193dbdfb81f2c9c7b",
+        "file_id": "file_00000000492082308d99adae10870be5",
+        "version": 0,
+        "original_filename": "蜷坐的初音未来与飞鸟.png"
+      }
+    },
+    {
+      "path": "07_historical_images/闭眼蜷缩的初音未来.png",
+      "size_bytes": 1077840,
+      "sha256": "897b77a13103fd67b75061112b3af576745e345dac286b51679235219e01dbed",
+      "source": {
+        "library_file_id": "libfile_460a4f0b2e288191b87b39565f85865b",
+        "file_id": "file_00000000affc81fdbd1fb3c5b84970fd",
+        "version": 0,
+        "original_filename": "闭眼蜷缩的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中低头的初音未来.png",
+      "size_bytes": 1279106,
+      "sha256": "35535b0489e2970c6b5f46057f9191820cfed233a818869889e41c4e87986f56",
+      "source": {
+        "library_file_id": "libfile_e27ef9ac80e48191b63e60da27a54616",
+        "file_id": "file_00000000ed7081fbabc571ae9252c4cd",
+        "version": 0,
+        "original_filename": "雨中低头的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中初音与鸽群(1).png",
+      "size_bytes": 1297069,
+      "sha256": "a2bec7c1dc04d24c64c24da708fd11f443301cc7210b50d1dff2ad6cea96f520",
+      "source": {
+        "library_file_id": "libfile_cad8ee2222e08191ae9114724fdf5b5a",
+        "file_id": "file_00000000e56081f797629f75e4e69c1f",
+        "version": 0,
+        "original_filename": "雨中初音与鸽群(1).png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中初音与鸽群(2).png",
+      "size_bytes": 1110407,
+      "sha256": "5cb4b2be5b9d3ba2bd900353421f0fb687284f9278402da975dc62c1a6449929",
+      "source": {
+        "library_file_id": "libfile_d8e53f6739888191804eba6bacdf6825",
+        "file_id": "file_000000009bac81f7a3b2ff71e1d071e8",
+        "version": 0,
+        "original_filename": "雨中初音与鸽群(2).png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中初音与鸽群.png",
+      "size_bytes": 1105581,
+      "sha256": "1be1473715d6402fe0c127ec0ecbe0b51a55d7d74191fbf8b546ca83f67693c0",
+      "source": {
+        "library_file_id": "libfile_2debe7fde2b081919c23dea2ce69f2e8",
+        "file_id": "file_00000000ab848230a222d45fe1a52412",
+        "version": 0,
+        "original_filename": "雨中初音与鸽群.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中初音未来.png",
+      "size_bytes": 1257035,
+      "sha256": "3b6d42f98899db4cdc62dc13faac3b3ef1912af7f819176664185000562809fa",
+      "source": {
+        "library_file_id": "libfile_5647f20b683c81919b5fe84d2d6d5153",
+        "file_id": "file_000000003f7c823098ac013ce3521b0c",
+        "version": 0,
+        "original_filename": "雨中初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中初音未来与鱼缸号手.png",
+      "size_bytes": 1146077,
+      "sha256": "b67a96f99acabf355d4073be6e67945e1e148ecaed92fdb9f7e37270e15fe72d",
+      "source": {
+        "library_file_id": "libfile_4e5469c66d6481919c7baa810dab9eba",
+        "file_id": "file_000000003cec8230b5b54670182f3712",
+        "version": 0,
+        "original_filename": "雨中初音未来与鱼缸号手.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中单车旁的初音未来.png",
+      "size_bytes": 1255375,
+      "sha256": "fb1892b90628bf01bf1551a760c590f129751dc83f016e7a46d8007f376982c5",
+      "source": {
+        "library_file_id": "libfile_bbf1da95a2b48191ba73a73f2a622c8a",
+        "file_id": "file_00000000b7d881f7b4f051818ac2eeb4",
+        "version": 0,
+        "original_filename": "雨中单车旁的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中回望的初音未来.png",
+      "size_bytes": 1272014,
+      "sha256": "78f164604e249ee0193f576269078df403c01208f62d0d2a60d51028b915a45a",
+      "source": {
+        "library_file_id": "libfile_44af0158af588191af1badbc3c947ae0",
+        "file_id": "file_0000000072848230958c27ef721e72f2",
+        "version": 0,
+        "original_filename": "雨中回望的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中坐在自行车前的初音.png",
+      "size_bytes": 1302190,
+      "sha256": "a740044a7840d29079793b6b3b348f8a0f551d12e15a19e9b204cfdcb30b5de5",
+      "source": {
+        "library_file_id": "libfile_dc4b534bed7c8191b79c8b1a26a5e57e",
+        "file_id": "file_0000000045d4823081f7d4b8de9cfa19",
+        "version": 0,
+        "original_filename": "雨中坐在自行车前的初音.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中抱膝的初音未来.png",
+      "size_bytes": 1280172,
+      "sha256": "b332c5c5f35e969ecbfcf447901499be88dee77ddd189a54b6a903958c198410",
+      "source": {
+        "library_file_id": "libfile_39062384b1e481919d9b923674610357",
+        "file_id": "file_00000000bf388230bcbc70d4e669ce60",
+        "version": 0,
+        "original_filename": "雨中抱膝的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中握住肩带的初音未来.png",
+      "size_bytes": 1159843,
+      "sha256": "95294828b6a10a6269a35f2da6328e000df27778bef9c2d1c0fd10e6557438ea",
+      "source": {
+        "library_file_id": "libfile_bff45dc51a408191a101e309d4232b92",
+        "file_id": "file_00000000b774823083769436a9bde7b8",
+        "version": 0,
+        "original_filename": "雨中握住肩带的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中电线杆旁的初音未来.png",
+      "size_bytes": 1285011,
+      "sha256": "872884d4b2c3f378b68f1d0fda4897fd5a9b8accfa674cffa0c23de1eba76964",
+      "source": {
+        "library_file_id": "libfile_10b21a9722bc819192c37ffe05b48db4",
+        "file_id": "file_0000000069608230a6afae3687836eea",
+        "version": 0,
+        "original_filename": "雨中电线杆旁的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中自行车旁的初音未来.png",
+      "size_bytes": 1277288,
+      "sha256": "7082ed1a70bd129be143a2e34ee683e832dba005f0a00a08f1bfa0d16b4a7b17",
+      "source": {
+        "library_file_id": "libfile_fa116e1b45fc8191b394cda6bd715a0b",
+        "file_id": "file_00000000fbcc81fdaa5d25de0856092a",
+        "version": 0,
+        "original_filename": "雨中自行车旁的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中蜷缩的初音未来.png",
+      "size_bytes": 1007452,
+      "sha256": "c699d75bbba878c3895b433d634058f1011804957f9830d469dbe5afb7b8ef72",
+      "source": {
+        "library_file_id": "libfile_771a59d28a588191b608fa395f452b0f",
+        "file_id": "file_00000000fef481fd9a5e854570f1c5f2",
+        "version": 0,
+        "original_filename": "雨中蜷缩的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨中骑行的初音未来.png",
+      "size_bytes": 1339964,
+      "sha256": "ee35a44e4afcf00d3cdcbb941032af74594616996d678bc328323a742e98b967",
+      "source": {
+        "library_file_id": "libfile_f875180dcbb4819183ac232233bdbbe3",
+        "file_id": "file_000000000eb48230a89982e23776a7df",
+        "version": 0,
+        "original_filename": "雨中骑行的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨后码头上的初音未来.png",
+      "size_bytes": 1144205,
+      "sha256": "84eed56eca4812bf4bf9c3cadc912bfc9b6d79b821444169fa984255ce201205",
+      "source": {
+        "library_file_id": "libfile_b716bd94cd088191aeef863de71a06d4",
+        "file_id": "file_00000000c7d88230a244b7ef6d6eaea6",
+        "version": 0,
+        "original_filename": "雨后码头上的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨堤边的初音未来.png",
+      "size_bytes": 1023636,
+      "sha256": "05ce9b8c2abe9deae9ccf4dbeb5d64bf90f5f34899d578a5be33d8e2b387e20e",
+      "source": {
+        "library_file_id": "libfile_100e24ea53f08191ba7f30847f722aab",
+        "file_id": "file_00000000f13c81fd900127606114c22c",
+        "version": 0,
+        "original_filename": "雨堤边的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨幕下的初音未来.png",
+      "size_bytes": 1152757,
+      "sha256": "23d0962d3c6cac7dcd3aa10a1d4107116ff49bc7b9f5f7994294ae8123255c48",
+      "source": {
+        "library_file_id": "libfile_45a495da04408191a0c9f1886f7a9d0c",
+        "file_id": "file_000000005c2081fbb3e1c65ce9531ea0",
+        "version": 0,
+        "original_filename": "雨幕下的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨幕中的初音未来(1).png",
+      "size_bytes": 1094481,
+      "sha256": "76ca1993ade1349b411397783e38a5c414929b0e1a43be92f94eddbf9ea4204f",
+      "source": {
+        "library_file_id": "libfile_98c0906c3b8081919797ecbfc894dec2",
+        "file_id": "file_00000000d9008230a405c39a9f17037e",
+        "version": 0,
+        "original_filename": "雨幕中的初音未来(1).png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨幕中的初音未来.png",
+      "size_bytes": 1175891,
+      "sha256": "07db60b947ac0a9465c5fde29e50116157927bb152e9ec3509327096bbe5c3e7",
+      "source": {
+        "library_file_id": "libfile_1051e4512bdc81918096915ed009b541",
+        "file_id": "file_00000000364081fdb7ae568af35d821c",
+        "version": 0,
+        "original_filename": "雨幕中的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨幕中的初音未来侧影.png",
+      "size_bytes": 999947,
+      "sha256": "ad756d0da125823988bdbafc31b5d1d5e23185f571346e9ca69bafc8aeee67ce",
+      "source": {
+        "library_file_id": "libfile_54fe2010bb548191afcf1a1c08d4b8bf",
+        "file_id": "file_00000000303881fd8b838fd662039c3a",
+        "version": 0,
+        "original_filename": "雨幕中的初音未来侧影.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨窗前的初音未来.png",
+      "size_bytes": 1307270,
+      "sha256": "b9613a87d1287c39ca28e871788eac73f48c9ec76068a746b41a29303b4455c9",
+      "source": {
+        "library_file_id": "libfile_5616ec40b3888191830d3cf25e3d3dad",
+        "file_id": "file_00000000989c82308dd646c292b34060",
+        "version": 0,
+        "original_filename": "雨窗前的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨衣初音与鸽群.png",
+      "size_bytes": 1156494,
+      "sha256": "a89f5a7f216d30c3d77210241839d2cae51aa8281476954f752b47ba38198099",
+      "source": {
+        "library_file_id": "libfile_ce4e225942388191aefb4671f13cb7b4",
+        "file_id": "file_000000008bfc81fda90d4a68ba744cc0",
+        "version": 0,
+        "original_filename": "雨衣初音与鸽群.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨衣初音未来与鱼缸小号手.png",
+      "size_bytes": 1121360,
+      "sha256": "7c762d6f1841426106711f1d8dca5bdd519cb9ccee496703f36d43c676c1aeb9",
+      "source": {
+        "library_file_id": "libfile_78c975d59fe081918c96965eda4a3671",
+        "file_id": "file_00000000993882309fe3a402d283c690",
+        "version": 0,
+        "original_filename": "雨衣初音未来与鱼缸小号手.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨衣杯影中的初音未来.png",
+      "size_bytes": 1118005,
+      "sha256": "b39eb4c71c7bb70975af96867343a9c44d25f89f9cb5cd327a7807f8659f7712",
+      "source": {
+        "library_file_id": "libfile_b7f940a7dbac81918785221d965ce2fa",
+        "file_id": "file_0000000075c48230833550f0363477c9",
+        "version": 0,
+        "original_filename": "雨衣杯影中的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/雨衣背影中的初音未来.png",
+      "size_bytes": 1077409,
+      "sha256": "9ec12c470e64816f909d79eaaa7ae4338a1244b880054f140378c3128b79646f",
+      "source": {
+        "library_file_id": "libfile_c8843a2a424c81919b5709468ad074c6",
+        "file_id": "file_000000002ed4823086b80ef3b8811346",
+        "version": 0,
+        "original_filename": "雨衣背影中的初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/风中初音未来.png",
+      "size_bytes": 1031337,
+      "sha256": "4d1d1995aa2db660e3701594b348a83d577822c5b69ae902a765d0406580fa9e",
+      "source": {
+        "library_file_id": "libfile_73e0cace04088191a6a4f026dfd0b947",
+        "file_id": "file_0000000033c08230b113f21cc5b419dc",
+        "version": 0,
+        "original_filename": "风中初音未来.png"
+      }
+    },
+    {
+      "path": "07_historical_images/风中白衣初音.png",
+      "size_bytes": 1018205,
+      "sha256": "cc6a2990195029786127e812d2a70583f1603f2a70b3cb3b20a0943c44057909",
+      "source": {
+        "library_file_id": "libfile_3bf31ab4ba708191b25dd41d221c00ea",
+        "file_id": "file_0000000064d882309ac7413a23294b90",
+        "version": 0,
+        "original_filename": "风中白衣初音.png"
+      }
+    },
+    {
+      "path": "07_historical_images/鱼缸头盔中的初音未来(1).png",
+      "size_bytes": 1089034,
+      "sha256": "333a1efd1b51030e9189d99d1a532b0484d89154c4e1c25e27227d0bc1a33abe",
+      "source": {
+        "library_file_id": "libfile_b8e8301e406c819190a1250903460183",
+        "file_id": "file_000000004a2c81f7b972dac9a469cb6e",
+        "version": 0,
+        "original_filename": "鱼缸头盔中的初音未来(1).png"
+      }
+    },
+    {
+      "path": "07_historical_images/鱼缸头盔中的初音未来.png",
+      "size_bytes": 1130455,
+      "sha256": "0727d37127cf7c828fb18be5e5beec6601e3888959afa91aa4970c289bbaa39a",
+      "source": {
+        "library_file_id": "libfile_14c3156b79588191b66f89b4e46598c2",
+        "file_id": "file_000000007bc082308ee7c72736200285",
+        "version": 0,
+        "original_filename": "鱼缸头盔中的初音未来.png"
+      }
+    },
+    {
+      "path": "README_先读我.md",
+      "size_bytes": 4536,
+      "sha256": "f71ef63384c1d8e9ecee158d2bba41399ad5ea6fde9f87ad0872b84c00227bd0",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "continue_local.py",
+      "size_bytes": 2793,
+      "sha256": "0e4bdf5ac0d3eae2c21152254a95b68b4d10d1430047125cd90345e6b69fc93a",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "prepare_local.py",
+      "size_bytes": 3143,
+      "sha256": "e57c5eaf35fd881e08e79ce04fafb344669fb1b300c6608f6e791409237b0305",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 19,
+      "sha256": "c99cf2ded2c3e1bf83bd0fa673164d544a6249f41ce27bdb8c6aa63e3cb2100f",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    },
+    {
+      "path": "verify_package.py",
+      "size_bytes": 1193,
+      "sha256": "7a56215a961402b5e29f54b6f92b28ce46d37ad6618c43ec9450b63dc5b126c8",
+      "source": {
+        "kind": "handoff documentation, utility or copied runtime guidance"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bowl_head",
+  "prompt": "Use case: precise-object-edit. Corrected hand-drawn PV film cel. Image 1 is EDIT TARGET, existing Miku inside a transparent water bubble. Image 2 is original HD source and controls camera/pose/neck/bubble and water surface. Fix two defects ONLY: (1) The broad WHITE HAIR crescent across the crown above the horizontal water line is left-over Luo Tianyi hair. Repaint this exposed crown hair fully MUTED TURQUOISE, retaining its exact silhouette and fine navy pencil strokes. All hair, including small tufts by forehead and behind ear/neck, must be Miku teal; no white-haired original cap remains. Keep the thin horizontal waterline and separate small white glass glints; submerged hair remains a slightly paler teal, exposed crown teal is opaque. (2) Make the head/neck/raincoat collar join one coherent set of lines, remove duplicate floating neck/collar strokes. Preserve exact head tilt, side-looking upward expression, face profile, ear, navy/pink hair band and long twin-tail visible inside sphere. Preserve all unrequested content EXACTLY: full 16:9 film canvas, position/scale, torso, coat, sphere outline, background, lyric glyphs, logo and framing. Same sparse navy pencil linework and flat muted colours, no redesign, no gloss, no added objects, no cropping/recentering. Return one complete corrected cel.",
+  "refs": [
+    "work_hd/assets/bowl_head.png",
+    "work_hd/refs/frame_02300.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-c8d4f90d-933e-46b7-a79f-23b64dc4f02a.png",
+  "status": "accepted",
+  "review": "Compared with authoritative HD source and final composited still; boundaries reviewed separately.",
+  "job_id": null,
+  "job_id_note": "The built-in image generation tool did not expose a separate job identifier.",
+  "adopted_file": "work_repair/assets/bowl_head.png",
+  "adopted_exposures": [
+    {
+      "start": 2266,
+      "end": 2405
+    }
+  ]
+}

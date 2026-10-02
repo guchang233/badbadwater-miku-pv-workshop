@@ -1,0 +1,15 @@
+"""Create the complete source/HD-Miku comparison and a sound-on excerpt."""
+from pathlib import Path
+import subprocess
+ROOT=Path(__file__).resolve().parent;OUT=ROOT.parent/'output_hd'
+SRC=ROOT.parent/'upload/175348148-1-208.mp4'
+MAIN=OUT/'我的悲伤是水做的_MIKU_高清重制.mp4'
+COMPARE=OUT/'我的悲伤是水做的_高清原版与MIKU对照.mp4'
+filters=("[0:v]settb=expr=1/24,setpts=N,scale=960:540[a];"
+    "[1:v]settb=expr=1/24,setpts=N,scale=960:540[b];"
+    "[a][b]hstack=inputs=2:shortest=1,pad=1920:578:0:38:color=0x202e42,"
+    "drawtext=fontfile=local_support/DejaVuSans.ttf:text=HD ORIGINAL:x=18:y=9:fontsize=20:fontcolor=white,"
+    "drawtext=fontfile=local_support/DejaVuSans.ttf:text=MIKU REMAKE:x=978:y=9:fontsize=20:fontcolor=white[v]")
+subprocess.run(['ffmpeg','-v','error','-y','-i',str(SRC),'-i',str(MAIN),'-filter_complex',filters,'-map','[v]','-map','1:a:0','-fps_mode','passthrough','-c:v','libx264','-threads','4','-preset','medium','-crf','17','-pix_fmt','yuv420p','-c:a','copy','-movflags','+faststart',str(COMPARE)],check=True)
+subprocess.run(['ffmpeg','-v','error','-y','-ss','208','-i',str(COMPARE),'-t','14','-c:v','libx264','-threads','4','-preset','medium','-crf','17','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-movflags','+faststart',str(OUT/'我的悲伤是水做的_高清转场对照短片.mp4')],check=True)
+print(str(COMPARE),flush=True)

@@ -1,0 +1,234 @@
+[
+  {
+    "name": "stand_back",
+    "start": 0,
+    "end": 240,
+    "source_reference_frame": 151
+  },
+  {
+    "name": "stand_threequarter",
+    "start": 240,
+    "end": 342,
+    "source_reference_frame": 250
+  },
+  {
+    "name": "anchor_crouch",
+    "start": 342,
+    "end": 490,
+    "source_reference_frame": 489
+  },
+  {
+    "name": "crouch_back",
+    "start": 490,
+    "end": 624,
+    "source_reference_frame": 520
+  },
+  {
+    "name": "pole_sit",
+    "start": 624,
+    "end": 762,
+    "source_reference_frame": 680
+  },
+  {
+    "name": "pole_stand",
+    "start": 762,
+    "end": 898,
+    "source_reference_frame": 800
+  },
+  {
+    "name": "table_awake",
+    "start": 898,
+    "end": 965,
+    "source_reference_frame": 930
+  },
+  {
+    "name": "table_sleep",
+    "start": 965,
+    "end": 1038,
+    "source_reference_frame": 990
+  },
+  {
+    "name": "sofa_sit",
+    "start": 1165,
+    "end": 1308,
+    "source_reference_frame": 1200
+  },
+  {
+    "name": "sofa_lie",
+    "start": 1303,
+    "end": 1440,
+    "source_reference_frame": 1330
+  },
+  {
+    "name": "fishing",
+    "start": 1440,
+    "end": 1585,
+    "source_reference_frame": 1470
+  },
+  {
+    "name": "water_float",
+    "start": 1574,
+    "end": 1710,
+    "source_reference_frame": 1630
+  },
+  {
+    "name": "water_portrait",
+    "start": 1710,
+    "end": 1920,
+    "source_reference_frame": 1730
+  },
+  {
+    "name": "pier_back",
+    "start": 1982,
+    "end": 2006
+  },
+  {
+    "name": "pier_back_b",
+    "start": 2006,
+    "end": 2024
+  },
+  {
+    "name": "pier_back_c",
+    "start": 2024,
+    "end": 2039
+  },
+  {
+    "name": "pier_back_b",
+    "start": 2039,
+    "end": 2057
+  },
+  {
+    "name": "pier_back",
+    "start": 2057,
+    "end": 2075
+  },
+  {
+    "name": "pier_back_b",
+    "start": 2075,
+    "end": 2093
+  },
+  {
+    "name": "pier_back_c",
+    "start": 2093,
+    "end": 2108
+  },
+  {
+    "name": "pier_back_b",
+    "start": 2108,
+    "end": 2177
+  },
+  {
+    "name": "wind_profile",
+    "start": 2177,
+    "end": 2195,
+    "source_reference_frame": 2180
+  },
+  {
+    "name": "wind_front",
+    "start": 2195,
+    "end": 2266,
+    "source_reference_frame": 2200
+  },
+  {
+    "name": "bowl_head",
+    "start": 2266,
+    "end": 2405,
+    "source_reference_frame": 2300
+  },
+  {
+    "name": "bicycle",
+    "start": 2405,
+    "end": 2544,
+    "source_reference_frame": 2470
+  },
+  {
+    "name": "ribbon",
+    "start": 2544,
+    "end": 2678,
+    "source_reference_frame": 2600
+  },
+  {
+    "name": "tank",
+    "start": 2678,
+    "end": 2812,
+    "source_reference_frame": 2740
+  },
+  {
+    "name": "window_back",
+    "start": 2812,
+    "end": 2949,
+    "source_reference_frame": 2840
+  },
+  {
+    "name": "bed_sleep",
+    "start": 2944,
+    "end": 3086,
+    "source_reference_frame": 3000
+  },
+  {
+    "name": "hood_side",
+    "start": 3221,
+    "end": 3358,
+    "source_reference_frame": 3250
+  },
+  {
+    "name": "hood_ball",
+    "start": 3358,
+    "end": 3503,
+    "source_reference_frame": 3400
+  },
+  {
+    "name": "hug_knees",
+    "start": 3503,
+    "end": 3557,
+    "source_reference_frame": 3550
+  },
+  {
+    "name": "hug_knees_closed",
+    "start": 3557,
+    "end": 3634,
+    "source_reference_frame": 3570
+  },
+  {
+    "name": "trumpet_crouch",
+    "start": 3688,
+    "end": 4050,
+    "source_reference_frame": 3720
+  },
+  {
+    "name": "trumpet_sit",
+    "start": 4043,
+    "end": 4184,
+    "source_reference_frame": 4100
+  },
+  {
+    "name": "water_birds",
+    "start": 4184,
+    "end": 4318,
+    "source_reference_frame": 4240
+  },
+  {
+    "name": "bird_crown",
+    "start": 4318,
+    "end": 4456,
+    "source_reference_frame": 4360
+  },
+  {
+    "name": "bowl_hold",
+    "start": 4456,
+    "end": 4599,
+    "source_reference_frame": 4480
+  },
+  {
+    "name": "bike_sit",
+    "start": 5006,
+    "end": 5143,
+    "source_reference_frame": 5050
+  },
+  {
+    "name": "bike_crouch",
+    "start": 5131,
+    "end": 5274,
+    "source_reference_frame": 5190
+  }
+]

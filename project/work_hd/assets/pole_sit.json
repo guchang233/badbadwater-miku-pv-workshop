@@ -1,0 +1,26 @@
+{
+  "name": "pole_sit",
+  "start": 624,
+  "end": 762,
+  "idx": 680,
+  "roi": [
+    1110,
+    570,
+    1755,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target:  The small protagonist sits on the wet ground near screen right of the utility pole, legs extended diagonally right, torso leaning back, head bowed. Preserve the sitting angle, legs and shoes, telephone pole, wires, coats and water surface. Long twin tails follow gravity behind her shoulders and rest on the ground, not upright. Keep the source head size.",
+  "refs": [
+    "work_hd/refs/frame_00680.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-cfe335f7-987f-4d68-8990-96270f61b66f.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 624,
+      "end": 762
+    }
+  ]
+}

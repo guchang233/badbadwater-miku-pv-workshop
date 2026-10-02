@@ -1,0 +1,26 @@
+{
+  "name": "pier_back",
+  "start": 2006,
+  "end": 2177,
+  "idx": 2060,
+  "roi": [
+    1185,
+    195,
+    1710,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The protagonist near screen RIGHT sits on the horizontal pier edge with her back toward the camera, torso leaning slightly left, two white boots hanging down with their soles visible. White hooded raincoat and navy leggings. Preserve exact pose, size, pier line and two pigeons to her right. Hood remains down on the upper back. Turquoise twin tails hang separately down either side of her back to knee level. Keep original camera registration and do not move her to the left.",
+  "refs": [
+    "work_hd/refs/frame_02060.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-571c52cb-cabc-4e11-bd01-303434f11db2.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 2006,
+      "end": 2177
+    }
+  ]
+}

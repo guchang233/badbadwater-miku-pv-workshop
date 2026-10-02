@@ -1,0 +1,26 @@
+{
+  "name": "table_sleep",
+  "start": 965,
+  "end": 1038,
+  "idx": 990,
+  "roi": [
+    870,
+    435,
+    1920,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. ONE complete 16:9 production film cel. Reference 1 is the original HD table SLEEP frame, authoritative for original face/arm/hand pose, head and body coordinates and the EXACT tipped cups and tabletop. Reference 2 is the newly redrawn OPEN EYES Miku cel from same shot, authoritative for identity, turquoise twin tails, face dimensions, hair shapes, rendering and costume. Redraw reference 1 protagonist as that same Miku, preserving the same coat/arms/hands and table. Change expression to eyes fully CLOSED as reference 1. Preserve original subtle brow/mouth/head difference. Keep FIVE source cups in exactly their reference 1 locations/orientations, some now tipped over; do NOT freeze them from reference 2. Twin tails rest on the tabletop same arrangement as reference 2, do not copy any standing pose. Match thin uneven navy pencil contours and white flat clothes, no glossy rendering. Background, Chinese lyrics, all cup details and logo untouched. No new objects, people or text. Exact same framing.",
+  "refs": [
+    "work_hd/refs/frame_00990.png",
+    "work_hd/assets/table_awake.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9bb7e7f4-ca5b-4d63-b169-3d70ecb9da6e.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 965,
+      "end": 1038
+    }
+  ]
+}

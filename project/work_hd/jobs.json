@@ -1,0 +1,840 @@
+[
+  {
+    "name": "anchor_crouch",
+    "start": 342,
+    "end": 490,
+    "idx": 489,
+    "roi": [
+      15,
+      555,
+      735,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Original target frame 00490; replace crouching protagonist with Hatsune Miku in the source raincoat, preserve pigeons/title/backdrop. Exact original prompt saved separately in generation session; subsequent production prompts include full identity details.",
+    "refs": [
+      "work_hd/refs/frame_00489.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-02bd59dd-f685-4fe3-becd-ad959329ed1d.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 342,
+        "end": 490
+      }
+    ]
+  },
+  {
+    "name": "bed_sleep",
+    "start": 2944,
+    "end": 3086,
+    "idx": 3000,
+    "roi": [
+      1185,
+      570,
+      1470,
+      840
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Only the SMALL sleeping face and bit of hair visible under blanket on right couch. Eyes CLOSED. Keep blanket fully over body, source face angle, pillow/couch coordinates. Do NOT create a standing figure or expose more of body; tiny teal strands disappear under blanket.",
+    "refs": [
+      "work_hd/refs/frame_03000.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-58317730-0214-4de6-9ba2-42abae601eb9.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2944,
+        "end": 3086
+      }
+    ]
+  },
+  {
+    "name": "bicycle",
+    "start": 2405,
+    "end": 2544,
+    "idx": 2470,
+    "roi": [
+      930,
+      150,
+      1860,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Protagonist rides the bicycle in side profile at the lower RIGHT, facing screen right, leaning forward with hands holding the handlebars. Preserve exact pose, bike geometry, basket, wheel positions and crop. White raincoat and navy leggings. Twin tails stream gently behind her toward screen left, ending at around knee-level and following gravity, without filling the bicycle wheel.",
+    "refs": [
+      "work_hd/refs/frame_02470.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-e418dd1c-704c-439c-9a6e-9a2ec1bc1d06.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2405,
+        "end": 2544
+      }
+    ]
+  },
+  {
+    "name": "bike_crouch",
+    "start": 5131,
+    "end": 5274,
+    "idx": 5190,
+    "roi": [
+      0,
+      390,
+      900,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Final bicycle scene. Keep the protagonist CROSS-LEGGED on the ground in exactly the TARGET'S seated body/leg/hand pose. Only her head and upper torso turn toward screen RIGHT in a three-quarter side view; eyes OPEN, looking right. The knees remain apart and the legs stay crossed, NOT hugged to chest, NOT squatting. Reference 1 defines this exact final pose and original size; reference 2 defines Miku identity, twin-tail length, white raincoat and navy leggings. Keep same scale, body and boot locations as preceding Miku cel. Two long turquoise twin tails drape beside/behind shoulders and rest on ground, responding to the slight head turn. Keep bicycle, wheels, basket and all foreground pigeons. Output one full source-matched 16:9 frame.",
+    "refs": [
+      "work_hd/refs/frame_05190.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-059f883f-18c7-4158-bef7-457af4f9b07b.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 5131,
+        "end": 5274
+      }
+    ]
+  },
+  {
+    "name": "bike_sit",
+    "start": 5006,
+    "end": 5143,
+    "idx": 5050,
+    "roi": [
+      0,
+      390,
+      900,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Protagonist sits CROSS-LEGGED on the ground at lower LEFT directly in front of the bicycle. She faces camera with OPEN eyes and rests both hands in front of her crossed knees. Preserve the precise pose, raincoat, navy leggings, white boots and original scale; bicycle geometry, basket and wheels remain unchanged. Turquoise twin tails hang down beside her shoulders and rest softly on the ground, leaving bicycle visible.",
+    "refs": [
+      "work_hd/refs/frame_05050.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-a697542b-6754-4670-a7bd-0a28628318fd.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 5006,
+        "end": 5143
+      }
+    ]
+  },
+  {
+    "name": "bowl_head",
+    "start": 2266,
+    "end": 2405,
+    "idx": 2300,
+    "roi": [
+      0,
+      195,
+      780,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Huge left profile of protagonist with her head inside transparent round fishbowl helmet. Nose and visible eye point UPWARD/LEFT exactly like original, not the opposite side. Keep glass ellipse, rim and refraction outline; hair teal WITHIN glass, paired tails curl naturally within/behind helmet without poking through glass. Same white coat shoulder crop.",
+    "refs": [
+      "work_hd/refs/frame_02300.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-24fd3dab-ccf8-48e1-86e3-e7354bfc9d17.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2266,
+        "end": 2405
+      }
+    ]
+  },
+  {
+    "name": "bowl_hold",
+    "start": 4456,
+    "end": 4599,
+    "idx": 4480,
+    "roi": [
+      60,
+      120,
+      1110,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Upper-body protagonist at left holds round fishbowl at face on her raised screen-right hand. Keep FIVE coherent fingers supporting outside glass, accurate wrist and source placement, transparent glass ellipse and stones/water/fish interior. Preserve nose direction and both original eye locations/visibility, face leans against bowl. Long teal twin tails fall behind body, not through glass.",
+    "refs": [
+      "work_hd/refs/frame_04480.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-16e239a0-5a90-49c8-a888-999f017f1e73.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 4456,
+        "end": 4599
+      }
+    ]
+  },
+  {
+    "name": "crouch_back",
+    "start": 490,
+    "end": 624,
+    "idx": 520,
+    "roi": [
+      240,
+      540,
+      750,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target:  The small protagonist at lower left is crouching, viewed from the back, clutching her knees. Her face is hidden. Preserve the exact curled-up body pose, hood-down coat and boots at the bottom edge. Long twin tails bend down along her back and gently pool beside her feet. Preserve the separate flying birds.",
+    "refs": [
+      "work_hd/refs/frame_00520.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-cafc4626-f9dc-4d69-933b-4953d784e28e.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 490,
+        "end": 624
+      }
+    ]
+  },
+  {
+    "name": "fishing",
+    "start": 1440,
+    "end": 1579,
+    "idx": 1470,
+    "roi": [
+      1470,
+      105,
+      1920,
+      720
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The small protagonist sits at the far right edge of the pier facing screen left, holds the fishing pole, feet dangling. Keep the exact seated pose, fishing rod/line and pier. She wears the target's white hooded raincoat, navy leggings and white boots. Twin tails drape down behind her along the pier, not in front of the fishing rod.",
+    "refs": [
+      "work_hd/refs/frame_01470.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-3c542486-63aa-41e5-9dab-dffeec54d2ac.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 1440,
+        "end": 1579
+      }
+    ]
+  },
+  {
+    "name": "hood_ball",
+    "start": 3358,
+    "end": 3503,
+    "idx": 3400,
+    "roi": [
+      525,
+      30,
+      1395,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Frontal upper-body with round white ball hugged against chest. Big dark turquoise eyes open, small straight mouth. Same head coordinates and coat. Both hands retain original ball-holding gestures; sleeves and ball should not merge. Long hair reaches below frame at sides, both twin tails connected to roots.",
+    "refs": [
+      "work_hd/refs/frame_03400.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-365097e0-089d-4a81-a4ee-06ca9e0e03c3.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 3358,
+        "end": 3503
+      }
+    ],
+    "adopted_cleanup": "hood_ball_clean.json"
+  },
+  {
+    "name": "hood_side",
+    "start": 3221,
+    "end": 3358,
+    "idx": 3250,
+    "roi": [
+      960,
+      135,
+      1920,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Side profile of protagonist in screen RIGHT, wearing the source's WHITE RAINCOAT with HOOD UP, one palm open under a thin vertical stream of water. Preserve the hood's silhouette, face pointing screen left, open palm and arm arrangement, exact position and bottom crop. Miku turquoise bangs show at the hood opening; two turquoise tails emerge conservatively from beneath the hood and hang down the back to the bottom crop. Do not remove the hood or add headwear. Keep the water stream.",
+    "refs": [
+      "work_hd/refs/frame_03250.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-06dfbc3d-72e2-40ea-b8ee-7e34e2eaf6f1.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 3221,
+        "end": 3358
+      }
+    ]
+  },
+  {
+    "name": "hug_knees",
+    "start": 3503,
+    "end": 3557,
+    "idx": 3550,
+    "roi": [
+      495,
+      300,
+      1350,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Front-facing protagonist at lower center crouches with BOTH knees hugged tightly to chest and chin resting on her crossed arms, sad eyes OPEN. Preserve exact head/knee scale, face position, raincoat sleeves around knees and navy leggings at bottom. Turquoise twin tails frame the sides and drape down behind her, maintaining muted palette. This is the OPEN-EYE target, not the following closed-eye cel.",
+    "refs": [
+      "work_hd/refs/frame_03550.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-b4d74b75-6ca5-4424-92d3-75833fceab86.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 3503,
+        "end": 3557
+      }
+    ]
+  },
+  {
+    "name": "hug_knees_closed",
+    "start": 3557,
+    "end": 3634,
+    "idx": 3570,
+    "roi": [
+      495,
+      300,
+      1350,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. ONE full 16:9 film cel. Reference 1 is the HD source CLOSED EYES curled-up raincoat pose, authoritative for head tilt, hands, arms hugging knees, exact original proportions and framing. Reference 2 is new Miku OPEN EYES cel from this same shot, authoritative for turquoise twin-tail shape, face dimensions, bands, clothing/style and all continued contours. Produce the same Miku cel but eyes fully CLOSED like original, with original subtle head/eyebrow/mouth change. Retain existing hair arrangement, connected twin tails and exact body pose, no recenter, no face enlargement, no different hair length. Keep original white raincoat, navy leggings and same source drawing simplicity, thin hand-drawn navy contours, flat subdued colors. Preserve source text, logo and background. No new features or props.",
+    "refs": [
+      "work_hd/refs/frame_03570.png",
+      "work_hd/assets/hug_knees.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9a835fed-cc01-42e6-a855-0d006027d160.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 3557,
+        "end": 3634
+      }
+    ]
+  },
+  {
+    "name": "pier_back",
+    "start": 2006,
+    "end": 2177,
+    "idx": 2060,
+    "roi": [
+      1185,
+      195,
+      1710,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The protagonist near screen RIGHT sits on the horizontal pier edge with her back toward the camera, torso leaning slightly left, two white boots hanging down with their soles visible. White hooded raincoat and navy leggings. Preserve exact pose, size, pier line and two pigeons to her right. Hood remains down on the upper back. Turquoise twin tails hang separately down either side of her back to knee level. Keep original camera registration and do not move her to the left.",
+    "refs": [
+      "work_hd/refs/frame_02060.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-571c52cb-cabc-4e11-bd01-303434f11db2.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2006,
+        "end": 2177
+      }
+    ]
+  },
+  {
+    "name": "pole_sit",
+    "start": 624,
+    "end": 762,
+    "idx": 680,
+    "roi": [
+      1110,
+      570,
+      1755,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target:  The small protagonist sits on the wet ground near screen right of the utility pole, legs extended diagonally right, torso leaning back, head bowed. Preserve the sitting angle, legs and shoes, telephone pole, wires, coats and water surface. Long twin tails follow gravity behind her shoulders and rest on the ground, not upright. Keep the source head size.",
+    "refs": [
+      "work_hd/refs/frame_00680.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-cfe335f7-987f-4d68-8990-96270f61b66f.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 624,
+        "end": 762
+      }
+    ]
+  },
+  {
+    "name": "pole_stand",
+    "start": 762,
+    "end": 898,
+    "idx": 800,
+    "roi": [
+      345,
+      300,
+      735,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Small full-body figure standing at screen left of the utility pole, side profile toward left, head lowered, arms hanging, white raincoat and navy leggings with white boots. Preserve exact pose and feet. Both twin tails fall naturally to knee level, kept within the figure's small scale.",
+    "refs": [
+      "work_hd/refs/frame_00800.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-28698379-7bd3-4070-a441-4aa080b90b33.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 762,
+        "end": 898
+      }
+    ]
+  },
+  {
+    "name": "ribbon",
+    "start": 2544,
+    "end": 2678,
+    "idx": 2600,
+    "roi": [
+      45,
+      270,
+      915,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Small protagonist at lower LEFT faces camera in a WHITE SHORT-SLEEVE T-SHIRT, holds the same dark navy strap/ribbon with BOTH HANDS, one higher near the shoulder and one lower across the chest. Keep the original hand/strap overlap and tired eyes, exact body size and lower crop. Two long turquoise tails fall behind the shoulders. Preserve the small round emblem on the shirt.",
+    "refs": [
+      "work_hd/refs/frame_02600.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-3528cd7f-5336-4116-8de1-9604d16c446b.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2544,
+        "end": 2678
+      }
+    ]
+  },
+  {
+    "name": "sofa_lie",
+    "start": 1303,
+    "end": 1440,
+    "idx": 1330,
+    "roi": [
+      945,
+      300,
+      1920,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Girl lying side-on horizontally on couch, head at left of body, knees bent, original one arm held vertically holding fishbowl above face. Preserve exact fishbowl, fingers around bowl, wrist, near and far legs, shorts and couch. Miku twin tails first spread along couch surface then drop over edge, NOT floating as upright portrait hair. Keep head and chest horizontal.",
+    "refs": [
+      "work_hd/refs/frame_01330.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-f0d745bd-048f-4af7-af4e-644bd109ea71.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 1303,
+        "end": 1440
+      }
+    ]
+  },
+  {
+    "name": "sofa_sit",
+    "start": 1165,
+    "end": 1308,
+    "idx": 1200,
+    "roi": [
+      930,
+      300,
+      1350,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Small protagonist sits leaning against the left edge of the sofa at lower middle, body in LEFT-facing profile, knees and feet extending out of the bottom crop. She wears the target's simple WHITE SHORT-SLEEVE T-SHIRT and NAVY SHORTS rather than a raincoat in this indoor scene. Miku twin tails fall behind her shoulders beside the sofa. Preserve the exact room, window, hanging coat, sofa and small plush toy.",
+    "refs": [
+      "work_hd/refs/frame_01200.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-59fd7615-0a31-4382-b977-777b66a2de66.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 1165,
+        "end": 1308
+      }
+    ]
+  },
+  {
+    "name": "stand_back",
+    "idx": 151,
+    "start": 0,
+    "end": 240,
+    "roi": [
+      135,
+      0,
+      645,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production cel for a source-faithful hand-drawn PV character replacement. Edit this supplied HD original frame. Output exactly ONE full 1920x1080 16:9 film frame, same framing, no border. Replace ONLY the white-haired girl standing on the left with Hatsune Miku, preserving her original white hooded raincoat (hood down), navy leggings and white boots. She has muted turquoise hair, two long separated twin tails with small navy rectangular bands and pink insets, thin restrained navy pencil outlines, flat colors, no gradients or texture, same sparse source drawing style. Her full-body BACK view, hands clasped behind her back, head/body proportions, shoulder width, coat seams, height and boots MUST coincide with the original, including head top cropped slightly at top of frame. No face visible. Keep boots at the exact source floor contact near bottom. Twin tails grow from high sides of head and descend either side of back to mid calf, do not shorten the body to accommodate them. Keep background flat and preserve all lettering, Music / ChiiChii, lower right logo and ALL other image pixels. Do not center, enlarge or reposition subject. NO white-haired outline remaining. NO stage costume, gloss, extra people, objects or text. This is a precise redraw of the identity alone, not a new illustration.",
+    "refs": [
+      "work_hd/refs/frame_00151.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9ed0f4cf-9f88-4ca5-84f4-049068e325d1.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 0,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "name": "stand_threequarter",
+    "start": 240,
+    "end": 342,
+    "idx": 250,
+    "roi": [
+      135,
+      0,
+      660,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target:  The protagonist stands near the left edge, body facing away and head turned toward screen right in a restrained three-quarter profile. Preserve head tilt, eyes and hands clasped behind her coat, actual boot positions and slim proportions. Two turquoise twin tails fall to knee height.",
+    "refs": [
+      "work_hd/refs/frame_00250.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-a9489be5-c6d2-4c42-ba29-a855ffca9f87.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 240,
+        "end": 342
+      }
+    ]
+  },
+  {
+    "name": "table_awake",
+    "start": 898,
+    "end": 965,
+    "idx": 930,
+    "roi": [
+      870,
+      435,
+      1920,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Girl leaning face down on crossed arms on table. Eyes OPEN tiredly looking forward. Preserve precisely all FIVE upright source cups, original tabletop and arm/hand coordinates. Hair falls outward and rests on tabletop, without moving cups. Do not add fingers/cups, do not change hand contact. No text rewriting.",
+    "refs": [
+      "work_hd/refs/frame_00930.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-06e5a834-4a1d-418e-9160-360b40346d90.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 898,
+        "end": 965
+      }
+    ]
+  },
+  {
+    "name": "table_sleep",
+    "start": 965,
+    "end": 1038,
+    "idx": 990,
+    "roi": [
+      870,
+      435,
+      1920,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. ONE complete 16:9 production film cel. Reference 1 is the original HD table SLEEP frame, authoritative for original face/arm/hand pose, head and body coordinates and the EXACT tipped cups and tabletop. Reference 2 is the newly redrawn OPEN EYES Miku cel from same shot, authoritative for identity, turquoise twin tails, face dimensions, hair shapes, rendering and costume. Redraw reference 1 protagonist as that same Miku, preserving the same coat/arms/hands and table. Change expression to eyes fully CLOSED as reference 1. Preserve original subtle brow/mouth/head difference. Keep FIVE source cups in exactly their reference 1 locations/orientations, some now tipped over; do NOT freeze them from reference 2. Twin tails rest on the tabletop same arrangement as reference 2, do not copy any standing pose. Match thin uneven navy pencil contours and white flat clothes, no glossy rendering. Background, Chinese lyrics, all cup details and logo untouched. No new objects, people or text. Exact same framing.",
+    "refs": [
+      "work_hd/refs/frame_00990.png",
+      "work_hd/assets/table_awake.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-9bb7e7f4-ca5b-4d63-b169-3d70ecb9da6e.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 965,
+        "end": 1038
+      }
+    ]
+  },
+  {
+    "name": "tank",
+    "start": 2678,
+    "end": 2812,
+    "idx": 2740,
+    "roi": [
+      540,
+      0,
+      1440,
+      900
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The protagonist sits at a table in the central-right portion, wearing WHITE SHORT-SLEEVE T-SHIRT. Head tilted, screen-left hand cups cheek while other forearm rests across table. Preserve exact elbow, wrist, palm and fingers; expression tired with OPEN eyes and gaze toward the glass tank at right. Twin tails fall behind her shoulders. Preserve the original transparent rectangular tank, its border and every object inside; do not invent fish or alter glass edges.",
+    "refs": [
+      "work_hd/refs/frame_02740.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-47d72e95-375f-47bc-92f2-fe08556d135c.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2678,
+        "end": 2812
+      }
+    ]
+  },
+  {
+    "name": "trumpet_crouch",
+    "start": 3688,
+    "end": 4050,
+    "idx": 3720,
+    "roi": [
+      525,
+      495,
+      1140,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): There are TWO figures. Replace ONLY the SMALL WHITE-HAIRED crouching protagonist at lower center-right with Miku; leave the taller round FISHBOWL-HEADED trumpet player at screen left COMPLETELY unchanged. Preserve crouching side profile toward left, hugged knees, white raincoat, navy leggings, white boots, precise scale and position. Twin tails drape from her head down her back and rest next to her boots. Keep trumpet, musician, ground and original separate birds.",
+    "refs": [
+      "work_hd/refs/frame_03720.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-a5511b97-929c-41ae-bb02-b3c32dee2cb4.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 3688,
+        "end": 4050
+      }
+    ]
+  },
+  {
+    "name": "trumpet_sit",
+    "start": 4043,
+    "end": 4184,
+    "idx": 4100,
+    "roi": [
+      480,
+      465,
+      1170,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): There are TWO figures. Replace ONLY the SMALL WHITE-HAIRED protagonist sitting at lower center-right, surrounded by navy pigeons, with Miku. Leave the tall FISHBOWL-HEADED trumpet player at screen left unchanged. Preserve the main figure's front-facing seated crouch, lowered hands, open eyes, raincoat and original size. Turquoise twin tails frame her sides and curl on the ground. ALL the original pigeons are foreground props; keep them overlapping her legs at their original positions.",
+    "refs": [
+      "work_hd/refs/frame_04100.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-b3af2c69-7678-423f-a08b-eeb401ece7dc.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 4043,
+        "end": 4184
+      }
+    ]
+  },
+  {
+    "name": "water_birds",
+    "start": 4184,
+    "end": 4318,
+    "idx": 4240,
+    "roi": [
+      930,
+      225,
+      1920,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The raincoat protagonist at screen RIGHT stands waist-deep in water, head leaning into her screen-left palm, opposite hand raised with a pigeon nearby, a bird perched on her head and another at shoulder. Replace only her identity with Miku, preserving face's head tilt, tired OPEN eyes, hand fingers, palm direction, sleeves, exact scale/location, three birds and waterline. Turquoise twin tails fall behind her shoulders and partly disappear below the water. Preserve the translucent underwater portion/reflection of her coat and arms, using the same simple pale navy lines.",
+    "refs": [
+      "work_hd/refs/frame_04240.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-8b221d13-1506-4283-b02f-e4a04aec483f.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 4184,
+        "end": 4318
+      },
+      {
+        "start": 4318,
+        "end": 4456
+      }
+    ]
+  },
+  {
+    "name": "water_float",
+    "start": 1574,
+    "end": 1710,
+    "idx": 1630,
+    "roi": [
+      30,
+      585,
+      975,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The tiny protagonist floats face-up in the water at the lower left, body nearly horizontal with head toward screen left and legs screen right. WHITE SHORT-SLEEVE T-SHIRT and NAVY SHORTS, bare legs. Preserve the exact size, tilted head, arm/body/leg arrangement, waterlines and pier at right. Two turquoise twin tails spread gently on the water from the head rather than hanging vertically.",
+    "refs": [
+      "work_hd/refs/frame_01630.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-c68e3cb4-5bce-4e98-928c-a631c20f3340.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 1574,
+        "end": 1710
+      }
+    ]
+  },
+  {
+    "name": "water_portrait",
+    "start": 1710,
+    "end": 1920,
+    "idx": 1730,
+    "roi": [
+      435,
+      0,
+      1515,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Close-up from above of girl floating horizontally on water, looking toward viewer with wide weary open eyes, small downturned mouth. Keep original head tilt, face anatomy and T-shirt neckline. Both LONG twin tails fan outward loosely across water surface, not cut into short wisps. Source lyrics across neck stay EXACT, do not invent letters.",
+    "refs": [
+      "work_hd/refs/frame_01730.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-68383932-2a2b-4d1e-899e-76790fc16a17.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 1710,
+        "end": 1920
+      }
+    ],
+    "adopted_cleanup": "water_portrait_clean.json",
+    "compositor_review": "HD source lyric transition isolated; white circle effect separated from original white hair"
+  },
+  {
+    "name": "wind_front",
+    "start": 2195,
+    "end": 2266,
+    "idx": 2200,
+    "roi": [
+      0,
+      465,
+      465,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Small drenched girl at lower-left, head in RIGHT-facing side profile after the water splash, nose toward screen right, NOT frontal. The source face is partly hidden by wet bangs. Keep exact source right-profile face structure, eye visibility/position, head size, collar, white raincoat and gray-blue water/shadow streaks over top of head/collar. Do not reveal a second eye or turn her toward camera. Miku long turquoise twin tails fall mostly downward behind her and flow slightly right, damp. Keep precise same pose and all non-character details.",
+    "refs": [
+      "work_hd/refs/frame_02200.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-6c9e0405-6017-4179-86c6-280d31e22d29.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2195,
+        "end": 2266
+      }
+    ]
+  },
+  {
+    "name": "wind_profile",
+    "start": 2177,
+    "end": 2195,
+    "idx": 2180,
+    "roi": [
+      0,
+      465,
+      435,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): Small white-raincoat protagonist at the lower LEFT edge, side profile facing screen right, looking toward the faint wind-swirl drawing. Long turquoise twin tails trail slightly left, her hood remains down. Keep the tiny figure's precise scale and cut-off lower body. Preserve source wind-swirl lines and remaining background.",
+    "refs": [
+      "work_hd/refs/frame_02180.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-d7811c49-8ca9-4714-b2f9-ba43075c1d89.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2177,
+        "end": 2195
+      }
+    ]
+  },
+  {
+    "name": "window_back",
+    "start": 2812,
+    "end": 2949,
+    "idx": 2840,
+    "roi": [
+      60,
+      375,
+      765,
+      1080
+    ],
+    "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Use case: identity-preserve. Produce ONE full 16:9 film cel. Reference 1 is the original PV target: it alone defines the camera, crop, pose, expression, exact small head and slender body size, hand gestures and locations, background and ALL other objects. Reference 2 is the already selected Miku cel and defines ONLY the muted blue-green hair/eyes, long twin tails with navy-pink rectangular bands, extremely simple navy hand-drawn line style and pale flat palette. Replace ONLY the source white-haired protagonist with Hatsune Miku. Keep the target's original white raincoat, navy leggings and white boots, rather than adding a stage outfit. Do not copy reference 2's crouching pose. Match the original's thin uneven navy pencil lines, near-white flat clothing, minimal shading and restrained sad mood. Preserve every background line, water outline, prop, bird, original credit, title and lyric; do not add new text or new objects. No glossy anime rendering, no dramatic lighting, no collage. Specific target (its wardrobe overrides general raincoat wording): The protagonist sits on the floor with her back facing camera near lower LEFT in front of the window, both arms raised toward her face. White raincoat, navy leggings. Preserve curled posture, hood down, head size and floor contact. Turquoise twin tails hang down the sides of her back to the floor. Preserve window/water/bubbles, coat hanging at right and sofa.",
+    "refs": [
+      "work_hd/refs/frame_02840.png",
+      "work_hd/assets/stand_back.png"
+    ],
+    "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-2e89cc5c-a706-423d-aefc-03e26a03ff91.png",
+    "status": "accepted",
+    "review": "still-frame structure, source pose and compositing review",
+    "adopted_ranges": [
+      {
+        "start": 2812,
+        "end": 2949
+      }
+    ]
+  }
+]

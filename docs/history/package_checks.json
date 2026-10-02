@@ -1,0 +1,20 @@
+{
+  "source_files_materialized": 89,
+  "unavailable_files": 0,
+  "original_project_zip_entries": 269,
+  "original_project_zip_crc": "passed",
+  "png_decodes_including_prepared_project": 267,
+  "portable_prepare_script": "passed",
+  "dependency_asset_source_baseline_check": "passed",
+  "bundled_font_ffmpeg_drawtext": "passed",
+  "platform_tested": "Linux Python 3.12.14; Windows commands documented, not executed on Windows",
+  "original_project_archive_unmodified": true,
+  "cover_native_dimensions": [
+    1672,
+    941
+  ],
+  "full_chat_export_available": false,
+  "conversation_original_and_summary_separated": true,
+  "latest_deliverable_checks": "Preserved original full-decode/AAC/frame/boundary checks; no need to rerender for packaging",
+  "incomplete_transfer_temporary_files_excluded": 17
+}

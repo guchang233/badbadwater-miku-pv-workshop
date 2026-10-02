@@ -1,0 +1,2062 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 208,
+    "sha256": "cf26e387878a01c979689010b949e9529de509b540cf38970f9f0b5dab93ced2"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 766,
+    "sha256": "3fb7e9a04e7c141397fc31b7cab0aa2db155fe7e378e50075840e84c27b351d4"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 1637,
+    "sha256": "ba38c63c08b9004aa3f545ee3f11c40519d3412a241f94c8ec35eb955ae6f5ab"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5928,
+    "sha256": "838d3f2a2db3880956afeb95523077793aef7f200c2e1be3b67f245320cceee6"
+  },
+  {
+    "path": "archives/pv-character-replacement-skill-main.zip",
+    "bytes": 44797,
+    "sha256": "39395a5c8af60d8fd29b5e9759053613c10acc93079c64b352d2f346d75a02ee"
+  },
+  {
+    "path": "assets/history/低头的雨衣初音.png",
+    "bytes": 1294232,
+    "sha256": "4d712569ae2e1221f92b7b1b87ee7894477c50456b6a37c3916f69fefaeb7d9e"
+  },
+  {
+    "path": "assets/history/初音未来倦眼伏案与五杯.png",
+    "bytes": 1091163,
+    "sha256": "a1f137d4ae80eb16fd1de413d2f4c0e0b7fd9674804d29ee11568e8206cbb9e3"
+  },
+  {
+    "path": "assets/history/初音未来凝望玻璃缸.png",
+    "bytes": 1352661,
+    "sha256": "97a0d94f1cf272d3baac0df34c8157e1ccfba5ca6c18a941fb2974602b550828"
+  },
+  {
+    "path": "assets/history/初音未来凝视玻璃缸.png",
+    "bytes": 1428986,
+    "sha256": "ba79e40c8819caa4ea7a32a795c20f4e7ba9b9a749c8d026fb6f8cb40c4a6766"
+  },
+  {
+    "path": "assets/history/初音未来怀抱白色圆球.png",
+    "bytes": 1178888,
+    "sha256": "ef9807a71e962c6ad23861d86bd0ace01fe606b02c28685bc2b1b125520e4758"
+  },
+  {
+    "path": "assets/history/初音未来捧鱼缸.png",
+    "bytes": 1187823,
+    "sha256": "928b4fd7f4dbbe88485f48aa75bac54b925606a0ac9793d889f7947c871ac192"
+  },
+  {
+    "path": "assets/history/初音未来闭眼抱膝.png",
+    "bytes": 1324625,
+    "sha256": "b468fab21a284e4b5fbddf07e2457d2a3f4ef2923fdee326f4fac8584d43c98b"
+  },
+  {
+    "path": "assets/history/初音未来雨中伏案沉睡.png",
+    "bytes": 1105125,
+    "sha256": "82561981d311a1441e0a59991ec10e75e46c0a823b0e0d2d2fb12bdfba912d27"
+  },
+  {
+    "path": "assets/history/初音未来雨中骑行.png",
+    "bytes": 1259753,
+    "sha256": "bed466d936c9ef2ef5b1f3088076da65935a15b75d60b883293010cc506fb97d"
+  },
+  {
+    "path": "assets/history/初音未来静坐码头垂钓.png",
+    "bytes": 1144559,
+    "sha256": "17e216dd9b6a346af04085503bc335b531348ea2f53c78163a54ab37335651f1"
+  },
+  {
+    "path": "assets/history/堤边的初音未来.png",
+    "bytes": 1146683,
+    "sha256": "7e822a8caf0598aca693e45c72c18ff5f954f466607d5a6afba8b1caa100b805"
+  },
+  {
+    "path": "assets/history/左侧回眸的初音未来.png",
+    "bytes": 1107542,
+    "sha256": "864e1dd97ec26dd58002aab5d698aff4e288efc0b3cb00a56f513ca7495d54d9"
+  },
+  {
+    "path": "assets/history/抱膝的初音未来.png",
+    "bytes": 1113278,
+    "sha256": "83f2e135145cf25ef2d274e18c36a957a7d10c2d17c757141fe68b2535afbb3d"
+  },
+  {
+    "path": "assets/history/抱鱼缸的雨衣初音.png",
+    "bytes": 1218942,
+    "sha256": "f3ed6f614a7bb706a2ceb401aeab67e48944f1063b8da907cdef0a8d42c7ae05"
+  },
+  {
+    "path": "assets/history/无字初音未来动画定格.png",
+    "bytes": 1404865,
+    "sha256": "a304184dd669b3bd4ea22b9c8c4ccf6ba34ce0504f5af9e2228430cbb5bccebb"
+  },
+  {
+    "path": "assets/history/无字初音未来赛璐璐画面.png",
+    "bytes": 1535342,
+    "sha256": "f9ae9c65d3fd24f8943758d10e43ffa22f8f367373a1134e83d429b60bc4c18a"
+  },
+  {
+    "path": "assets/history/无字版初音未来.png",
+    "bytes": 1396619,
+    "sha256": "7882702f98010f1a4c5e24a7bf107e69dc311f980fb10c9bdbade58e28448f10"
+  },
+  {
+    "path": "assets/history/桌边安睡的初音未来.png",
+    "bytes": 1086087,
+    "sha256": "72f30d84009d3a85db214e8f9046ba544ae53c848ab85a9708a62002b4c65146"
+  },
+  {
+    "path": "assets/history/毯下安睡的初音未来.png",
+    "bytes": 1113846,
+    "sha256": "0b4c175a13729c72b9344a74f9162fb921a15001aa2ca8fb02065a3d1bd1f379"
+  },
+  {
+    "path": "assets/history/毯下微露的初音未来.png",
+    "bytes": 1176352,
+    "sha256": "eaf9d0c5ac7a3d1e54a0caa75dd0f05ef1816f0fc82e4590c3d30abe00a0e71c"
+  },
+  {
+    "path": "assets/history/水上初音未来.png",
+    "bytes": 1112097,
+    "sha256": "200ff6b03bc65eab08d8daab347f2c1943e481237561cdbfee52f4e6cf164332"
+  },
+  {
+    "path": "assets/history/水中初音未来与三只鸽子.png",
+    "bytes": 1271190,
+    "sha256": "faf7633d1ee0c318b09b0d55fdb8954696b08a52d3b46664a9c56e2ec80ec142"
+  },
+  {
+    "path": "assets/history/水中白雨衣与鸽群.png",
+    "bytes": 1421207,
+    "sha256": "bdac0d9c4766de1d2e951342c4b35b39253af168ea61a470f4805822165d7368"
+  },
+  {
+    "path": "assets/history/水中雨衣初音与飞鸟.png",
+    "bytes": 1318497,
+    "sha256": "d491ef1a43c067866ae8e2af34e5f81a41d470986b11d3d2fd291e09f3f1f308"
+  },
+  {
+    "path": "assets/history/水面上的初音未来.png",
+    "bytes": 1416568,
+    "sha256": "e107feffd75cefe3a887f9903df638c8069245e44f936384c1253c973b6d1ba7"
+  },
+  {
+    "path": "assets/history/水面漂浮的初音未来(1).png",
+    "bytes": 1333887,
+    "sha256": "cb72c89ffeeb592d23570482d1b80ed7d245da48a76879077c9ab13ccd2d3880"
+  },
+  {
+    "path": "assets/history/水面漂浮的初音未来.png",
+    "bytes": 1114146,
+    "sha256": "0f82fd1af32ffd62aa758172f5638082611b17c0905129775e3d48a37b640d0c"
+  },
+  {
+    "path": "assets/history/沙发上举鱼缸的初音.png",
+    "bytes": 1226376,
+    "sha256": "fa69455c66c9192c4a4ad3778bc16c55657dedeede5401248bde6abe7ce75d0a"
+  },
+  {
+    "path": "assets/history/沙发上的初音与鱼缸.png",
+    "bytes": 1190075,
+    "sha256": "e8e9c92d734b369adbd5a019a687a6d227befa3f968a814479ccae31c2a8c972"
+  },
+  {
+    "path": "assets/history/沙发边的初音未来(1).png",
+    "bytes": 1205995,
+    "sha256": "08735678b484c2ae8424cb065a27699503df30aff48af127076833eebf9350a3"
+  },
+  {
+    "path": "assets/history/沙发边的初音未来.png",
+    "bytes": 1203740,
+    "sha256": "0624fb0cd956ccf097aef53f5f8ba2020c5151268e454cabacbc7bfc0b4983fa"
+  },
+  {
+    "path": "assets/history/浅灰绿留白中的初音未来.png",
+    "bytes": 974761,
+    "sha256": "669a019e16fe49a0e5ee03b9173218cf9510ced91adfd7fbae5a0653777f9b67"
+  },
+  {
+    "path": "assets/history/清洁版初音未来立绘.png",
+    "bytes": 1422259,
+    "sha256": "969753b1cf8171f8eda4843c7667e866633a1ca1ff64ea2dbd4b89a280a2e41d"
+  },
+  {
+    "path": "assets/history/电线杆旁的初音未来.png",
+    "bytes": 1218589,
+    "sha256": "5b7c069d273fa0f627007feefb87469fb974a7dc8e35b18dd65978a869f9ab90"
+  },
+  {
+    "path": "assets/history/白色雨衣中的初音未来.png",
+    "bytes": 1108116,
+    "sha256": "15aa1cbbad774b66e83a45b9bd814ad29f781850412eb9eff2302b3e179c0691"
+  },
+  {
+    "path": "assets/history/白雨衣初音未来.png",
+    "bytes": 1271578,
+    "sha256": "88e8bbd7e7d5372ede4d775c80141452de22fd49cc40cb50d702b77b0ae5a4a8"
+  },
+  {
+    "path": "assets/history/窗边的初音未来.png",
+    "bytes": 1170940,
+    "sha256": "9b7b3499b4e09f161f1e11fb286aabb1e1db6dbf56018b5f60327554c213d09f"
+  },
+  {
+    "path": "assets/history/自行车旁的初音未来.png",
+    "bytes": 1242998,
+    "sha256": "ccc447f0665abf37c89b9bf4d0a5a2639287707f987e3e1a75e22bab000c4c86"
+  },
+  {
+    "path": "assets/history/蓝灰铅笔风的初音未来.png",
+    "bytes": 1965593,
+    "sha256": "71288761e0acf418a6e84815415e77c3b0fb0830b22b9439e71af4f54add3374"
+  },
+  {
+    "path": "assets/history/蜷坐的初音未来与飞鸟.png",
+    "bytes": 1012221,
+    "sha256": "9136582736e92a8d6011eb4b4374377a7d8fe9b079d1d10c11e5fbbcc495e6cd"
+  },
+  {
+    "path": "assets/history/闭眼蜷缩的初音未来.png",
+    "bytes": 1077840,
+    "sha256": "897b77a13103fd67b75061112b3af576745e345dac286b51679235219e01dbed"
+  },
+  {
+    "path": "assets/history/雨中低头的初音未来.png",
+    "bytes": 1279106,
+    "sha256": "35535b0489e2970c6b5f46057f9191820cfed233a818869889e41c4e87986f56"
+  },
+  {
+    "path": "assets/history/雨中初音与鸽群(1).png",
+    "bytes": 1297069,
+    "sha256": "a2bec7c1dc04d24c64c24da708fd11f443301cc7210b50d1dff2ad6cea96f520"
+  },
+  {
+    "path": "assets/history/雨中初音与鸽群(2).png",
+    "bytes": 1110407,
+    "sha256": "5cb4b2be5b9d3ba2bd900353421f0fb687284f9278402da975dc62c1a6449929"
+  },
+  {
+    "path": "assets/history/雨中初音与鸽群.png",
+    "bytes": 1105581,
+    "sha256": "1be1473715d6402fe0c127ec0ecbe0b51a55d7d74191fbf8b546ca83f67693c0"
+  },
+  {
+    "path": "assets/history/雨中初音未来.png",
+    "bytes": 1257035,
+    "sha256": "3b6d42f98899db4cdc62dc13faac3b3ef1912af7f819176664185000562809fa"
+  },
+  {
+    "path": "assets/history/雨中初音未来与鱼缸号手.png",
+    "bytes": 1146077,
+    "sha256": "b67a96f99acabf355d4073be6e67945e1e148ecaed92fdb9f7e37270e15fe72d"
+  },
+  {
+    "path": "assets/history/雨中单车旁的初音未来.png",
+    "bytes": 1255375,
+    "sha256": "fb1892b90628bf01bf1551a760c590f129751dc83f016e7a46d8007f376982c5"
+  },
+  {
+    "path": "assets/history/雨中回望的初音未来.png",
+    "bytes": 1272014,
+    "sha256": "78f164604e249ee0193f576269078df403c01208f62d0d2a60d51028b915a45a"
+  },
+  {
+    "path": "assets/history/雨中坐在自行车前的初音.png",
+    "bytes": 1302190,
+    "sha256": "a740044a7840d29079793b6b3b348f8a0f551d12e15a19e9b204cfdcb30b5de5"
+  },
+  {
+    "path": "assets/history/雨中抱膝的初音未来.png",
+    "bytes": 1280172,
+    "sha256": "b332c5c5f35e969ecbfcf447901499be88dee77ddd189a54b6a903958c198410"
+  },
+  {
+    "path": "assets/history/雨中握住肩带的初音未来.png",
+    "bytes": 1159843,
+    "sha256": "95294828b6a10a6269a35f2da6328e000df27778bef9c2d1c0fd10e6557438ea"
+  },
+  {
+    "path": "assets/history/雨中电线杆旁的初音未来.png",
+    "bytes": 1285011,
+    "sha256": "872884d4b2c3f378b68f1d0fda4897fd5a9b8accfa674cffa0c23de1eba76964"
+  },
+  {
+    "path": "assets/history/雨中自行车旁的初音未来.png",
+    "bytes": 1277288,
+    "sha256": "7082ed1a70bd129be143a2e34ee683e832dba005f0a00a08f1bfa0d16b4a7b17"
+  },
+  {
+    "path": "assets/history/雨中蜷缩的初音未来.png",
+    "bytes": 1007452,
+    "sha256": "c699d75bbba878c3895b433d634058f1011804957f9830d469dbe5afb7b8ef72"
+  },
+  {
+    "path": "assets/history/雨中骑行的初音未来.png",
+    "bytes": 1339964,
+    "sha256": "ee35a44e4afcf00d3cdcbb941032af74594616996d678bc328323a742e98b967"
+  },
+  {
+    "path": "assets/history/雨后码头上的初音未来.png",
+    "bytes": 1144205,
+    "sha256": "84eed56eca4812bf4bf9c3cadc912bfc9b6d79b821444169fa984255ce201205"
+  },
+  {
+    "path": "assets/history/雨堤边的初音未来.png",
+    "bytes": 1023636,
+    "sha256": "05ce9b8c2abe9deae9ccf4dbeb5d64bf90f5f34899d578a5be33d8e2b387e20e"
+  },
+  {
+    "path": "assets/history/雨幕下的初音未来.png",
+    "bytes": 1152757,
+    "sha256": "23d0962d3c6cac7dcd3aa10a1d4107116ff49bc7b9f5f7994294ae8123255c48"
+  },
+  {
+    "path": "assets/history/雨幕中的初音未来(1).png",
+    "bytes": 1094481,
+    "sha256": "76ca1993ade1349b411397783e38a5c414929b0e1a43be92f94eddbf9ea4204f"
+  },
+  {
+    "path": "assets/history/雨幕中的初音未来.png",
+    "bytes": 1175891,
+    "sha256": "07db60b947ac0a9465c5fde29e50116157927bb152e9ec3509327096bbe5c3e7"
+  },
+  {
+    "path": "assets/history/雨幕中的初音未来侧影.png",
+    "bytes": 999947,
+    "sha256": "ad756d0da125823988bdbafc31b5d1d5e23185f571346e9ca69bafc8aeee67ce"
+  },
+  {
+    "path": "assets/history/雨窗前的初音未来.png",
+    "bytes": 1307270,
+    "sha256": "b9613a87d1287c39ca28e871788eac73f48c9ec76068a746b41a29303b4455c9"
+  },
+  {
+    "path": "assets/history/雨衣初音与鸽群.png",
+    "bytes": 1156494,
+    "sha256": "a89f5a7f216d30c3d77210241839d2cae51aa8281476954f752b47ba38198099"
+  },
+  {
+    "path": "assets/history/雨衣初音未来与鱼缸小号手.png",
+    "bytes": 1121360,
+    "sha256": "7c762d6f1841426106711f1d8dca5bdd519cb9ccee496703f36d43c676c1aeb9"
+  },
+  {
+    "path": "assets/history/雨衣杯影中的初音未来.png",
+    "bytes": 1118005,
+    "sha256": "b39eb4c71c7bb70975af96867343a9c44d25f89f9cb5cd327a7807f8659f7712"
+  },
+  {
+    "path": "assets/history/雨衣背影中的初音未来.png",
+    "bytes": 1077409,
+    "sha256": "9ec12c470e64816f909d79eaaa7ae4338a1244b880054f140378c3128b79646f"
+  },
+  {
+    "path": "assets/history/风中初音未来.png",
+    "bytes": 1031337,
+    "sha256": "4d1d1995aa2db660e3701594b348a83d577822c5b69ae902a765d0406580fa9e"
+  },
+  {
+    "path": "assets/history/风中白衣初音.png",
+    "bytes": 1018205,
+    "sha256": "cc6a2990195029786127e812d2a70583f1603f2a70b3cb3b20a0943c44057909"
+  },
+  {
+    "path": "assets/history/鱼缸头盔中的初音未来(1).png",
+    "bytes": 1089034,
+    "sha256": "333a1efd1b51030e9189d99d1a532b0484d89154c4e1c25e27227d0bc1a33abe"
+  },
+  {
+    "path": "assets/history/鱼缸头盔中的初音未来.png",
+    "bytes": 1130455,
+    "sha256": "0727d37127cf7c828fb18be5e5beec6601e3888959afa91aa4970c289bbaa39a"
+  },
+  {
+    "path": "continue_local.py",
+    "bytes": 2855,
+    "sha256": "479c51e10695b6eaee00178de5d44777a6006164d513b8c24096c8a3fedc0263"
+  },
+  {
+    "path": "cover/154cdcce-0801-4a0d-8260-2906ce45bad3.png",
+    "bytes": 1495834,
+    "sha256": "e5981bbb8e61b4e12a3b71db80d175c5ced2be0f1ec5abdcafe1a76c449efba6"
+  },
+  {
+    "path": "cover/封面生成提示词.txt",
+    "bytes": 2432,
+    "sha256": "89744d63e76d1a1c74f4a6052b59703c8c59ec6526a8d05ac5c05c441b00a510"
+  },
+  {
+    "path": "cover/我的悲伤是水做的_MIKU_封面.png",
+    "bytes": 1965593,
+    "sha256": "71288761e0acf418a6e84815415e77c3b0fb0830b22b9439e71af4f54add3374"
+  },
+  {
+    "path": "deliverables/videos/我的悲伤是水做的_九处修复前后对照.mp4",
+    "bytes": 4248512,
+    "sha256": "1fef8fdb0004deb196e793f565d78914b0db8fdc1f1ba9c158f67f4e991c986a"
+  },
+  {
+    "path": "deliverables/videos/我的悲伤是水做的_高清转场对照短片.mp4",
+    "bytes": 1032105,
+    "sha256": "a9ba498c79eccf427b443f5841244a6b6e347c744e13e7e3908845cb72da2c72"
+  },
+  {
+    "path": "docs/RIGHTS_AND_SOURCES.md",
+    "bytes": 1044,
+    "sha256": "54fe53ed0321464eda3c3f980e6b5d099a632ecbc367ef0d0446287c3910c75f"
+  },
+  {
+    "path": "docs/WORKFLOW.md",
+    "bytes": 4455,
+    "sha256": "2ebb371bd3339dee8cdde23a634a3df839d60eefa373c0724d756e83a960b206"
+  },
+  {
+    "path": "docs/history/original_handoff_README.md",
+    "bytes": 4536,
+    "sha256": "f71ef63384c1d8e9ecee158d2bba41399ad5ea6fde9f87ad0872b84c00227bd0"
+  },
+  {
+    "path": "docs/history/original_handoff_manifest.json",
+    "bytes": 48240,
+    "sha256": "297f44efc6550996595ac98802c38d549e1d4004e9a7dc0efc48cefbd2206a71"
+  },
+  {
+    "path": "docs/history/package_checks.json",
+    "bytes": 802,
+    "sha256": "0905b355ac5c779d828e1101e6ce62cc6682e48301207d842a8742c172569c0e"
+  },
+  {
+    "path": "docs/history/pre_upload_repository_checks.json",
+    "bytes": 697,
+    "sha256": "92bd18290d9092f41192ee46f668e1b8ec4d899c9f868048c232e9511bb305db"
+  },
+  {
+    "path": "docs/history/source_records.json",
+    "bytes": 116056,
+    "sha256": "dfc398bceb5103934a811cece9e4f6cb3e0cb2789efc98584900abd297bd1f72"
+  },
+  {
+    "path": "docs/history/对话记录_可恢复原文.md",
+    "bytes": 4827,
+    "sha256": "02a6ea812c6f6edb2603d6f05aa5da66f9123e33b92d59b564540659fa9bec1c"
+  },
+  {
+    "path": "docs/history/早期会话摘要.md",
+    "bytes": 1795,
+    "sha256": "293aa11c4b87f9644b136bb245471608970be3fd623c5706e374668a05008ab6"
+  },
+  {
+    "path": "docs/history/本地续做交接.md",
+    "bytes": 5704,
+    "sha256": "5a941055c816714180c590e0b0022c3caef20821a8c67204bdce53cd9b90b57d"
+  },
+  {
+    "path": "docs/history/本地运行环境_测试版本.txt",
+    "bytes": 276,
+    "sha256": "63726dc780978f0b28fbab2fbed7fa500286db1870b6179fa42bc66b939b005d"
+  },
+  {
+    "path": "docs/history/给本地Agent的提示.md",
+    "bytes": 1709,
+    "sha256": "78be9ec8b1ce159fc3ac8d4298384dd59b292d38b0dca79d353aa6ec4f58174c"
+  },
+  {
+    "path": "docs/repository_conversion.json",
+    "bytes": 891,
+    "sha256": "568fe2341a530e6fbb23178626269811521443e9b9e4a9a67ec0bcdb5762d925"
+  },
+  {
+    "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0000.part",
+    "bytes": 8388608,
+    "sha256": "3586ba40e65229c561e6bdbf93be50d70363f29f9770386d85682b8661a19838"
+  },
+  {
+    "path": "media_parts/0cb5ec06deebcee796a47a6f6ced1bd404d35e78352151ce61adf02df40a52dc/0001.part",
+    "bytes": 1466672,
+    "sha256": "f88a81776e0d22f1fdd9e6e4f56fa078dd52f15514cbab5bf1951a28817743ea"
+  },
+  {
+    "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0000.part",
+    "bytes": 8388608,
+    "sha256": "fbd1aeeef068ebc0b484249d5c644be946b1314762b2d575c27141799215816d"
+  },
+  {
+    "path": "media_parts/10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119/0001.part",
+    "bytes": 528858,
+    "sha256": "b15281b3fdc000aeda780d6baa8689c19b930f8c2dec79f87801bb78d7271729"
+  },
+  {
+    "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0000.part",
+    "bytes": 8388608,
+    "sha256": "afd945a3d455c7c54b7bb19ea3ec58e3242ec27b88320f20952882dc1fa70ac3"
+  },
+  {
+    "path": "media_parts/3b26951fd129a3789adaf2d148ea00d9ec5eea3fe5f747b534458c6e8c52a66b/0001.part",
+    "bytes": 5997782,
+    "sha256": "b7e99f700eea59605008c19f609cd03b7bb42e82f21e865713404e4a925ed97c"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0000.part",
+    "bytes": 8388608,
+    "sha256": "4e5ad403cb26fb7bd44039eaf47e576c7d918b9f3c3486e1a72ba902b692a099"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0001.part",
+    "bytes": 8388608,
+    "sha256": "fdb03fdf7950daabec4ad47aecb3f1fbe8daeee8450988d582977f2a6585bda2"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0002.part",
+    "bytes": 8388608,
+    "sha256": "30f6620e7d4a97d86227e4eec00d899b4e6002a6d843795621312bde6708c257"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0003.part",
+    "bytes": 8388608,
+    "sha256": "1ff0d439cbb147709d6cbe07fe1ce366172f1fd5ce7ac312899b20cd23e827e6"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0004.part",
+    "bytes": 8388608,
+    "sha256": "58e0e01d673f0638f819d99400fb67234f9ace09bab8ab1c9438c55097982e95"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0005.part",
+    "bytes": 8388608,
+    "sha256": "cbdc17e0509403578416e7718bb613c8f59405278d00d30d4e404b8357bc5a6f"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0006.part",
+    "bytes": 8388608,
+    "sha256": "90db9db58d98ce97be4258ffd4af65709016045f94d8f025de6156559469fe41"
+  },
+  {
+    "path": "media_parts/4d8102e9e501ee844f14f68dd3364d2d7ec55f1d3470ebde5094f5a67c38526b/0007.part",
+    "bytes": 7001962,
+    "sha256": "0b7bd54cb5663b8da07822adfaca3a9c52170e8b0472dbb4395a57245abc7e3b"
+  },
+  {
+    "path": "media_parts/d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111/0000.part",
+    "bytes": 8388608,
+    "sha256": "0f4534474fa22af67afadea952e043cab290a0a7f94532e33856123c1a141d99"
+  },
+  {
+    "path": "media_parts/d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111/0001.part",
+    "bytes": 5908248,
+    "sha256": "95d5b5f7fa986c0ceb8b621095b0f16fda1ba479ebf3f35af436ce1b0db53a5c"
+  },
+  {
+    "path": "media_parts/manifest.json",
+    "bytes": 6840,
+    "sha256": "174ab4a3ae63c2c9c985dfd344ec56c9580af092a39bb98853a309c926aa7f50"
+  },
+  {
+    "path": "prepare_media.py",
+    "bytes": 1697,
+    "sha256": "ea550683c7f3ca0efa318ca85e014f5189c8fc573866b6d138121e5bb0206a67"
+  },
+  {
+    "path": "project/local_support/DejaVuSans.ttf",
+    "bytes": 759720,
+    "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  {
+    "path": "project/local_support/DejaVuSans_LICENSE.txt",
+    "bytes": 3859,
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  {
+    "path": "project/output_repair/我的悲伤是水做的_九处修复前后对照.mp4",
+    "bytes": 4248512,
+    "sha256": "1fef8fdb0004deb196e793f565d78914b0db8fdc1f1ba9c158f67f4e991c986a"
+  },
+  {
+    "path": "project/work_hd/README.md",
+    "bytes": 2734,
+    "sha256": "0cfbf3400643a6f002782b7d97270a7b197552e9a28b7833c6fca8c8ba94ff7a"
+  },
+  {
+    "path": "project/work_hd/analysis/pts.json",
+    "bytes": 501648,
+    "sha256": "9673f0b2fb1038c61ff07ad0af38627ec923765c0808ddcb77377605afa069ac"
+  },
+  {
+    "path": "project/work_hd/assets/anchor_crouch.json",
+    "bytes": 1946,
+    "sha256": "167f619ef99d8c38daeac6fb295c395a0d46f8967a85cba3cfbcbe4c00204831"
+  },
+  {
+    "path": "project/work_hd/assets/anchor_crouch.png",
+    "bytes": 1110407,
+    "sha256": "5cb4b2be5b9d3ba2bd900353421f0fb687284f9278402da975dc62c1a6449929"
+  },
+  {
+    "path": "project/work_hd/assets/bed_sleep.json",
+    "bytes": 1962,
+    "sha256": "0d644f2dd149c352a36c376cedf49be368f63d00eebb0ac51767994a651b9afc"
+  },
+  {
+    "path": "project/work_hd/assets/bed_sleep.png",
+    "bytes": 1113846,
+    "sha256": "0b4c175a13729c72b9344a74f9162fb921a15001aa2ca8fb02065a3d1bd1f379"
+  },
+  {
+    "path": "project/work_hd/assets/bicycle.json",
+    "bytes": 3136,
+    "sha256": "e98e1f5c40b86320cbdf1c4ac24c8dfd427c41f75362bcd0643df3a1cbf72b2a"
+  },
+  {
+    "path": "project/work_hd/assets/bicycle.png",
+    "bytes": 1259753,
+    "sha256": "bed466d936c9ef2ef5b1f3088076da65935a15b75d60b883293010cc506fb97d"
+  },
+  {
+    "path": "project/work_hd/assets/bike_crouch.json",
+    "bytes": 3498,
+    "sha256": "6a9077c5b6c2d3248019d46a6552e08c84dcc9728e688e33637f3b960bad3cde"
+  },
+  {
+    "path": "project/work_hd/assets/bike_crouch.png",
+    "bytes": 1255375,
+    "sha256": "fb1892b90628bf01bf1551a760c590f129751dc83f016e7a46d8007f376982c5"
+  },
+  {
+    "path": "project/work_hd/assets/bike_sit.json",
+    "bytes": 3172,
+    "sha256": "854bee6e3a7315d7c07265d29a2ee7a5481a2be05626ce2c0b23ab9be6aa1084"
+  },
+  {
+    "path": "project/work_hd/assets/bike_sit.png",
+    "bytes": 1242998,
+    "sha256": "ccc447f0665abf37c89b9bf4d0a5a2639287707f987e3e1a75e22bab000c4c86"
+  },
+  {
+    "path": "project/work_hd/assets/bowl_head.json",
+    "bytes": 2045,
+    "sha256": "c68d5b7a7d35198cec40de9c27b31f9667ab674f61936b07e4ee371071158e8e"
+  },
+  {
+    "path": "project/work_hd/assets/bowl_head.png",
+    "bytes": 1089034,
+    "sha256": "333a1efd1b51030e9189d99d1a532b0484d89154c4e1c25e27227d0bc1a33abe"
+  },
+  {
+    "path": "project/work_hd/assets/bowl_hold.json",
+    "bytes": 2083,
+    "sha256": "cac43f482f12a0fe336e081c135e4696ae53d6a151f212244764dd43829abf4c"
+  },
+  {
+    "path": "project/work_hd/assets/bowl_hold.png",
+    "bytes": 1187823,
+    "sha256": "928b4fd7f4dbbe88485f48aa75bac54b925606a0ac9793d889f7947c871ac192"
+  },
+  {
+    "path": "project/work_hd/assets/crouch_back.json",
+    "bytes": 1997,
+    "sha256": "bc0257b1d0776ba567617edfbfe553d5c5cede5fb7153d814d2f58110c2fe4a4"
+  },
+  {
+    "path": "project/work_hd/assets/crouch_back.png",
+    "bytes": 1012221,
+    "sha256": "9136582736e92a8d6011eb4b4374377a7d8fe9b079d1d10c11e5fbbcc495e6cd"
+  },
+  {
+    "path": "project/work_hd/assets/fishing.json",
+    "bytes": 3086,
+    "sha256": "8a21bb476b45cf0bdd900255a9572d71660f438f67d2b927be3c9884c148c5b3"
+  },
+  {
+    "path": "project/work_hd/assets/fishing.png",
+    "bytes": 1144559,
+    "sha256": "17e216dd9b6a346af04085503bc335b531348ea2f53c78163a54ab37335651f1"
+  },
+  {
+    "path": "project/work_hd/assets/hood_ball.json",
+    "bytes": 2044,
+    "sha256": "d5ca0cc2809815ef0fdae8dd2f3d5fe2d29424fc7abf04e7cd51313c6ff7b7fa"
+  },
+  {
+    "path": "project/work_hd/assets/hood_ball.png",
+    "bytes": 1404865,
+    "sha256": "a304184dd669b3bd4ea22b9c8c4ccf6ba34ce0504f5af9e2228430cbb5bccebb"
+  },
+  {
+    "path": "project/work_hd/assets/hood_ball_clean.json",
+    "bytes": 913,
+    "sha256": "ac40d1f2521cd312cb82382285d26642c1001389c43af59fea2d662228324580"
+  },
+  {
+    "path": "project/work_hd/assets/hood_ball_with_text.png",
+    "bytes": 1178888,
+    "sha256": "ef9807a71e962c6ad23861d86bd0ace01fe606b02c28685bc2b1b125520e4758"
+  },
+  {
+    "path": "project/work_hd/assets/hood_side.json",
+    "bytes": 3241,
+    "sha256": "7d42fd034cd985107756225b0712d99cb9a7de498a340b7cbdc12d72a5fd48b1"
+  },
+  {
+    "path": "project/work_hd/assets/hood_side.png",
+    "bytes": 1094481,
+    "sha256": "76ca1993ade1349b411397783e38a5c414929b0e1a43be92f94eddbf9ea4204f"
+  },
+  {
+    "path": "project/work_hd/assets/hug_knees.json",
+    "bytes": 3157,
+    "sha256": "2d5e3819d4a7eba659869656fb6e3cbb5f1acb16e94fd101f619eb5ba8fa6f51"
+  },
+  {
+    "path": "project/work_hd/assets/hug_knees.png",
+    "bytes": 1113278,
+    "sha256": "83f2e135145cf25ef2d274e18c36a957a7d10c2d17c757141fe68b2535afbb3d"
+  },
+  {
+    "path": "project/work_hd/assets/hug_knees_closed.json",
+    "bytes": 1362,
+    "sha256": "73ee3de332a1e3b72fc256038182be834de11043ad9f3c391a1121a9effbb2a4"
+  },
+  {
+    "path": "project/work_hd/assets/hug_knees_closed.png",
+    "bytes": 1077840,
+    "sha256": "897b77a13103fd67b75061112b3af576745e345dac286b51679235219e01dbed"
+  },
+  {
+    "path": "project/work_hd/assets/pier_back.json",
+    "bytes": 3232,
+    "sha256": "d1645b7e1118a969d074af215909cf407a580fc6c2acf89020c914af897114f9"
+  },
+  {
+    "path": "project/work_hd/assets/pier_back.png",
+    "bytes": 1023636,
+    "sha256": "05ce9b8c2abe9deae9ccf4dbeb5d64bf90f5f34899d578a5be33d8e2b387e20e"
+  },
+  {
+    "path": "project/work_hd/assets/pole_sit.json",
+    "bytes": 2044,
+    "sha256": "7d19502813c20afc3e9242d3a2aa3012901037f591934b3f45820e7b8b4d8585"
+  },
+  {
+    "path": "project/work_hd/assets/pole_sit.png",
+    "bytes": 1218589,
+    "sha256": "5b7c069d273fa0f627007feefb87469fb974a7dc8e35b18dd65978a869f9ab90"
+  },
+  {
+    "path": "project/work_hd/assets/pole_stand.json",
+    "bytes": 3036,
+    "sha256": "ebddec72b0c2e97c11c6eb1eecb74d0d7d450dfb3addb2f2631f2a7268cbd786"
+  },
+  {
+    "path": "project/work_hd/assets/pole_stand.png",
+    "bytes": 1294232,
+    "sha256": "4d712569ae2e1221f92b7b1b87ee7894477c50456b6a37c3916f69fefaeb7d9e"
+  },
+  {
+    "path": "project/work_hd/assets/ribbon.json",
+    "bytes": 3126,
+    "sha256": "e971248e0fa6fd5bf27ed70070a9d43ca5f3f43c3324823a588d4a886b03a816"
+  },
+  {
+    "path": "project/work_hd/assets/ribbon.png",
+    "bytes": 1152757,
+    "sha256": "23d0962d3c6cac7dcd3aa10a1d4107116ff49bc7b9f5f7994294ae8123255c48"
+  },
+  {
+    "path": "project/work_hd/assets/sofa_lie.json",
+    "bytes": 2060,
+    "sha256": "074229bbc7117bef620fb0f5b5622137999e971c6e283929f8bdae3e224a126e"
+  },
+  {
+    "path": "project/work_hd/assets/sofa_lie.png",
+    "bytes": 1226376,
+    "sha256": "fa69455c66c9192c4a4ad3778bc16c55657dedeede5401248bde6abe7ce75d0a"
+  },
+  {
+    "path": "project/work_hd/assets/sofa_sit.json",
+    "bytes": 3163,
+    "sha256": "745cd64f77280877471e2b138735638bdd7aea4c62baccd7b50a5997588281bd"
+  },
+  {
+    "path": "project/work_hd/assets/sofa_sit.png",
+    "bytes": 1205995,
+    "sha256": "08735678b484c2ae8424cb065a27699503df30aff48af127076833eebf9350a3"
+  },
+  {
+    "path": "project/work_hd/assets/stand_back.json",
+    "bytes": 1813,
+    "sha256": "ad1bf2f6600b55da554d1a482af749e3e6fc19275c4199acd778facea3f2d758"
+  },
+  {
+    "path": "project/work_hd/assets/stand_back.png",
+    "bytes": 1108116,
+    "sha256": "15aa1cbbad774b66e83a45b9bd814ad29f781850412eb9eff2302b3e179c0691"
+  },
+  {
+    "path": "project/work_hd/assets/stand_threequarter.json",
+    "bytes": 1979,
+    "sha256": "adc2c26e3486a11d67d38d3cb0b0015092103618c1b7b9a60f6884737fdac82f"
+  },
+  {
+    "path": "project/work_hd/assets/stand_threequarter.png",
+    "bytes": 1107542,
+    "sha256": "864e1dd97ec26dd58002aab5d698aff4e288efc0b3cb00a56f513ca7495d54d9"
+  },
+  {
+    "path": "project/work_hd/assets/table_awake.json",
+    "bytes": 2001,
+    "sha256": "b4a6ccf3342c20c71609abff30c66330e7c3ac9aa9d9263f68d6f4ac8bb0a8fd"
+  },
+  {
+    "path": "project/work_hd/assets/table_awake.png",
+    "bytes": 1091163,
+    "sha256": "a1f137d4ae80eb16fd1de413d2f4c0e0b7fd9674804d29ee11568e8206cbb9e3"
+  },
+  {
+    "path": "project/work_hd/assets/table_sleep.json",
+    "bytes": 1559,
+    "sha256": "c1a9dbb019be86aade4b0f42f1bb2942973ec02a68feb8ba17df7fcb2f420c24"
+  },
+  {
+    "path": "project/work_hd/assets/table_sleep.png",
+    "bytes": 1086087,
+    "sha256": "72f30d84009d3a85db214e8f9046ba544ae53c848ab85a9708a62002b4c65146"
+  },
+  {
+    "path": "project/work_hd/assets/tank.json",
+    "bytes": 3212,
+    "sha256": "db3cd88a321bf74bc3d36b985932a72a2cdb0783a4e65d381b4bd72f11dd4a39"
+  },
+  {
+    "path": "project/work_hd/assets/tank.png",
+    "bytes": 1352661,
+    "sha256": "97a0d94f1cf272d3baac0df34c8157e1ccfba5ca6c18a941fb2974602b550828"
+  },
+  {
+    "path": "project/work_hd/assets/trumpet_crouch.json",
+    "bytes": 3228,
+    "sha256": "3122c6cabc2c4cc0300816f1ab1da16eb26306d9e16612feb7f66bef6b5f7f45"
+  },
+  {
+    "path": "project/work_hd/assets/trumpet_crouch.png",
+    "bytes": 1121360,
+    "sha256": "7c762d6f1841426106711f1d8dca5bdd519cb9ccee496703f36d43c676c1aeb9"
+  },
+  {
+    "path": "project/work_hd/assets/trumpet_sit.json",
+    "bytes": 3246,
+    "sha256": "ba5a3185cbc5a93540269ac5782b986ad16f079fdcf12f0c0a696edaa4a43cca"
+  },
+  {
+    "path": "project/work_hd/assets/trumpet_sit.png",
+    "bytes": 1156494,
+    "sha256": "a89f5a7f216d30c3d77210241839d2cae51aa8281476954f752b47ba38198099"
+  },
+  {
+    "path": "project/work_hd/assets/water_birds.json",
+    "bytes": 3384,
+    "sha256": "aa5ba90881307ece5cd1a9559a28e64c50aa90b0b4e42fcc63f2b7b91f5355ca"
+  },
+  {
+    "path": "project/work_hd/assets/water_birds.png",
+    "bytes": 1271190,
+    "sha256": "faf7633d1ee0c318b09b0d55fdb8954696b08a52d3b46664a9c56e2ec80ec142"
+  },
+  {
+    "path": "project/work_hd/assets/water_float.json",
+    "bytes": 3144,
+    "sha256": "0bdbaa3b8b070bdda3f773fbbce50aacfeb0ec307bcc994ab5b1f6af78267e8a"
+  },
+  {
+    "path": "project/work_hd/assets/water_float.png",
+    "bytes": 1112097,
+    "sha256": "200ff6b03bc65eab08d8daab347f2c1943e481237561cdbfee52f4e6cf164332"
+  },
+  {
+    "path": "project/work_hd/assets/water_portrait.json",
+    "bytes": 2206,
+    "sha256": "1d5ac290b6461788e60f6592551cbe400b10e4f1a506ef6fe0656c06137d7d44"
+  },
+  {
+    "path": "project/work_hd/assets/water_portrait.png",
+    "bytes": 1535342,
+    "sha256": "f9ae9c65d3fd24f8943758d10e43ffa22f8f367373a1134e83d429b60bc4c18a"
+  },
+  {
+    "path": "project/work_hd/assets/water_portrait_clean.json",
+    "bytes": 928,
+    "sha256": "ce6f8c4df9db5bcfef9174e6685d19aaeac5d4eac566d221ccb810fe7b86d366"
+  },
+  {
+    "path": "project/work_hd/assets/water_portrait_with_text.png",
+    "bytes": 1416568,
+    "sha256": "e107feffd75cefe3a887f9903df638c8069245e44f936384c1253c973b6d1ba7"
+  },
+  {
+    "path": "project/work_hd/assets/wind_front.json",
+    "bytes": 2238,
+    "sha256": "71d0ad5d189f90054b672504ab052f9ea0e103b086375c1625d6cc165497159d"
+  },
+  {
+    "path": "project/work_hd/assets/wind_front.png",
+    "bytes": 999947,
+    "sha256": "ad756d0da125823988bdbafc31b5d1d5e23185f571346e9ca69bafc8aeee67ce"
+  },
+  {
+    "path": "project/work_hd/assets/wind_profile.json",
+    "bytes": 3080,
+    "sha256": "e4e303610db071b598db083ce115c2e606785bd94d122b47d8073a9caae0b066"
+  },
+  {
+    "path": "project/work_hd/assets/wind_profile.png",
+    "bytes": 1031337,
+    "sha256": "4d1d1995aa2db660e3701594b348a83d577822c5b69ae902a765d0406580fa9e"
+  },
+  {
+    "path": "project/work_hd/assets/window_back.json",
+    "bytes": 3116,
+    "sha256": "c2fc6270b6fe138fc9ab2cf58d43d375c197a0426f8186ab5221e6701cba2892"
+  },
+  {
+    "path": "project/work_hd/assets/window_back.png",
+    "bytes": 1170940,
+    "sha256": "9b7b3499b4e09f161f1e11fb286aabb1e1db6dbf56018b5f60327554c213d09f"
+  },
+  {
+    "path": "project/work_hd/build_comparison.py",
+    "bytes": 1391,
+    "sha256": "eae1ff719bc2d6d753df98e44459c40c22f40cc9cee436621473e8be525031ce"
+  },
+  {
+    "path": "project/work_hd/build_comparison.py.original",
+    "bytes": 1429,
+    "sha256": "3e0fd3f8fdea5ff6f4f40abf42f2c129c41d4781c473de6f01c27a9f661f9d60"
+  },
+  {
+    "path": "project/work_hd/compose_hd.py",
+    "bytes": 12990,
+    "sha256": "13360e430504b3defbb787702f83987d85050aa21c04c4543b3883c15ac50d2c"
+  },
+  {
+    "path": "project/work_hd/delivery_manifest.json",
+    "bytes": 2957,
+    "sha256": "ac753eea7fab77c006728d30a86afcbb87fce0363a9520361c2b19065589a6c8"
+  },
+  {
+    "path": "project/work_hd/encoded_review.json",
+    "bytes": 980,
+    "sha256": "f622279a2a6e2deb133d90b217220c4e671bb6b83ab57e288c984953b1428948"
+  },
+  {
+    "path": "project/work_hd/frame_manifest.json",
+    "bytes": 671877,
+    "sha256": "2555b5842fba57a09f3cc06e6fd7a506123b51f6884eda9e783a659d948f1902"
+  },
+  {
+    "path": "project/work_hd/jobs.json",
+    "bytes": 85338,
+    "sha256": "a4711a954655d8f4de7f0ea0b87fb09bb3c30d77ddeaff0a02930fa50fb3293a"
+  },
+  {
+    "path": "project/work_hd/join_patch.py",
+    "bytes": 1582,
+    "sha256": "5c029116028c97cba53ee062e0e5f5b6f5a789c41db5db9643d654fbab8221af"
+  },
+  {
+    "path": "project/work_hd/package_project.py",
+    "bytes": 1217,
+    "sha256": "3659cedb35082f28049d21afcfbb5ab7effbdaeb595e580fe786299d30ee5549"
+  },
+  {
+    "path": "project/work_hd/patch_portrait.py",
+    "bytes": 1027,
+    "sha256": "058620f5c3b07c129d01f80cd9b633543d3f345fce14ceb342903820209fcfb1"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00085.png",
+    "bytes": 223308,
+    "sha256": "10dbbe2a0a691aa9219fdfcc06e2c385de1fc56836476ed6d293ab63a56b5ece"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00095.png",
+    "bytes": 300979,
+    "sha256": "0fb8af012279e33c844cd59093fb2ca8d06780c0119a0b85338ac5698a3aafaa"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00151.png",
+    "bytes": 264399,
+    "sha256": "ede340e1397fca96a7a8c1cf43984701e79e8679107db60f94175781acf524cd"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00250.png",
+    "bytes": 288611,
+    "sha256": "1282ffe9276230ac65748789bf0d124f6714008301caee4bb106eb077cb8231b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00489.png",
+    "bytes": 321527,
+    "sha256": "5d7eac8a6e999d4aabc4ef4e2ef015ce7151331d023ad4128775f156d45f673b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00520.png",
+    "bytes": 178540,
+    "sha256": "92c92e76c7226b8d96835e84ea970746bf4cb5664e8196bccb840d7df2ce104b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00680.png",
+    "bytes": 573390,
+    "sha256": "bc03e3d8ec96af9c1f77b68226a59549208246c3835d3429a2eeda069d9bb770"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00800.png",
+    "bytes": 615478,
+    "sha256": "ff6b6923b4e44255acb1fb98b71b66997a6f2b479c6ebf1e2ed94c4a49a99bd4"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00930.png",
+    "bytes": 284237,
+    "sha256": "94350070d3d61a990a55140764cd7a8bde1d13facad932ee4003eed3ab8c580b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_00990.png",
+    "bytes": 287414,
+    "sha256": "ced352de43dde4ea713e90a6952b888e16cd2ad8f2e3585ca85fc8327550366c"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01200.png",
+    "bytes": 472474,
+    "sha256": "067618295b9015151540a3aa600b840c04cdae2e66c3c6647539d712cbc15a05"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01330.png",
+    "bytes": 482630,
+    "sha256": "c28b36b99e14b164c7372fc283bd8d92d9d1996bc2947a18b7e9e6655ca78fb3"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01470.png",
+    "bytes": 364095,
+    "sha256": "d2bd70e6cdf95caf1b1446f696f68fc0dc9ea128ef6756be6a60a943dc375ce2"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01630.png",
+    "bytes": 331383,
+    "sha256": "e8b71996926497edf0d9435dd6179c82507c5df6cc2d3be5590bbd6838580a77"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01710.png",
+    "bytes": 452083,
+    "sha256": "d7467e52a5b482efd318b44461f3cbd2bbc805c109238a9da8a706df2ec24803"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01711.png",
+    "bytes": 452108,
+    "sha256": "77d159e2454cb417daf98097c49481564dc70f4eb47eb4078166f852e3704f64"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01715.png",
+    "bytes": 457075,
+    "sha256": "701a9c38a8b71499ecb6486deb83ab61e217811ffc7c7c5f237618228a0ade64"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01720.png",
+    "bytes": 461699,
+    "sha256": "4bcaa2565c54bcb9a9c589615f680fe8ce5b223c7523553f5160bd1846cd8886"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01730.png",
+    "bytes": 463929,
+    "sha256": "a7c64a9462e5cc5c13c208134a0248ef482fc1302d467b2f039041cde9294d42"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01770.png",
+    "bytes": 465106,
+    "sha256": "6ba0658845aeb72c63ae11ccabb81e571c040a5e0de6b778818f34871073b54f"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01783.png",
+    "bytes": 281463,
+    "sha256": "58ae1a89c2063f81889c657fc10afe3c80e527437f572fd7a8059a1f2a7e9123"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01852.png",
+    "bytes": 267176,
+    "sha256": "265a99d31b5d355ffaae5e1603a00c6972b96ec3cf205dbbcbc4f3e312d6c8ce"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01895.png",
+    "bytes": 144944,
+    "sha256": "5f0af9897e0f5d1c890e492b454af55f722be6f8063cb9d4344ba103f52bc1dc"
+  },
+  {
+    "path": "project/work_hd/refs/frame_01903.png",
+    "bytes": 153999,
+    "sha256": "31f17704b9ca3da42ab9b43e42d2bd2b592fcc07c64ab570ea9f6735c24a247a"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02060.png",
+    "bytes": 255018,
+    "sha256": "c0fcbbc871e47d2a2930553eb89cfb9da02270297002d51ffc5678bc9795833b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02180.png",
+    "bytes": 210173,
+    "sha256": "3d66714a0f86b5f8c5a7ce0486a130f03438f333b26f6b7864456711371563fc"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02200.png",
+    "bytes": 179271,
+    "sha256": "d268bb9f89d82c6ff8ea87d7f1ef0c828c0bbe6e6d815fdffb3d1f7afe7d4904"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02300.png",
+    "bytes": 343661,
+    "sha256": "ce82ffd0e60b5eba6c7a96cbf758d39ed64a9549e0d76e084a8c14cfa1bd1465"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02470.png",
+    "bytes": 545577,
+    "sha256": "2920b0788d3fa228af33f0de787d54d38bfc207387af410440e79bfedaf22771"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02600.png",
+    "bytes": 348413,
+    "sha256": "6d41008a08b58f3c01f6cc7eaa631853b0ee8696e3e6ce1c75e50d170ee03ca6"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02740.png",
+    "bytes": 744359,
+    "sha256": "359a7fe074592d5bbac40979dfbeb60fa6d1d7f1f1d5875ea4a26d5a295520bd"
+  },
+  {
+    "path": "project/work_hd/refs/frame_02840.png",
+    "bytes": 401355,
+    "sha256": "b439108397c1deebb7c7a218deb852d16ed74a2b1f06114b7d10efef671fe9d9"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03000.png",
+    "bytes": 352359,
+    "sha256": "de49bbed64e544a03d28059931149a9e73e1695ee74e19fb3eeb1c816f4411f4"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03250.png",
+    "bytes": 305479,
+    "sha256": "76feba1f9d5cb201c038e598279d84af0622b81c4d634599d94d364ea1d70c5c"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03400.png",
+    "bytes": 352390,
+    "sha256": "ce2dddf6c6dee7bf1000a472325fe4fbc46360507d2a6a97c7eb32997d1b3623"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03550.png",
+    "bytes": 282639,
+    "sha256": "996f9c407c7281e5b8a07eb9a98ee921c4fe7f0101f9c3527fc72315a630a208"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03570.png",
+    "bytes": 277221,
+    "sha256": "0daf101c2293456e917efab8e75992f6c1cc0ddf64c3914e6b2bcacbb5f2774b"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03634.png",
+    "bytes": 228485,
+    "sha256": "85e3682f456c5739ae3894bfbfbe171bc9d446cbf92fa5b23fb35e5a3c8ec2f5"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03660.png",
+    "bytes": 231252,
+    "sha256": "ceeafb14360e0891ada9e9cd93a82791eaecb29e2255933bbaabcf7c33e794ed"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03688.png",
+    "bytes": 337572,
+    "sha256": "b2964148919cdc68bd39ca3bad6dabe2165baac55549916406d3ef4517b44269"
+  },
+  {
+    "path": "project/work_hd/refs/frame_03720.png",
+    "bytes": 341732,
+    "sha256": "6e92d473e5ac36d397c1bc8f303a70ed45047834f529999770e2cc9a9d2bad61"
+  },
+  {
+    "path": "project/work_hd/refs/frame_04054.png",
+    "bytes": 438401,
+    "sha256": "54761ad6798ca7bae31ef9e744d9832128c94208d146409bd0d04e657c9a07f9"
+  },
+  {
+    "path": "project/work_hd/refs/frame_04100.png",
+    "bytes": 423188,
+    "sha256": "f1dfe47926077adee396220fd42d5e5069b56b38d3063ac58b95f76d56ff5661"
+  },
+  {
+    "path": "project/work_hd/refs/frame_04240.png",
+    "bytes": 496484,
+    "sha256": "bff04cd7b75ff9c5c675f44b20dd46e97d4f257a0dcdbdf655197cc7a413d8ee"
+  },
+  {
+    "path": "project/work_hd/refs/frame_04360.png",
+    "bytes": 664671,
+    "sha256": "6ada206546aca4ff17084ba67ed68ebf643856e2b82652eff76c43827dedaa39"
+  },
+  {
+    "path": "project/work_hd/refs/frame_04480.png",
+    "bytes": 423128,
+    "sha256": "3e9a6a8f569d59938b89cee7e82fb0c2b8b924e1480a9baaab767e516d259764"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05050.png",
+    "bytes": 587012,
+    "sha256": "26dc0001213def74acfbf8e7d95ae5c90b1585ad9cfb346a8a803739235de101"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05135.png",
+    "bytes": 697067,
+    "sha256": "0dfaad62c40542a7a2e7dfbae1dd32ab126b0fd27f95578ac38fe138aeebfa29"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05143.png",
+    "bytes": 676407,
+    "sha256": "d306c3df2369eee7945adbdca54ede516a861f1ddd4e40b5315bc88face09643"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05190.png",
+    "bytes": 635005,
+    "sha256": "b5d936a176eedf5030c028404bdf7e69d141b7469d566abc87a44ad60eada997"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05273.png",
+    "bytes": 571063,
+    "sha256": "e94a1e0b2fa2750271a468e3f0729e5609321ab953c02146c66429c7023e5988"
+  },
+  {
+    "path": "project/work_hd/refs/frame_05421.png",
+    "bytes": 9958,
+    "sha256": "574cb8542da940f0080cdd63afc1d96bab645214cba3af053c9c5b72f12f0933"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0001.png",
+    "bytes": 223308,
+    "sha256": "10dbbe2a0a691aa9219fdfcc06e2c385de1fc56836476ed6d293ab63a56b5ece"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0002.png",
+    "bytes": 300979,
+    "sha256": "0fb8af012279e33c844cd59093fb2ca8d06780c0119a0b85338ac5698a3aafaa"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0003.png",
+    "bytes": 264399,
+    "sha256": "ede340e1397fca96a7a8c1cf43984701e79e8679107db60f94175781acf524cd"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0004.png",
+    "bytes": 288611,
+    "sha256": "1282ffe9276230ac65748789bf0d124f6714008301caee4bb106eb077cb8231b"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0005.png",
+    "bytes": 321527,
+    "sha256": "5d7eac8a6e999d4aabc4ef4e2ef015ce7151331d023ad4128775f156d45f673b"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0006.png",
+    "bytes": 178540,
+    "sha256": "92c92e76c7226b8d96835e84ea970746bf4cb5664e8196bccb840d7df2ce104b"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0007.png",
+    "bytes": 573390,
+    "sha256": "bc03e3d8ec96af9c1f77b68226a59549208246c3835d3429a2eeda069d9bb770"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0008.png",
+    "bytes": 615478,
+    "sha256": "ff6b6923b4e44255acb1fb98b71b66997a6f2b479c6ebf1e2ed94c4a49a99bd4"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0009.png",
+    "bytes": 284237,
+    "sha256": "94350070d3d61a990a55140764cd7a8bde1d13facad932ee4003eed3ab8c580b"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0010.png",
+    "bytes": 287414,
+    "sha256": "ced352de43dde4ea713e90a6952b888e16cd2ad8f2e3585ca85fc8327550366c"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0011.png",
+    "bytes": 472474,
+    "sha256": "067618295b9015151540a3aa600b840c04cdae2e66c3c6647539d712cbc15a05"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0012.png",
+    "bytes": 482630,
+    "sha256": "c28b36b99e14b164c7372fc283bd8d92d9d1996bc2947a18b7e9e6655ca78fb3"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0013.png",
+    "bytes": 364095,
+    "sha256": "d2bd70e6cdf95caf1b1446f696f68fc0dc9ea128ef6756be6a60a943dc375ce2"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0014.png",
+    "bytes": 331383,
+    "sha256": "e8b71996926497edf0d9435dd6179c82507c5df6cc2d3be5590bbd6838580a77"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0015.png",
+    "bytes": 463929,
+    "sha256": "a7c64a9462e5cc5c13c208134a0248ef482fc1302d467b2f039041cde9294d42"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0016.png",
+    "bytes": 281463,
+    "sha256": "58ae1a89c2063f81889c657fc10afe3c80e527437f572fd7a8059a1f2a7e9123"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0017.png",
+    "bytes": 267176,
+    "sha256": "265a99d31b5d355ffaae5e1603a00c6972b96ec3cf205dbbcbc4f3e312d6c8ce"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0018.png",
+    "bytes": 144944,
+    "sha256": "5f0af9897e0f5d1c890e492b454af55f722be6f8063cb9d4344ba103f52bc1dc"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0019.png",
+    "bytes": 153999,
+    "sha256": "31f17704b9ca3da42ab9b43e42d2bd2b592fcc07c64ab570ea9f6735c24a247a"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0020.png",
+    "bytes": 255018,
+    "sha256": "c0fcbbc871e47d2a2930553eb89cfb9da02270297002d51ffc5678bc9795833b"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0021.png",
+    "bytes": 210173,
+    "sha256": "3d66714a0f86b5f8c5a7ce0486a130f03438f333b26f6b7864456711371563fc"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0022.png",
+    "bytes": 179271,
+    "sha256": "d268bb9f89d82c6ff8ea87d7f1ef0c828c0bbe6e6d815fdffb3d1f7afe7d4904"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0023.png",
+    "bytes": 343661,
+    "sha256": "ce82ffd0e60b5eba6c7a96cbf758d39ed64a9549e0d76e084a8c14cfa1bd1465"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0024.png",
+    "bytes": 545577,
+    "sha256": "2920b0788d3fa228af33f0de787d54d38bfc207387af410440e79bfedaf22771"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0025.png",
+    "bytes": 348413,
+    "sha256": "6d41008a08b58f3c01f6cc7eaa631853b0ee8696e3e6ce1c75e50d170ee03ca6"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0026.png",
+    "bytes": 744359,
+    "sha256": "359a7fe074592d5bbac40979dfbeb60fa6d1d7f1f1d5875ea4a26d5a295520bd"
+  },
+  {
+    "path": "project/work_hd/refs/sel_0027.png",
+    "bytes": 401355,
+    "sha256": "b439108397c1deebb7c7a218deb852d16ed74a2b1f06114b7d10efef671fe9d9"
+  },
+  {
+    "path": "project/work_hd/review.py",
+    "bytes": 808,
+    "sha256": "10c791b258787927270b071146bdbaf360abe0fd671d013810fde88b03b70b15"
+  },
+  {
+    "path": "project/work_hd/review_encoded.py",
+    "bytes": 2006,
+    "sha256": "719b337b6c2efe561f5d01f273ba0a5764216863e0425422c332fdf8939f29b2"
+  },
+  {
+    "path": "project/work_hd/source_specs.json",
+    "bytes": 3712,
+    "sha256": "43a1598a8933a409aeca5245ec2728467134e0cdfaef2d6abf94a7256c6ab791"
+  },
+  {
+    "path": "project/work_hd/timeline.json",
+    "bytes": 7313,
+    "sha256": "bc06b1a2bef6ce8a7916dbc6a847e2ac4a9a562f4c449ed033a3e3d9a0c469a9"
+  },
+  {
+    "path": "project/work_hd/validation.json",
+    "bytes": 4330,
+    "sha256": "0bd38cc9e3dc80fd9920a929fb92cff01c037d35e6718c16ff95331925be1f9b"
+  },
+  {
+    "path": "project/work_hd/verify_delivery.py",
+    "bytes": 1537,
+    "sha256": "dd901562403980a22f8a95ceb558c4f034839213347e783dfd402f027909cd13"
+  },
+  {
+    "path": "project/work_repair/README.md",
+    "bytes": 3676,
+    "sha256": "3a8107b7ca07427a0c63daffbb6e1674161579e6a92a2c99ef9869c48a5d19dd"
+  },
+  {
+    "path": "project/work_repair/analysis/fishing_fade_source.jpg",
+    "bytes": 160288,
+    "sha256": "851b2a08e8ce76e6d0bb353e7ff6e8b94213e7e0084503cdda4755fc69dcfe49"
+  },
+  {
+    "path": "project/work_repair/analysis/pier_transition_sequence.jpg",
+    "bytes": 134995,
+    "sha256": "40b5434e1b5daa5ff4dbdbd4e42d500caeff01e3de839c91abb22bafd1d3829e"
+  },
+  {
+    "path": "project/work_repair/assets/bowl_head.json",
+    "bytes": 1949,
+    "sha256": "b27d1b335992db8dccf8c33891af120023a8da58edf5629867d870595091bf70"
+  },
+  {
+    "path": "project/work_repair/assets/bowl_head.png",
+    "bytes": 1279674,
+    "sha256": "d664c92bf022898303425f16de79e33abd9525f04ada3b237580d6b2a7304631"
+  },
+  {
+    "path": "project/work_repair/assets/pier_back_b.json",
+    "bytes": 2278,
+    "sha256": "1557ac167a91f84b9f2f99fbfb323dbd7212d20a1ee17d18775cedec861f8d01"
+  },
+  {
+    "path": "project/work_repair/assets/pier_back_b.png",
+    "bytes": 1011081,
+    "sha256": "ddf4246a9c9884cb1ed07a49dca16dc1bad645a72100d88c9f9db43f92ab9097"
+  },
+  {
+    "path": "project/work_repair/assets/pier_back_c.json",
+    "bytes": 2065,
+    "sha256": "be043fab5856738b45ece11c67f73841460304c9e811fe85528d95aabda79a10"
+  },
+  {
+    "path": "project/work_repair/assets/pier_back_c.png",
+    "bytes": 1007568,
+    "sha256": "1d8465f46b71407a32ce28f9aff97df33b3c53ad5dd2a79cf4ab1f40e56a34e7"
+  },
+  {
+    "path": "project/work_repair/assets/water_float.json",
+    "bytes": 1785,
+    "sha256": "284563741955e937e149cb1d98a7664098f5b4c21f6292b845becd0d40ef7331"
+  },
+  {
+    "path": "project/work_repair/assets/water_float.png",
+    "bytes": 1280906,
+    "sha256": "f14dd9c6e92f52465fdbe1b7fb92fc97c63d4774e2fa04f7fcf14deebda21dca"
+  },
+  {
+    "path": "project/work_repair/build_comparison.py",
+    "bytes": 2493,
+    "sha256": "4989eccdb52d22f8ea4543124e70e61bc57035b977fa6353daa00d2af5791a62"
+  },
+  {
+    "path": "project/work_repair/build_comparison.py.original",
+    "bytes": 2512,
+    "sha256": "e8ac5f3f996e8e5bc3d29e17e52b3ce13ff71bf92abfa303d4c5f3f900f105ab"
+  },
+  {
+    "path": "project/work_repair/compose_repair.py",
+    "bytes": 8784,
+    "sha256": "dec0cd3ffaa4e95190bcdc89431cdae94d8c8a9a56d82f57afb0da9a9a457177"
+  },
+  {
+    "path": "project/work_repair/delivery_manifest.json",
+    "bytes": 2800,
+    "sha256": "2e56035816d892aeac74036a1111a59d5c4d2fa0c4e91150a74e66995f5d460f"
+  },
+  {
+    "path": "project/work_repair/encoded/boundaries_0.jpg",
+    "bytes": 227069,
+    "sha256": "bc9f96bce8a841c031f54ea2c5feeaafd99804b1336a79b54001883183c8a9aa"
+  },
+  {
+    "path": "project/work_repair/encoded/boundaries_1.jpg",
+    "bytes": 191715,
+    "sha256": "9714cc7cc77319028f2894a83204f3646cb9096bf2f8dc28710e827d1fadc17a"
+  },
+  {
+    "path": "project/work_repair/encoded/boundaries_2.jpg",
+    "bytes": 211963,
+    "sha256": "e903e1c240d98810c55d2386fc9931d5ab5ee4d6edbf90b83fdb2d79341dcffb"
+  },
+  {
+    "path": "project/work_repair/encoded/boundaries_3.jpg",
+    "bytes": 191018,
+    "sha256": "d1247147b23f8bc451a33072482b14d905785bee755ee346356e38d5d7189c63"
+  },
+  {
+    "path": "project/work_repair/encoded/points_0.jpg",
+    "bytes": 292014,
+    "sha256": "7b027b06653436d8e7707369e06dcd20f8a40c370abeed2b67ff498b7db6c23f"
+  },
+  {
+    "path": "project/work_repair/encoded/points_1.jpg",
+    "bytes": 237507,
+    "sha256": "a8f66c33a695b219c7ba8bbc1e30f1026e499051f52004f8ab77985e287e0be1"
+  },
+  {
+    "path": "project/work_repair/encoded/points_2.jpg",
+    "bytes": 256842,
+    "sha256": "ce4de4cf46d3c342258e25c0944bb32a0643ad8b0915ebfa7a7e1f86958d0f1f"
+  },
+  {
+    "path": "project/work_repair/encoded/points_3.jpg",
+    "bytes": 182014,
+    "sha256": "840345b4a843badcb47cf47ccf70c7bee8337b1bfbd1d789996b02a68c65e613"
+  },
+  {
+    "path": "project/work_repair/encoded_review.json",
+    "bytes": 3471,
+    "sha256": "5e1a4b1bdf6424920145d07b3871361d69448d6c94e07fcee1b87983e51e7252"
+  },
+  {
+    "path": "project/work_repair/final_exposures.json",
+    "bytes": 3938,
+    "sha256": "589a149762cd3d1b54c622995348302b59ce9196c60d7952cf47cf535c7f4693"
+  },
+  {
+    "path": "project/work_repair/focus_segments.json",
+    "bytes": 566,
+    "sha256": "bbeb1410e172d898142996d891c124e6adaebe4bd3f3dcdbd5026fbccb8e699a"
+  },
+  {
+    "path": "project/work_repair/masks.json",
+    "bytes": 27802,
+    "sha256": "6936df49db5d568141c75e714a3ce4e120471130949e96eed7c298cd862a33cf"
+  },
+  {
+    "path": "project/work_repair/package_project.py",
+    "bytes": 3384,
+    "sha256": "9cf085b6e79354a60c7e6844323e37898a5186e96a3e92840ca1cfdd9ba0d297"
+  },
+  {
+    "path": "project/work_repair/pier_exposures.json",
+    "bytes": 566,
+    "sha256": "446a52836bc35049f57290eb1477b0010c39ad1b6bcf589693baba4e410b3b41"
+  },
+  {
+    "path": "project/work_repair/pier_states.json",
+    "bytes": 4793,
+    "sha256": "60b2695742a20e3a82c397f871113b51f39d24e1c0c7403f59866b5a61bd9dfd"
+  },
+  {
+    "path": "project/work_repair/refs/before_00480.png",
+    "bytes": 384271,
+    "sha256": "bb84f25021a9f41f0364e43ca4c9e9d94742ad3fd8ccc9f25c81aec53671f1c8"
+  },
+  {
+    "path": "project/work_repair/refs/before_00489.png",
+    "bytes": 440685,
+    "sha256": "475b977ba627d28b86fc8ed8d3f78bfe8f6d67d96472859fe686586fe462e52d"
+  },
+  {
+    "path": "project/work_repair/refs/before_00520.png",
+    "bytes": 249787,
+    "sha256": "3dc99e7a03fd846edb9372c2d6994136f3f3b631a5bfc460e023f7badc538311"
+  },
+  {
+    "path": "project/work_repair/refs/before_00624.png",
+    "bytes": 531117,
+    "sha256": "f7597c504ed0117fbe8e35b4fc105bcd20c31fee0062a94ef90116ebe6de0776"
+  },
+  {
+    "path": "project/work_repair/refs/before_00650.png",
+    "bytes": 550942,
+    "sha256": "da63c6b92ad66328ccbd17026ac1ed14eb04c2df858f7296e04dc99db9e4780c"
+  },
+  {
+    "path": "project/work_repair/refs/before_00680.png",
+    "bytes": 552563,
+    "sha256": "4a64ba42da3850f2c12e73f31bb913b8f7cd163f4da4bd01ee726f20f427155c"
+  },
+  {
+    "path": "project/work_repair/refs/before_00710.png",
+    "bytes": 552720,
+    "sha256": "600fe537f8b3ef6c4e1ce86925e6ce3a85e3f68f0e57d5447005318e9df8d7c9"
+  },
+  {
+    "path": "project/work_repair/refs/before_00740.png",
+    "bytes": 574221,
+    "sha256": "69af2cbb7c2238d5234497dbdf9efa06232b422f2c68f7e1cbf0e369733ea0d2"
+  },
+  {
+    "path": "project/work_repair/refs/before_00761.png",
+    "bytes": 574781,
+    "sha256": "a571a5fa2eec8f57e5ad0dbbbe9dd6dd830d743c18392a048f68b61ef8a9a658"
+  },
+  {
+    "path": "project/work_repair/refs/before_00930.png",
+    "bytes": 367622,
+    "sha256": "2bce220ca7b61d5676a6345586722b7592361ff7868ed6c3a24c5d803416344d"
+  },
+  {
+    "path": "project/work_repair/refs/before_00990.png",
+    "bytes": 387856,
+    "sha256": "21a12c9b5ccfdebbb571a75735cfe1d78de5778f227f4d31ac65e02533a04bf9"
+  },
+  {
+    "path": "project/work_repair/refs/before_01630.png",
+    "bytes": 342060,
+    "sha256": "370a50eba61dc864d70b91674ea17e0fbb3dba148310ab6f0e79a296a4b05ca7"
+  },
+  {
+    "path": "project/work_repair/refs/before_01670.png",
+    "bytes": 342108,
+    "sha256": "f47179723dd3eb978af74be1117a6316dc9bdb61910de098f4213902c78aa36d"
+  },
+  {
+    "path": "project/work_repair/refs/before_01968.png",
+    "bytes": 29928,
+    "sha256": "620b821ee7898d2e3fb1db9ce76b8ed0ddb14181831dda3abf2ed087be34d901"
+  },
+  {
+    "path": "project/work_repair/refs/before_01992.png",
+    "bytes": 77230,
+    "sha256": "dfd12a6d9d4b7f05e7c0434e8d4caeaf392f4684117a7839421e64abb1d22ed7"
+  },
+  {
+    "path": "project/work_repair/refs/before_02000.png",
+    "bytes": 220975,
+    "sha256": "95b927c1c41e6763e5554e24ce2c4754c8fb8c23d58767ee2ccb4153b18a3fdf"
+  },
+  {
+    "path": "project/work_repair/refs/before_02006.png",
+    "bytes": 239497,
+    "sha256": "ac8937ae643ee7f92cf71c743aa17f46fcac6a46b6856ac60555f0e567e71f8d"
+  },
+  {
+    "path": "project/work_repair/refs/before_02060.png",
+    "bytes": 285440,
+    "sha256": "46fab548b8c4cac8debdc7aa83630790a02a9490f2642a7e81dc3edbe63677b4"
+  },
+  {
+    "path": "project/work_repair/refs/before_02140.png",
+    "bytes": 272078,
+    "sha256": "c7a1ae874cbee4d295cd3252d9977a9063e38b335a7ad96dd626f35f401f596a"
+  },
+  {
+    "path": "project/work_repair/refs/before_02176.png",
+    "bytes": 307464,
+    "sha256": "ff7d864f0a01d9846640ac08766aef46bc6f71594b3b0f6b6f2ed17ecb5ddfe6"
+  },
+  {
+    "path": "project/work_repair/refs/before_02300.png",
+    "bytes": 389839,
+    "sha256": "2396ec973471f98bb6e1c0586e91733c9e0ed1dab1b84404affe566abbffbaec"
+  },
+  {
+    "path": "project/work_repair/refs/before_02600.png",
+    "bytes": 441997,
+    "sha256": "a367d991f18adb24b4132d1c4b418e63caf9db55ff57cf8d9de1a709bc304ad5"
+  },
+  {
+    "path": "project/work_repair/refs/before_04200.png",
+    "bytes": 624313,
+    "sha256": "e70eb348e493b3b87f9b37edf6fa0a9fcf29fa5a05a347898cdd291022bf8358"
+  },
+  {
+    "path": "project/work_repair/refs/before_04240.png",
+    "bytes": 627897,
+    "sha256": "aaf765f37d143b3075b8703e8ede87c71e4c73cbe4522e48972ecb5fdd57a722"
+  },
+  {
+    "path": "project/work_repair/refs/before_04360.png",
+    "bytes": 894542,
+    "sha256": "1c9e5ba22a23b5fa43dedc3d17cc2debada00c25ce9204adf96108de2d1ce349"
+  },
+  {
+    "path": "project/work_repair/refs/before_05050.png",
+    "bytes": 740337,
+    "sha256": "06f362e4eb25c02ebd614e28294cf19d3f86ee88937b4fa1bc22c1bd7d083e6c"
+  },
+  {
+    "path": "project/work_repair/refs/before_05190.png",
+    "bytes": 701786,
+    "sha256": "b4b16ed62c38ad3c65f5827fd92528ca395ccf965bc8e2cdca181be3b986e225"
+  },
+  {
+    "path": "project/work_repair/refs/before_05240.png",
+    "bytes": 649724,
+    "sha256": "09a0024e66acaefd31d416779ba3d61435684bebba2d12596db22789c44a3728"
+  },
+  {
+    "path": "project/work_repair/refs/before_05273.png",
+    "bytes": 588559,
+    "sha256": "4cb5d914262d32e11f30d22263db282957f09b290e3aa4686f0f23e5f0fed547"
+  },
+  {
+    "path": "project/work_repair/refs/before_05274.png",
+    "bytes": 18558,
+    "sha256": "5c4280f85385bf06f2db127cabea6cc7e963e47c4b39b0645579fcdbabc017f0"
+  },
+  {
+    "path": "project/work_repair/refs/before_05280.png",
+    "bytes": 23068,
+    "sha256": "d6b6ebf8573ed733babe83aff5ff838a3ed40ea3a34f7c23a22e6e37745dad78"
+  },
+  {
+    "path": "project/work_repair/refs/before_05300.png",
+    "bytes": 28704,
+    "sha256": "08084ddc06bb5c2efeee7c391ef8228fa968c51da6a44f068d3f0bae2c2c3b05"
+  },
+  {
+    "path": "project/work_repair/refs/pier_001.png",
+    "bytes": 268777,
+    "sha256": "089b5457ec7ab233355abeecb8a9b068a5ab1b43a68069f58904c76ced472f7f"
+  },
+  {
+    "path": "project/work_repair/refs/pier_002.png",
+    "bytes": 269739,
+    "sha256": "ed56c1eb4e45748f6ec58aa60cd0454d042d34b5c82a55aef0ffba9191d29ad2"
+  },
+  {
+    "path": "project/work_repair/refs/pier_003.png",
+    "bytes": 269638,
+    "sha256": "3c64710d2ce43ff71de91694278143969f23355eb3bea790ad4bb5bad46c808e"
+  },
+  {
+    "path": "project/work_repair/refs/source_00480.png",
+    "bytes": 297053,
+    "sha256": "1809da2ce0bf6c6df88a243ce407191d510949eeff8333835b49dfaca72d3031"
+  },
+  {
+    "path": "project/work_repair/refs/source_00520.png",
+    "bytes": 169277,
+    "sha256": "b9d7a71eef7d6c0b09e4b9ab5da1fe6dffd9c7ce3adddf1a2b4f612b0d32262d"
+  },
+  {
+    "path": "project/work_repair/refs/source_00624.png",
+    "bytes": 471118,
+    "sha256": "0c89c232053373478102ad35d825e5669316b24f4b9479e6cc7e7904419d91c4"
+  },
+  {
+    "path": "project/work_repair/refs/source_00650.png",
+    "bytes": 497610,
+    "sha256": "4bdd80d5ff0eab860a006c7c33270954bde4b4d6b3e933e05928321d56495bce"
+  },
+  {
+    "path": "project/work_repair/refs/source_00680.png",
+    "bytes": 498231,
+    "sha256": "54c37fe3d6ae4c8f581fc12e8aea415db90dc854afaea2119510eb04c3b5ef8b"
+  },
+  {
+    "path": "project/work_repair/refs/source_00710.png",
+    "bytes": 498231,
+    "sha256": "54c37fe3d6ae4c8f581fc12e8aea415db90dc854afaea2119510eb04c3b5ef8b"
+  },
+  {
+    "path": "project/work_repair/refs/source_00740.png",
+    "bytes": 482869,
+    "sha256": "ed262a2af26831cac22e4b9f65fdf5d25890db6f68dbc929a9f9da3629c2c89b"
+  },
+  {
+    "path": "project/work_repair/refs/source_00761.png",
+    "bytes": 482871,
+    "sha256": "09bf87136e1372fa0f608245e8ffa599757e7b24fa2c45035e46f824a51d50d1"
+  },
+  {
+    "path": "project/work_repair/refs/source_00930.png",
+    "bytes": 264266,
+    "sha256": "321023e8437211a8751d42847c2967306749f1fc400a5fc0778f078612dda913"
+  },
+  {
+    "path": "project/work_repair/refs/source_00990.png",
+    "bytes": 269535,
+    "sha256": "e7a28408e6bfefaf54a980e219a79ceb4b2545a9d94ef11addc5e0f4fff828b4"
+  },
+  {
+    "path": "project/work_repair/refs/source_01630.png",
+    "bytes": 295661,
+    "sha256": "c0ca6fd0dd72b7a662988593fb20dd0562073ae545c5888c9a4a08bd0dd83618"
+  },
+  {
+    "path": "project/work_repair/refs/source_01670.png",
+    "bytes": 295693,
+    "sha256": "7053f93c6c2487b7929f8f28edbffb04c26c4c1ee4a462ddab7b41bdb81875e0"
+  },
+  {
+    "path": "project/work_repair/refs/source_01968.png",
+    "bytes": 29181,
+    "sha256": "85d38a8e26df43da9aea98971c666c9d7b9c8aa10a0f7acd91fc1184460de1ba"
+  },
+  {
+    "path": "project/work_repair/refs/source_01992.png",
+    "bytes": 76869,
+    "sha256": "4da295c243e6b456009c3f6ecb5973d91ab85b89ea0b6d6766f603a8a30aa3c6"
+  },
+  {
+    "path": "project/work_repair/refs/source_02000.png",
+    "bytes": 211563,
+    "sha256": "21f4ac029a32c0b3ad99f31815066778dad94abab7252b3377e768abf6263af7"
+  },
+  {
+    "path": "project/work_repair/refs/source_02006.png",
+    "bytes": 268777,
+    "sha256": "089b5457ec7ab233355abeecb8a9b068a5ab1b43a68069f58904c76ced472f7f"
+  },
+  {
+    "path": "project/work_repair/refs/source_02012.png",
+    "bytes": 269739,
+    "sha256": "ed56c1eb4e45748f6ec58aa60cd0454d042d34b5c82a55aef0ffba9191d29ad2"
+  },
+  {
+    "path": "project/work_repair/refs/source_02018.png",
+    "bytes": 269638,
+    "sha256": "3c64710d2ce43ff71de91694278143969f23355eb3bea790ad4bb5bad46c808e"
+  },
+  {
+    "path": "project/work_repair/refs/source_02024.png",
+    "bytes": 265780,
+    "sha256": "7d5f53938b43466c4de67fe8ddb75b7d65cf8a8f612d460eadc9a627e5ec9dae"
+  },
+  {
+    "path": "project/work_repair/refs/source_02040.png",
+    "bytes": 254003,
+    "sha256": "e7500d7140245ad20eec752bd7105941064d2f679ec83d359102f02a8f41f31d"
+  },
+  {
+    "path": "project/work_repair/refs/source_02041.png",
+    "bytes": 253898,
+    "sha256": "6aede227dd4c3b8e96b52f39132f54e4d55f72dc6cb7268ed82f98102eaaa224"
+  },
+  {
+    "path": "project/work_repair/refs/source_02060.png",
+    "bytes": 255018,
+    "sha256": "c0fcbbc871e47d2a2930553eb89cfb9da02270297002d51ffc5678bc9795833b"
+  },
+  {
+    "path": "project/work_repair/refs/source_02140.png",
+    "bytes": 260682,
+    "sha256": "60213e5b50bf35125c0a410f4d6cb655779d404563b95765b3d131c80ac45071"
+  },
+  {
+    "path": "project/work_repair/refs/source_02176.png",
+    "bytes": 285955,
+    "sha256": "aeeb933fe46f0abc0ffacc9bb3f72c331233e572d33addcfebdbcfa3c73f99ef"
+  },
+  {
+    "path": "project/work_repair/refs/source_02300.png",
+    "bytes": 310194,
+    "sha256": "6ef18356f5342c717f2fcd3aa4e8f05f90fa7fd7dd8e981780d85627736d77e7"
+  },
+  {
+    "path": "project/work_repair/refs/source_02600.png",
+    "bytes": 308375,
+    "sha256": "616ad9e8dbfa5fb93d2dcf0d4af92349e56d0b751e392ad28de58056c149532d"
+  },
+  {
+    "path": "project/work_repair/refs/source_04200.png",
+    "bytes": 459434,
+    "sha256": "2552b748cb3cffe7e6fb86ed97a09441374aa3610238c7ed8ff0f9d263150b20"
+  },
+  {
+    "path": "project/work_repair/refs/source_04240.png",
+    "bytes": 459778,
+    "sha256": "ec4602c6e010399cffa6d2233725585f6476eb9c8042fabe23cd7ab0ad527014"
+  },
+  {
+    "path": "project/work_repair/refs/source_05190.png",
+    "bytes": 577004,
+    "sha256": "2a55e55e1fa947b5f7aac9c6e3510d53794048355732ce55f33339be67bc5c29"
+  },
+  {
+    "path": "project/work_repair/refs/source_05240.png",
+    "bytes": 522014,
+    "sha256": "0af4e7f0b86de85a81a7fe4d261713486f71e7f989899fd48b885aaddf352f06"
+  },
+  {
+    "path": "project/work_repair/refs/source_05273.png",
+    "bytes": 521946,
+    "sha256": "2997a21a36da5c30ba2d3b824e3abaa036ec0db612d1d351e07a320fe26c8078"
+  },
+  {
+    "path": "project/work_repair/refs/source_05274.png",
+    "bytes": 18747,
+    "sha256": "cc5a7abc2d2b417364e0360698fcc75ad09541ced4b15496abb8093dfe66456f"
+  },
+  {
+    "path": "project/work_repair/refs/source_05280.png",
+    "bytes": 22551,
+    "sha256": "78798784a3a9fc32269278a3efe8e252ef046aec6787c89cb4f98e74a14df3dd"
+  },
+  {
+    "path": "project/work_repair/refs/source_05300.png",
+    "bytes": 28107,
+    "sha256": "ae45f282e74cb5475ce6f26da697b829dea20aeb27bb38903cc8aeb85a934420"
+  },
+  {
+    "path": "project/work_repair/render_repair.py",
+    "bytes": 2515,
+    "sha256": "44abf3abb9fd1fc629e5a5885a45a63383a5f0485a2b9b36370ece1636a2b7ba"
+  },
+  {
+    "path": "project/work_repair/render_report.json",
+    "bytes": 709,
+    "sha256": "39174099eacf5403a6c2754e65459fc46857455f7bc30bc0ba3bcb4475ec0df6"
+  },
+  {
+    "path": "project/work_repair/review_encoded.py",
+    "bytes": 3873,
+    "sha256": "efd5d9a959c50b0f336c53b49ffd3df36fde7f74eb71d830ee9d08a9b0b3ca84"
+  },
+  {
+    "path": "project/work_repair/validation.json",
+    "bytes": 4461,
+    "sha256": "90903114d1372b375d09cc1aae69e302d4bd6d2de96ba59e2648ed0843567623"
+  },
+  {
+    "path": "project/work_repair/verify_delivery.py",
+    "bytes": 1719,
+    "sha256": "1ca6bc67e7f144729941cf818195b55e29211344e9c3ad4cede88b3ec4277090"
+  },
+  {
+    "path": "references/feedback/image(1).png",
+    "bytes": 93783,
+    "sha256": "dbd8306ca12654c5ac38e17bdef129279f2f346396a4515e3facc8f3e380ac48"
+  },
+  {
+    "path": "references/feedback/image(2).png",
+    "bytes": 114324,
+    "sha256": "721f878cc74af543e1ca470492bdbde95c231c30c36f242d8a857b3a77e85da4"
+  },
+  {
+    "path": "references/feedback/image(3).png",
+    "bytes": 134731,
+    "sha256": "41d947520c5efe69af95f2363fea58404e455560bd7746a4a72919c1fe3368ca"
+  },
+  {
+    "path": "references/feedback/image(4).png",
+    "bytes": 139799,
+    "sha256": "53300e07ec15a8667dd8e716d09225539551087f3363c94e6c718f4edec5e26f"
+  },
+  {
+    "path": "references/feedback/image(5).png",
+    "bytes": 86034,
+    "sha256": "2c7fc7fb172b6d69cc8cfe8ec4c11e9afe46487edcf9d5ddd27086ce6957e470"
+  },
+  {
+    "path": "references/feedback/image(6).png",
+    "bytes": 144034,
+    "sha256": "215c36e239b089c7675b3d0ace1e0f843dc051e0ccefebef4ab5f7047de489ba"
+  },
+  {
+    "path": "references/feedback/image(7).png",
+    "bytes": 149820,
+    "sha256": "c1c8b80c19e6010fef7be820ce28ba7b1479263852954b30c7a5d68194284da9"
+  },
+  {
+    "path": "references/feedback/image.png",
+    "bytes": 75331,
+    "sha256": "1e270d701c8b88bf6bd6d21755152c5056bf8cd336e28b2aab3a2ab9f5c69f45"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 45,
+    "sha256": "f0ab335d115255ececbf226ca60fc7faa8970827a72748bad277d4bf0c6bdb9b"
+  },
+  {
+    "path": "resources/DejaVuSans.ttf",
+    "bytes": 759720,
+    "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  {
+    "path": "resources/DejaVuSans_LICENSE.txt",
+    "bytes": 3859,
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  {
+    "path": "resources/imagegen_SKILL_used.md",
+    "bytes": 19201,
+    "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba"
+  },
+  {
+    "path": "sources/【MV】20200410-【洛天依原创】我的悲伤是水做的.mp4",
+    "bytes": 3511674,
+    "sha256": "39e8a29b64915fa919e124faaf132760e434fe2833ff94c47d845b57c501f9bd"
+  },
+  {
+    "path": "tools/pv-character-replacement/.gitignore",
+    "bytes": 192,
+    "sha256": "77cf1c8c422958ac4a297eba906e5d4af394c958b5bec0c753d35f17f121fe7e"
+  },
+  {
+    "path": "tools/pv-character-replacement/README.md",
+    "bytes": 4524,
+    "sha256": "ef91d84963dfb885214fc407fece7c130cf742c2a6d8f8b61b610ec73a1b837d"
+  },
+  {
+    "path": "tools/pv-character-replacement/requirements.txt",
+    "bytes": 52,
+    "sha256": "0a38196a22e56e9eeddc8781619d4faf2eeb54c5986061e276b4b1e67081d3ad"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/SKILL.md",
+    "bytes": 9744,
+    "sha256": "e12d7f0d9629505bd851d65f8dd6fd26da67edf4458e310be5a5b9e2b9b44fcd"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/agents/openai.yaml",
+    "bytes": 370,
+    "sha256": "b1cc41abf3e8c1112652fe68e4250c394b49c9eb92d3d44578ebc243d38ab0bd"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/analysis-and-timing.md",
+    "bytes": 5030,
+    "sha256": "887740662c44644036bc4942b7d620d972617085ebae3e538f87b49c2d542010"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/layers-and-continuity.md",
+    "bytes": 4783,
+    "sha256": "a033b75861a8f5e3bef7224fbbe5d9a6cee035197b4d3bdbda74dc6b13af19b3"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/postproduction-and-lyric-timing.md",
+    "bytes": 7735,
+    "sha256": "cad178e2afb896a52b7181015e6547b47a9a3f2cc62500b889ed01f29c03b93d"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/prompt-patterns.md",
+    "bytes": 7064,
+    "sha256": "3164136b9332cba6c544a71dd2bbe4a9556b532042612843f85baee155530082"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/proportions-and-placement.md",
+    "bytes": 5119,
+    "sha256": "78b7c00d6ab926844a30b78ee404756857050910be557cbf22ffd1a18d90220a"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/references/review-and-delivery.md",
+    "bytes": 8833,
+    "sha256": "e4e515974caf06fcbc6243a0c9a9a25896184c9bd753642e408bafd2b16d4274"
+  },
+  {
+    "path": "tools/pv-character-replacement/skills/pv-character-replacement/scripts/pv_tools.py",
+    "bytes": 24624,
+    "sha256": "809daadbfb2d5b5fa47dff814213d7eb91dc86c6fe07a2365c8515f365e1bfd7"
+  },
+  {
+    "path": "tools/pv-character-replacement/tests/test_pv_tools.py",
+    "bytes": 11602,
+    "sha256": "bb312029b4f2b68c769c9654a4bc9ad50c7a439767bd1960b40bc536fc379fa3"
+  },
+  {
+    "path": "verify_repository.py",
+    "bytes": 2180,
+    "sha256": "9c70179adced62490d3e57aa3099486a9a545a627c04ad05de1a24634b98bb10"
+  }
+]

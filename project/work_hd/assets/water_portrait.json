@@ -1,0 +1,28 @@
+{
+  "name": "water_portrait",
+  "start": 1710,
+  "end": 1920,
+  "idx": 1730,
+  "roi": [
+    435,
+    0,
+    1515,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Close-up from above of girl floating horizontally on water, looking toward viewer with wide weary open eyes, small downturned mouth. Keep original head tilt, face anatomy and T-shirt neckline. Both LONG twin tails fan outward loosely across water surface, not cut into short wisps. Source lyrics across neck stay EXACT, do not invent letters.",
+  "refs": [
+    "work_hd/refs/frame_01730.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-68383932-2a2b-4d1e-899e-76790fc16a17.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 1710,
+      "end": 1920
+    }
+  ],
+  "adopted_cleanup": "water_portrait_clean.json",
+  "compositor_review": "HD source lyric transition isolated; white circle effect separated from original white hair"
+}

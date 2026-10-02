@@ -1,0 +1,172 @@
+{
+  "point_frames": [
+    [
+      "20s",
+      520,
+      "crouch_back"
+    ],
+    [
+      "29s",
+      696,
+      "pole_sit"
+    ],
+    [
+      "39s awake",
+      930,
+      "table_awake"
+    ],
+    [
+      "39s sleep",
+      990,
+      "table_sleep"
+    ],
+    [
+      "1m09s",
+      1656,
+      "water_float"
+    ],
+    [
+      "1m06s fade",
+      1581,
+      "fishing"
+    ],
+    [
+      "1m23s A",
+      1992,
+      "pier_back"
+    ],
+    [
+      "1m23s B",
+      2006,
+      "pier_back_b"
+    ],
+    [
+      "1m23s C",
+      2024,
+      "pier_back_c"
+    ],
+    [
+      "1m30s",
+      2160,
+      "pier_back_b"
+    ],
+    [
+      "1m37s",
+      2328,
+      "bowl_head"
+    ],
+    [
+      "1m47s",
+      2568,
+      "ribbon"
+    ],
+    [
+      "2m55s",
+      4200,
+      "water_birds"
+    ],
+    [
+      "ending",
+      5240,
+      "bike_crouch"
+    ]
+  ],
+  "boundary_frames": [
+    342,
+    624,
+    762,
+    898,
+    965,
+    1038,
+    1574,
+    1579,
+    1585,
+    1710,
+    1982,
+    2006,
+    2024,
+    2039,
+    2057,
+    2075,
+    2093,
+    2108,
+    2177,
+    2266,
+    2405,
+    2544,
+    2678,
+    4184,
+    4318,
+    4456,
+    5006,
+    5131,
+    5143,
+    5274
+  ],
+  "outside_range_checks": [
+    {
+      "frame": 250,
+      "rgb_mean_absolute_difference": 0.14729343354701996,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 1200,
+      "rgb_mean_absolute_difference": 0.2752404808998108,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 1470,
+      "rgb_mean_absolute_difference": 0.518316924571991,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 1730,
+      "rgb_mean_absolute_difference": 1.4277288913726807,
+      "pixels_difference_over_10_fraction": 1.6878858024691356e-05
+    },
+    {
+      "frame": 2180,
+      "rgb_mean_absolute_difference": 0.08825874328613281,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 2470,
+      "rgb_mean_absolute_difference": 0.21767473220825195,
+      "pixels_difference_over_10_fraction": 1.9290123456790124e-06
+    },
+    {
+      "frame": 2740,
+      "rgb_mean_absolute_difference": 0.40136364102363586,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 3000,
+      "rgb_mean_absolute_difference": 0.28722333908081055,
+      "pixels_difference_over_10_fraction": 6.26929012345679e-06
+    },
+    {
+      "frame": 3400,
+      "rgb_mean_absolute_difference": 0.24946115911006927,
+      "pixels_difference_over_10_fraction": 2.8935185185185184e-06
+    },
+    {
+      "frame": 3550,
+      "rgb_mean_absolute_difference": 0.1668994277715683,
+      "pixels_difference_over_10_fraction": 0.0
+    },
+    {
+      "frame": 3720,
+      "rgb_mean_absolute_difference": 0.14863458275794983,
+      "pixels_difference_over_10_fraction": 3.858024691358025e-06
+    },
+    {
+      "frame": 4480,
+      "rgb_mean_absolute_difference": 0.21242813766002655,
+      "pixels_difference_over_10_fraction": 2.4112654320987654e-06
+    }
+  ],
+  "method": "encoded frame review and paired boundary stills; not actual realtime player viewing",
+  "visual_review_status": "passed",
+  "reviewed_points": "All nine feedback scenes, three rear cels, awake/sleep table cels and the additionally repaired fishing fade were inspected in encoded stills.",
+  "reviewed_boundaries": "Paired scene boundaries and all eight rear-pose exposure switches; final fishing fade frames1581,1584,1585 separately reviewed."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stand_threequarter",
+  "start": 240,
+  "end": 342,
+  "idx": 250,
+  "roi": [
+    135,
+    0,
+    660,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target:  The protagonist stands near the left edge, body facing away and head turned toward screen right in a restrained three-quarter profile. Preserve head tilt, eyes and hands clasped behind her coat, actual boot positions and slim proportions. Two turquoise twin tails fall to knee height.",
+  "refs": [
+    "work_hd/refs/frame_00250.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-a9489be5-c6d2-4c42-ba29-a855ffca9f87.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 240,
+      "end": 342
+    }
+  ]
+}

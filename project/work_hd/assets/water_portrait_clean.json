@@ -1,0 +1,10 @@
+{
+  "name": "water_portrait",
+  "prompt": "Use case: precise-object-edit. Edit this exact complete film cel. Remove ALL text, lettering, lyrics and logos from the image, including blue Chinese glyphs crossing the character/hair/neck. Reconstruct only the tiny places hidden beneath lettering as continuous same hair/background/skin. KEEP the Miku character COMPLETELY unchanged: face, pupils, gaze, mouth, eyebrows, head/body size and position, all hair strand curves, twin tails, navy pink bands, coat/ball/T-shirt, precise framing, pose, palette, line art and flat source drawing style. Do not move anything or redraw the face. Output the same full 16:9 image, WITHOUT any text.",
+  "refs": [
+    "assets/water_portrait_with_text.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-cf7996ab-3f24-49ac-bc65-ea0e33d67a32.png",
+  "adopted": "assets/water_portrait.png",
+  "status": "generated"
+}

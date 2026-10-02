@@ -1,0 +1,26 @@
+{
+  "name": "anchor_crouch",
+  "start": 342,
+  "end": 490,
+  "idx": 489,
+  "roi": [
+    15,
+    555,
+    735,
+    1080
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Original target frame 00490; replace crouching protagonist with Hatsune Miku in the source raincoat, preserve pigeons/title/backdrop. Exact original prompt saved separately in generation session; subsequent production prompts include full identity details.",
+  "refs": [
+    "work_hd/refs/frame_00489.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-02bd59dd-f685-4fe3-becd-ad959329ed1d.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 342,
+      "end": 490
+    }
+  ]
+}

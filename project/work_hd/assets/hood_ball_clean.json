@@ -1,0 +1,10 @@
+{
+  "name": "hood_ball",
+  "prompt": "Use case: precise-object-edit. Edit this exact complete film cel. Remove ALL text, lettering, lyrics and logos from the image, including blue Chinese glyphs crossing the character/hair/neck. Reconstruct only the tiny places hidden beneath lettering as continuous same hair/background/skin. KEEP the Miku character COMPLETELY unchanged: face, pupils, gaze, mouth, eyebrows, head/body size and position, all hair strand curves, twin tails, navy pink bands, coat/ball/T-shirt, precise framing, pose, palette, line art and flat source drawing style. Do not move anything or redraw the face. Output the same full 16:9 image, WITHOUT any text.",
+  "refs": [
+    "assets/hood_ball_with_text.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-d14a0565-044c-439b-971a-ef1b6167fdb3.png",
+  "adopted": "assets/hood_ball.png",
+  "status": "generated"
+}

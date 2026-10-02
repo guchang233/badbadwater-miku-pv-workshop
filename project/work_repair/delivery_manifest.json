@@ -1,0 +1,93 @@
+{
+  "baseline": "output_hd/我的悲伤是水做的_MIKU_高清重制.mp4",
+  "baseline_sha256": "d4d1699e613d421f3b77988219e28a2f0a3911a4c66223909f555a43d16fc111",
+  "source": "upload/175348148-1-208.mp4",
+  "source_sha256": "10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119",
+  "adopted_unique_cels": 34,
+  "new_imagegen_cels": 4,
+  "selected_assets": {
+    "anchor_crouch": "work_hd/assets/anchor_crouch.png",
+    "bed_sleep": "work_hd/assets/bed_sleep.png",
+    "bicycle": "work_hd/assets/bicycle.png",
+    "bike_crouch": "work_hd/assets/bike_crouch.png",
+    "bike_sit": "work_hd/assets/bike_sit.png",
+    "bowl_head": "work_repair/assets/bowl_head.png",
+    "bowl_hold": "work_hd/assets/bowl_hold.png",
+    "crouch_back": "work_hd/assets/crouch_back.png",
+    "fishing": "work_hd/assets/fishing.png",
+    "hood_ball": "work_hd/assets/hood_ball.png",
+    "hood_side": "work_hd/assets/hood_side.png",
+    "hug_knees": "work_hd/assets/hug_knees.png",
+    "hug_knees_closed": "work_hd/assets/hug_knees_closed.png",
+    "pier_back": "work_hd/assets/pier_back.png",
+    "pole_sit": "work_hd/assets/pole_sit.png",
+    "pole_stand": "work_hd/assets/pole_stand.png",
+    "ribbon": "work_hd/assets/ribbon.png",
+    "sofa_lie": "work_hd/assets/sofa_lie.png",
+    "sofa_sit": "work_hd/assets/sofa_sit.png",
+    "stand_back": "work_hd/assets/stand_back.png",
+    "stand_threequarter": "work_hd/assets/stand_threequarter.png",
+    "table_awake": "work_hd/assets/table_awake.png",
+    "table_sleep": "work_hd/assets/table_sleep.png",
+    "tank": "work_hd/assets/tank.png",
+    "trumpet_crouch": "work_hd/assets/trumpet_crouch.png",
+    "trumpet_sit": "work_hd/assets/trumpet_sit.png",
+    "water_birds": "work_hd/assets/water_birds.png",
+    "water_float": "work_repair/assets/water_float.png",
+    "water_portrait": "work_hd/assets/water_portrait.png",
+    "wind_front": "work_hd/assets/wind_front.png",
+    "wind_profile": "work_hd/assets/wind_profile.png",
+    "window_back": "work_hd/assets/window_back.png",
+    "pier_back_b": "work_repair/assets/pier_back_b.png",
+    "pier_back_c": "work_repair/assets/pier_back_c.png"
+  },
+  "reuse": {
+    "bird_crown": "water_birds"
+  },
+  "repair_ranges": [
+    [
+      342,
+      762
+    ],
+    [
+      898,
+      1038
+    ],
+    [
+      1574,
+      1710
+    ],
+    [
+      1982,
+      2177
+    ],
+    [
+      2266,
+      2405
+    ],
+    [
+      2544,
+      2678
+    ],
+    [
+      4184,
+      4456
+    ],
+    [
+      5006,
+      5274
+    ]
+  ],
+  "recomposited_frames": 1704,
+  "status": "verified_for_delivery",
+  "original_audio_preserved": true,
+  "checks": [
+    "full decode",
+    "frame count",
+    "AAC stream identity",
+    "encoded stills",
+    "paired boundaries",
+    "unaffected shot sampling"
+  ],
+  "real_time_player_review": false
+}

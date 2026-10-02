@@ -1,0 +1,415 @@
+{
+  "version": 2,
+  "source": "/workspace/scratch/739b86fca743/upload/175348148-1-208.mp4",
+  "source_sha256": "10556f56e899172260abc8bc957b1d4d3563cf860479928ff6d0e21a951be119",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "source_frames": 5422,
+  "fps": "24/1",
+  "mode": "strict_source",
+  "maximum_pts_grid_error_seconds": 0.00033333333334439885,
+  "identity_cels": 32,
+  "source_clothing_hands_props_preserved": true,
+  "source_exposures": [
+    {
+      "name": "stand_back",
+      "start": 0,
+      "end": 240,
+      "idx": 151
+    },
+    {
+      "name": "stand_threequarter",
+      "start": 240,
+      "end": 342,
+      "idx": 250
+    },
+    {
+      "name": "anchor_crouch",
+      "start": 342,
+      "end": 490,
+      "idx": 489
+    },
+    {
+      "name": "crouch_back",
+      "start": 490,
+      "end": 624,
+      "idx": 520
+    },
+    {
+      "name": "pole_sit",
+      "start": 624,
+      "end": 762,
+      "idx": 680
+    },
+    {
+      "name": "pole_stand",
+      "start": 762,
+      "end": 898,
+      "idx": 800
+    },
+    {
+      "name": "table_awake",
+      "start": 898,
+      "end": 965,
+      "idx": 930
+    },
+    {
+      "name": "table_sleep",
+      "start": 965,
+      "end": 1038,
+      "idx": 990
+    },
+    {
+      "name": "sofa_sit",
+      "start": 1165,
+      "end": 1308,
+      "idx": 1200
+    },
+    {
+      "name": "sofa_lie",
+      "start": 1303,
+      "end": 1440,
+      "idx": 1330
+    },
+    {
+      "name": "fishing",
+      "start": 1440,
+      "end": 1579,
+      "idx": 1470
+    },
+    {
+      "name": "water_float",
+      "start": 1574,
+      "end": 1710,
+      "idx": 1630
+    },
+    {
+      "name": "water_portrait",
+      "start": 1710,
+      "end": 1920,
+      "idx": 1730
+    },
+    {
+      "name": "pier_back",
+      "start": 2006,
+      "end": 2177,
+      "idx": 2060
+    },
+    {
+      "name": "wind_profile",
+      "start": 2177,
+      "end": 2195,
+      "idx": 2180
+    },
+    {
+      "name": "wind_front",
+      "start": 2195,
+      "end": 2266,
+      "idx": 2200
+    },
+    {
+      "name": "bowl_head",
+      "start": 2266,
+      "end": 2405,
+      "idx": 2300
+    },
+    {
+      "name": "bicycle",
+      "start": 2405,
+      "end": 2544,
+      "idx": 2470
+    },
+    {
+      "name": "ribbon",
+      "start": 2544,
+      "end": 2678,
+      "idx": 2600
+    },
+    {
+      "name": "tank",
+      "start": 2678,
+      "end": 2812,
+      "idx": 2740
+    },
+    {
+      "name": "window_back",
+      "start": 2812,
+      "end": 2949,
+      "idx": 2840
+    },
+    {
+      "name": "bed_sleep",
+      "start": 2944,
+      "end": 3086,
+      "idx": 3000
+    },
+    {
+      "name": "hood_side",
+      "start": 3221,
+      "end": 3358,
+      "idx": 3250
+    },
+    {
+      "name": "hood_ball",
+      "start": 3358,
+      "end": 3503,
+      "idx": 3400
+    },
+    {
+      "name": "hug_knees",
+      "start": 3503,
+      "end": 3557,
+      "idx": 3550
+    },
+    {
+      "name": "hug_knees_closed",
+      "start": 3557,
+      "end": 3634,
+      "idx": 3570
+    },
+    {
+      "name": "trumpet_crouch",
+      "start": 3688,
+      "end": 4050,
+      "idx": 3720
+    },
+    {
+      "name": "trumpet_sit",
+      "start": 4043,
+      "end": 4184,
+      "idx": 4100
+    },
+    {
+      "name": "water_birds",
+      "start": 4184,
+      "end": 4318,
+      "idx": 4240
+    },
+    {
+      "name": "bird_crown",
+      "start": 4318,
+      "end": 4456,
+      "idx": 4360
+    },
+    {
+      "name": "bowl_hold",
+      "start": 4456,
+      "end": 4599,
+      "idx": 4480
+    },
+    {
+      "name": "bike_sit",
+      "start": 5006,
+      "end": 5143,
+      "idx": 5050
+    },
+    {
+      "name": "bike_crouch",
+      "start": 5131,
+      "end": 5274,
+      "idx": 5190
+    }
+  ],
+  "output_exposures": [
+    {
+      "name": "stand_back",
+      "start": 0,
+      "end": 240,
+      "asset": "stand_back"
+    },
+    {
+      "name": "stand_threequarter",
+      "start": 240,
+      "end": 342,
+      "asset": "stand_threequarter"
+    },
+    {
+      "name": "anchor_crouch",
+      "start": 342,
+      "end": 490,
+      "asset": "anchor_crouch"
+    },
+    {
+      "name": "crouch_back",
+      "start": 490,
+      "end": 624,
+      "asset": "crouch_back"
+    },
+    {
+      "name": "pole_sit",
+      "start": 624,
+      "end": 762,
+      "asset": "pole_sit"
+    },
+    {
+      "name": "pole_stand",
+      "start": 762,
+      "end": 898,
+      "asset": "pole_stand"
+    },
+    {
+      "name": "table_awake",
+      "start": 898,
+      "end": 965,
+      "asset": "table_awake"
+    },
+    {
+      "name": "table_sleep",
+      "start": 965,
+      "end": 1038,
+      "asset": "table_sleep"
+    },
+    {
+      "name": "sofa_sit",
+      "start": 1165,
+      "end": 1308,
+      "asset": "sofa_sit"
+    },
+    {
+      "name": "sofa_lie",
+      "start": 1303,
+      "end": 1440,
+      "asset": "sofa_lie"
+    },
+    {
+      "name": "fishing",
+      "start": 1440,
+      "end": 1579,
+      "asset": "fishing"
+    },
+    {
+      "name": "water_float",
+      "start": 1574,
+      "end": 1710,
+      "asset": "water_float"
+    },
+    {
+      "name": "water_portrait",
+      "start": 1710,
+      "end": 1920,
+      "asset": "water_portrait"
+    },
+    {
+      "name": "pier_back",
+      "start": 2006,
+      "end": 2177,
+      "asset": "pier_back"
+    },
+    {
+      "name": "wind_profile",
+      "start": 2177,
+      "end": 2195,
+      "asset": "wind_profile"
+    },
+    {
+      "name": "wind_front",
+      "start": 2195,
+      "end": 2266,
+      "asset": "wind_front"
+    },
+    {
+      "name": "bowl_head",
+      "start": 2266,
+      "end": 2405,
+      "asset": "bowl_head"
+    },
+    {
+      "name": "bicycle",
+      "start": 2405,
+      "end": 2544,
+      "asset": "bicycle"
+    },
+    {
+      "name": "ribbon",
+      "start": 2544,
+      "end": 2678,
+      "asset": "ribbon"
+    },
+    {
+      "name": "tank",
+      "start": 2678,
+      "end": 2812,
+      "asset": "tank"
+    },
+    {
+      "name": "window_back",
+      "start": 2812,
+      "end": 2949,
+      "asset": "window_back"
+    },
+    {
+      "name": "bed_sleep",
+      "start": 2944,
+      "end": 3086,
+      "asset": "bed_sleep"
+    },
+    {
+      "name": "hood_side",
+      "start": 3221,
+      "end": 3358,
+      "asset": "hood_side"
+    },
+    {
+      "name": "hood_ball",
+      "start": 3358,
+      "end": 3503,
+      "asset": "hood_ball"
+    },
+    {
+      "name": "hug_knees",
+      "start": 3503,
+      "end": 3557,
+      "asset": "hug_knees"
+    },
+    {
+      "name": "hug_knees_closed",
+      "start": 3557,
+      "end": 3634,
+      "asset": "hug_knees_closed"
+    },
+    {
+      "name": "trumpet_crouch",
+      "start": 3688,
+      "end": 4050,
+      "asset": "trumpet_crouch"
+    },
+    {
+      "name": "trumpet_sit",
+      "start": 4043,
+      "end": 4184,
+      "asset": "trumpet_sit"
+    },
+    {
+      "name": "water_birds",
+      "start": 4184,
+      "end": 4318,
+      "asset": "water_birds"
+    },
+    {
+      "name": "bird_crown",
+      "start": 4318,
+      "end": 4456,
+      "asset": "water_birds"
+    },
+    {
+      "name": "bowl_hold",
+      "start": 4456,
+      "end": 4599,
+      "asset": "bowl_hold"
+    },
+    {
+      "name": "bike_sit",
+      "start": 5006,
+      "end": 5143,
+      "asset": "bike_sit"
+    },
+    {
+      "name": "bike_crouch",
+      "start": 5131,
+      "end": 5274,
+      "asset": "bike_crouch"
+    }
+  ]
+}

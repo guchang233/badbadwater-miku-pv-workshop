@@ -1,0 +1,42 @@
+"""Original-versus-repair full comparison; previous-versus-repair feedback excerpts."""
+from pathlib import Path
+import subprocess,json
+import compose_repair as c
+from render_repair import OUTPUT
+ROOT=Path(__file__).resolve().parent
+COMPARE=c.OUT/'我的悲伤是水做的_高清原版与修正版对照.mp4'
+FOCUS=c.OUT/'我的悲伤是水做的_九处修复前后对照.mp4'
+FONT='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+
+def filters(left,right,cue=''):
+    f=("[0:v]settb=expr=1/24,setpts=N,scale=960:540[a];"
+       "[1:v]settb=expr=1/24,setpts=N,scale=960:540[b];"
+       "[a][b]hstack=inputs=2:shortest=1,pad=1920:578:0:38:color=0x202e42,")
+    f+=f"drawtext=fontfile={FONT}:text='{left}':x=18:y=9:fontsize=20:fontcolor=white,"
+    f+=f"drawtext=fontfile={FONT}:text='{right}':x=978:y=9:fontsize=20:fontcolor=white"
+    if cue:f+=f",drawtext=fontfile={FONT}:text='{cue}':x=710:y=9:fontsize=20:fontcolor=0x8fd7cb"
+    return f+'[v]'
+
+ENC=['-c:v','libx264','-threads','4','-preset','medium','-crf','17','-pix_fmt','yuv420p']
+def run(cmd):subprocess.run(['ffmpeg','-v','error','-y']+cmd,check=True)
+def build():
+    run(['-i',str(c.SRC),'-i',str(OUTPUT),'-filter_complex',filters('HD ORIGINAL','MIKU REPAIRED'),
+        '-map','[v]','-map','1:a:0','-fps_mode','passthrough']+ENC+['-c:a','copy','-movflags','+faststart',str(COMPARE)])
+    print('full comparison ready',flush=True)
+    segments=[(18,23,'20s'),(27,32,'29s'),(37,44,'39s - TWO CELS'),(66,72,'1m09s'),
+        (81.5,91.5,'1m23s - 1m30s'),(94,101,'1m37s'),(105,112,'1m47s'),
+        (173,180,'2m55s'),(213,221,'3m40s')]
+    temp=ROOT/'focus_segments';temp.mkdir(exist_ok=True);paths=[]
+    for k,(a,b,cue) in enumerate(segments):
+        path=temp/f'{k:02d}.mp4';paths.append(path)
+        run(['-ss',str(a),'-i',str(c.BASE),'-ss',str(a),'-i',str(OUTPUT),
+            '-filter_complex',filters('PREVIOUS MIKU','MIKU REPAIRED',cue),'-map','[v]',
+            '-map','1:a:0','-t',str(b-a),'-r','24']+ENC+
+            ['-c:a','aac','-b:a','192k','-movflags','+faststart',str(path)])
+        print('focus segment',k+1,'of 9 ready',flush=True)
+    listing=temp/'concat.txt';listing.write_text(''.join(f"file '{p.resolve()}'\n"for p in paths))
+    run(['-f','concat','-safe','0','-i',str(listing),'-c','copy','-movflags','+faststart',str(FOCUS)])
+    (ROOT/'focus_segments.json').write_text(json.dumps([{'start':a,'end':b,'cue':q}for a,b,q in segments],indent=2))
+    print('repair comparisons ready',flush=True)
+
+if __name__=='__main__':build()

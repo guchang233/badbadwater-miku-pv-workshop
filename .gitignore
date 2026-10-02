@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.writing.zip
+/dist/
+/build/
+# Keep sources, project drawings, review evidence and delivered media tracked.
+
+# Large original media restored by prepare_media.py
+/deliverables/videos/我的悲伤是水做的_MIKU_高清修正版.mp4
+/deliverables/videos/我的悲伤是水做的_高清原版与修正版对照.mp4
+/project/output_hd/我的悲伤是水做的_MIKU_高清重制.mp4
+/project/output_repair/我的悲伤是水做的_MIKU_高清修正版.mp4
+/project/output_repair/我的悲伤是水做的_高清原版与修正版对照.mp4
+/project/upload/175348148-1-208.mp4
+/sources/175348148-1-208.mp4
+/sources/【伴奏】03.我的悲伤是水做的+mmo.wav

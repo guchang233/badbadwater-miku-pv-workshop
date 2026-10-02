@@ -1,0 +1,26 @@
+{
+  "name": "bed_sleep",
+  "start": 2944,
+  "end": 3086,
+  "idx": 3000,
+  "roi": [
+    1185,
+    570,
+    1470,
+    840
+  ],
+  "prompt": "Use case: identity-preserve. Production hand-drawn film cel. Reference 1 is the HD original PV EDIT TARGET and is authoritative for exact camera, crop, body/head/limb coordinates, pose, expression, gaze, hands, white clothes and all props/background. Reference 2 is the NEW Miku identity/style anchor ONLY; NEVER copy its standing pose or composition. Replace ONLY the white-haired protagonist with Hatsune Miku, with muted turquoise bangs/eyes and TWO long twin tails attached high on head using small navy bands with pink insets. Match the original thin irregular navy pencil lines, white flat clothing and sparse shading, pale gray-green backdrop. Preserve exact original body proportions and ALL original non-character pixels, geometry, text, cup/pole/bike/glass/water/pigeon details. No glossy anime rendering, texture, gradient or extra features. Output ONE full 16:9 film cel matching target framing. Do not scale or recenter. No white-haired original silhouette remaining. Hands and feet: preserve original gesture, precise finger contact and correct anatomy. Twin tails must obey gravity, support surfaces and occlusion, without changing pose. Specific target: Only the SMALL sleeping face and bit of hair visible under blanket on right couch. Eyes CLOSED. Keep blanket fully over body, source face angle, pillow/couch coordinates. Do NOT create a standing figure or expose more of body; tiny teal strands disappear under blanket.",
+  "refs": [
+    "work_hd/refs/frame_03000.png",
+    "work_hd/assets/stand_back.png"
+  ],
+  "generated_path": "/workspace/scratch/739b86fca743/generated_images/exec-58317730-0214-4de6-9ba2-42abae601eb9.png",
+  "status": "accepted",
+  "review": "still-frame structure, source pose and compositing review",
+  "adopted_ranges": [
+    {
+      "start": 2944,
+      "end": 3086
+    }
+  ]
+}
